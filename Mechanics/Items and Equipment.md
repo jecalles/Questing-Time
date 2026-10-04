@@ -217,11 +217,11 @@ A candied psychedelic mushroom, sour first and then sweet, native to somewhere i
 
 **As a ritual mushroom.** Lark's people reach their ancestors through the mushrooms that ate them; each kind of mushroom reaches a different realm. The Sour Patch realm is the unserious one: antagonistic, funny, "they have something to say but they're going to make you work for it."
 
-**Status:** not yet found. Letter one of Letters from Lark is the search.
+**Status:** not yet found.
 
 ## Enchanted confections — the butter trade
 
-**New at Session Zero (2026-08-29), and distinct from the three substances above.** [Finnegan](../Player%20Materials/People%20You've%20Met.md#seamus) smuggles "enchanted candy and syrupy confections" into [the Red Line](../Lore/New%20Squishnesta.md#key-locations) — magical product, tied somehow to the [College of Mages](../Lore/Factions.md#the-college-of-mages) (not the Munchkin-drug trade the three substances above cover). Named lines so far:
+**New at Session Zero (2026-08-29), and distinct from the three substances above.** [Finnegan](../NPC%20Sheets/Seamus.md) smuggles "enchanted candy and syrupy confections" into [the Red Line](../Lore/New%20Squishnesta.md#key-locations) — magical product, tied somehow to the [College of Mages](../Lore/Factions.md#the-college-of-mages) (not the Munchkin-drug trade the three substances above cover). Named lines so far:
 
 - **Butterbeer** and **butter-rum** — run by [Bill the Butcher](../Lore/Factions.md#the-butcher) out of the eastern Red Line.
 - **Butterscotch** — cornered by [Bramblebeard Thramplesnatch](../Lore/Factions.md#the-bootleggers), the Bootlegger boss.

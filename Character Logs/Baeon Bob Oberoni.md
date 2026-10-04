@@ -51,3 +51,13 @@ Suggested whacking the three gangsters and heard three safeties click off. Commu
 - Proposed breaking into Dean Alistair's study. Now watching Seamus.
 
 **State at close:** Health Normal · Tokens 5 · Gold 20 (+20 in the group fund).
+
+## Session Five (2026-09-30)
+
+- Cast his first spell: waved his hands the way Snarfa did, and a glowing blue dome came down over the couch. It stayed where he cast it and muffled everything at its edge. The party talked inside it.
+- Met Ra, who called him brother and shed a single tear. Bob let himself be comforted, tense. Knows the Sun lights the Moon; kept it to himself.
+- Moshed, drunk, into Ra's beam: Constitution 4 against 43. Burned away from the waist up. His third death.
+- Stood before the figure with the scales again. His heart sank again; the figure wept, and the Moon held its head: "Darling, he'll get it one day." She told Bob it was a wonderful spell, that he asked nicely, and that he should do it more. Yuhai told him to cast for her majesty; she shook her head.
+- Woke in the quad, naked and covered in sand, beside his own body: legs, and bare skeleton from the waist up. Sat there with Alistrassa.
+
+**State at close:** Health Normal · Tokens 8 · Deaths 3 · Gold 20 (+20 in the group fund).

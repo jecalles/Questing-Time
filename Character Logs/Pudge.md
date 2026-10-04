@@ -41,3 +41,18 @@ Asked Finnegan the practical questions (which way is the College, which way is B
 - Away (Alyssa absent). Went to answer Mark Thornbush's chit in person.
 
 **State at close:** unchanged — Health Normal · Tokens 7 · Gold 20 (+20 in the group fund).
+
+## Session Five (2026-09-30)
+
+- Went down to the Groundskeeping office. Wardens' placards hang on hooks along the hallway; his is one of them.
+- Lied to Mark Thornbush for the first time: Finnegan slipped away in the Hamlet crowd, and the envelope with him. Thornbush believed him — Pudge "would never tell a lie."
+- Was given the same order four times: get the envelope to Finnegan, confirm he has it, report back, and ideally have him open it in the Hamlet tavern. The reward: a Saturday off and a ticket to Seaside. "This is the first time you failed me in years."
+- Left feeling sick. Noticed that Thornbush insisted Finnegan receive the envelope, and cared less whether he opened it.
+- Counted three placards left on the stairs: his own, N0008, and N0241 with a red X through it. Will think on it later.
+- Found the envelope in his own coat. He had it all along.
+- Had the foresight to stop the party talking in the open (19 on a D8). Bob's dome went up, and he told them everything inside it.
+- Knew Hamlet for what it is: no police, three deaths in three years, all natural. A murder there gets talked about, not investigated.
+- Remembered, with Alistrassa, that every magical writing in his life has been blue. The rune is black.
+- Took Seamus's rope from Iter and carries him like a handbag. Noticed Snarfa sings a little too well. Met Ada Crane.
+
+**State at close:** Health Normal · Tokens 5 · Gold 20 (+20 in the group fund).

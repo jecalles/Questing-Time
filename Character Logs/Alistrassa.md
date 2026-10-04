@@ -48,3 +48,15 @@ Sheet: [Alistrassa](../Player%20Sheets/Alistrassa.md).
 - Asked Martha to look into the sand, as the start of a paper.
 
 **State at close:** Health Normal · Karma Normal · Tokens 3 · Gold 0.
+
+## Session Five (2026-09-30)
+
+- Gave Penny the umbrella canvas, Iter's parasol and a cup of herbal tea. Penny is studying runic projection mapping.
+- Remembered, with Pudge, that every magical writing she has seen is blue. The rune is black.
+- Told Iter her theory: elves and drow come back as Illuminated beings, and a drow was probably a demon last time. Her own soul is rotting, so not her. Saved the notebook from a glass of wine.
+- Planned a 23-rune light shell and built the stage with the mages over an hour. Ra fired before Calliope's last song: eleven runes cut.
+- Saw the beam split between Restoration's spire and Conjuration's, over the dungeons: "This is not good." Asked Snarfa, through Iter, to stop Ra. He would not: "he just killed Bob."
+- Walked a salt circle round a "student" in a Hawaiian shirt, spotted with Iter (three tokens between them). A demon's head later bounced inside it without end. Read the student, Ada Crane, as deceitful but not malicious.
+- Sat with Bob beside his half-skeleton.
+
+**State at close:** Health Minor · Karma Normal · Tokens 4 · Gold 0.

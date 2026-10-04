@@ -20,7 +20,7 @@ The Shire's agricultural output is mostly monocropping under somewhat austere pr
 
 # Key Locations
 
-**The Tavern**: formerly the Broken Drum, then the Mended Drum, then the Battered Drum, and finally just the Tavern after they gave up on fixing it. In Session Zero the GM used **"the Battered Drum"** as the current formal name. Sits close to the General Market and the Commons, not far from the Red Line. Owned and run by Bob, going by "Robert". This is also where the Session Zero fetch-quest flyer is posted and where [Finnegan Bramblebush](../Player%20Materials/People%20You've%20Met.md#seamus) works, handing the contract to whoever answers it. Not to be confused with Hamlet's tavern in Squishnestashire, a separate, established location — see [Hamlet](../Lore/Questing%20Time!%20Geography.md#hamlet).
+**The Tavern**: formerly the Broken Drum, then the Mended Drum, then the Battered Drum, and finally just the Tavern after they gave up on fixing it. In Session Zero the GM used **"the Battered Drum"** as the current formal name. Sits close to the General Market and the Commons, not far from the Red Line. Owned and run by Bob, going by "Robert". This is also where the Session Zero fetch-quest flyer is posted and where [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md) works, handing the contract to whoever answers it. Not to be confused with Hamlet's tavern in Squishnestashire, a separate, established location — see [Hamlet](../Lore/Questing%20Time!%20Geography.md#hamlet).
 
 **The Castle**: the seat of culture and power. Aristocratic, gaudy, insular. 
 
@@ -70,7 +70,7 @@ Full entries: [Factions](../Lore/Factions.md).
 
 **The College of Mages** - canonizes the Derived Magics. The dominant political faction of the City, open to mages of any race. The building: [The College of Mages](../Lore/The%20College%20of%20Mages.md). [Faction](../Lore/Factions.md#the-college-of-mages)
 
-**The founding.** Before New Squishnesta there was **Munchkinland**: the Munchkins' ancestral home, idyllic as they remember it, peaceful and largely ineffectual. Old Munchkins still call the Red Line by the old name — [the Don](../Player%20Materials/People%20You've%20Met.md#don-aldo-zuccaro) does it to the party's face. The **College was co-founded first**, by human and elven settlers, before there was a city at all. A local government emerged around it and grew, until it was large enough to found a city, which it called New Squishnesta.
+**The founding.** Before New Squishnesta there was **Munchkinland**: the Munchkins' ancestral home, idyllic as they remember it, peaceful and largely ineffectual. Old Munchkins still call the Red Line by the old name — [the Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md) does it to the party's face. The **College was co-founded first**, by human and elven settlers, before there was a city at all. A local government emerged around it and grew, until it was large enough to found a city, which it called New Squishnesta.
 
 The story the humans tell is harmonious: they came upon Munchkins who were generous with their land, the two civilisations coexisted peacefully, and the humans simply developed faster while the Munchkins stagnated.
 
@@ -86,7 +86,7 @@ The story the humans tell is harmonious: they came upon Munchkins who were gener
 
 **Bob (name TBD)** - Not to be confused with Ash's character, a different Bob entirely. Publicly owns and runs [the Tavern](#key-locations), going by "Robert." Stats; [Well Connected](../Mechanics/Abilities.md#well-connected)
 
-**Finnegan Bramblebush** - half Munchkin, half human, works out of [the Tavern](#key-locations). Hands out the Session Zero fetch-quest contract. [Stats](../Player%20Materials/People%20You've%20Met.md#seamus)
+**Finnegan Bramblebush** - half Munchkin, half human, works out of [the Tavern](#key-locations). Hands out the Session Zero fetch-quest contract. [Stats](../NPC%20Sheets/Seamus.md)
 
 # Plot Lines
 

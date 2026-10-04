@@ -93,11 +93,11 @@ Holders: [Slo Mo](../Player%20Materials/People%20You've%20Met.md#slo-mo), Bill t
 
 ## Magical Dampening
 
-Any spell cast within the holder's own zone — friendly or enemy — is fully abjured, unless the holder has deliberately attuned to that caster first (e.g. a teammate). A spell cast from one zone away instead requires the caster to pass a DC 10 proactive spell check to land at all.
+The runes soak any spell cast at the holder at **Common** level or below, friendly or enemy: it does nothing to him. A spell cast at **Greater** or above gets through, whether from a Greater caster or from a Common one who spends slots to push it up. The runes do nothing to spells that are not aimed at the holder: magic cast near him works as usual.
 
 **Drawback.** The holder cannot be healed by magic while in combat. Removing the armor/rune, or a long rest, is required before magic can heal them outside combat.
 
-**Exceptions.** The dampening field only stops spells moving through the air around the holder — it does nothing against magic that enters the body directly. Drunk or ingested potions, and magical or poison-tipped arrows, affect the holder normally.
+**Exceptions.** The runes only stop spells cast at the holder through the air. They do nothing against magic that enters the body directly. Drunk or ingested potions, and magical or poison-tipped arrows, affect the holder normally.
 
 Holder: [Pudge](../Player%20Sheets/Pudge.md).
 
@@ -161,7 +161,7 @@ When a player rolls Instinct to detect emotional deception ("Insight"), the roll
 
 Charges do not carry over between encounters. Leaving and re-entering resets them, and the holder rerolls — possibly lower.
 
-Wisdom checks against factual inconsistency are unaffected by this ability, and may still succeed. The holder rarely gives a player anything to catch that way. A successful Wisdom check does nothing mechanical — it's pure player-facing suspicion, narratively real but with no sheet effect. [The Don](../Player%20Materials/People%20You've%20Met.md#don-aldo-zuccaro) holds it openly — on a man that old, answering honestly and telling you nothing is the joke. It may be assigned to other characters later.
+Wisdom checks against factual inconsistency are unaffected by this ability, and may still succeed. The holder rarely gives a player anything to catch that way. A successful Wisdom check does nothing mechanical — it's pure player-facing suspicion, narratively real but with no sheet effect. [The Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md) holds it openly — on a man that old, answering honestly and telling you nothing is the joke. It may be assigned to other characters later.
 
 ## Hubrisy
 
@@ -354,11 +354,11 @@ Grants casting access to Innate magic, and opens the innate progression the way 
 
 The difference is where the access comes from. A Sorcerer casts innately because of what they practise. A holder of this ability casts innately because of **what they are**: their rank on the [Karmic Order](../Lore/Magic%20System.md#the-karmic-order), named in the parenthetical. It is not learned and cannot be taught.
 
-A character may hold this alongside a learned channel, and one is not a cover for the other. [Snarfa](../Player%20Materials/People%20You've%20Met.md#snarfa) holds both this and [Wizardry](#wizardry): he studied abjuration properly, and his innate Celestial casting is the stronger hand by a wide margin.
+A character may hold this alongside a learned channel, and one is not a cover for the other. [Snarfa](../NPC%20Sheets/Snarfa.md) holds both this and [Wizardry](#wizardry): he studied abjuration properly, and his innate Celestial casting is the stronger hand by a wide margin.
 
 **Every Celestial has two faces** — a person's shape in the Celestial Sphere, a heavenly body in the material world (see [The Immaterial Planes](../Lore/Magic%20System.md#the-immaterial-planes)). This block describes the manifested, material-world body, and that body can be killed.
 
-**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. [Snarfa](../Player%20Materials/People%20You've%20Met.md#snarfa) is a Greater Celestial manifesting in a real way: "if he dies in the real world, he dies in real life." Ra, a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
+**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. [Snarfa](../NPC%20Sheets/Snarfa.md) is a Greater Celestial manifesting in a real way: "if he dies in the real world, he dies in real life." Ra, a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
 
 **The killer takes a karmic consequence too**, keyed to the relationship: amplificatory if the two were enemies, diminishing if they were allies. Killing an allied Celestial is a betrayal in the karmic sense even when it is also a tactical necessity.
 
@@ -479,7 +479,7 @@ Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 - **Speaking ends the concealment** for as long as the target keeps it up, and anyone nearby may roll to perceive them.
 - **Does not end on the target attacking or casting** — unlike ordinary invisibility, it holds through aggressive action.
 
-Demonstrated by: [Snarfa](../Player%20Materials/People%20You've%20Met.md#snarfa) (cast on Bob for the depot climb, where the climb into the car still took its Prowess roll).
+Demonstrated by: [Snarfa](../NPC%20Sheets/Snarfa.md) (cast on Bob for the depot climb, where the climb into the car still took its Prowess roll).
 
 # Open Rulings
 

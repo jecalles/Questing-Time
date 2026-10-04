@@ -9,7 +9,7 @@ tags: [player-reference, magic-system]
 
 A six-foot high elf in robes who walked into the College on her first day and went straight for a dean. She is dying of a karmic wasting disease — her soul is rotting, and when she dies there is no Celestial waiting — and every innate cast she makes brings it closer, so she has taken up the human way: books, ink, runes, and the calligraphy of them. Sharp, frantic, polite to a fault, envious of anyone relaxed. Wears glasses with slide-in lenses, one of which is a spell. Winded halfway down a flight of stairs.
 
-**Now:** Health **Normal** · Karma **Normal** · Tokens **3** · Gold **0** (flat broke; the College account covers materials) · as of Session Four (2026-09-24). Log: [Alistrassa](../Character%20Logs/Alistrassa.md).
+**Now:** Health **Minor** · Karma **Normal** · Tokens **4** · Gold **0** (flat broke; the College account covers materials) · as of Session Five (2026-09-30). Log: [Alistrassa](../Character%20Logs/Alistrassa.md).
 
 ## STATS
 
@@ -37,11 +37,11 @@ A six-foot high elf in robes who walked into the College on her first day and we
 
 **Glasses with slide-in lenses.** One lens hard-encodes her identify: looking through it filters what is relevant to her and makes it legible. Passive; no karmic cost. See [Alistrassa's Lenses](../Mechanics/Items%20and%20Equipment.md#alistrassas-lenses).
 **Fifty etched lenses** — not failures: an assembly line, fifty-one in a row without a miss. Geometric basis functions that between them span the common runes; greater runic spells may need new ones cut. No single lens encodes a spell; set two or more at angles to each other in the light path and the geometry of the illumination inscribes a pattern. The experiment worked. Her work now is discovering inscriptions and geometries. See [Alistrassa's Lenses](../Mechanics/Items%20and%20Equipment.md#alistrassas-lenses).
-**The projector notes** — with Penny: a stage of heat-resistant pipe, Muriel's transmittative ink, a folio slate, and the theory of a reprogrammable rune projector built from stacked primitives. A blueprint, not a device.
+**The projector** — a light shell, now specified and half-built: 23 runes on reflectors, amplifiers and filters riding optically guided tracks, to repel, attract, defuse, infuse and enlarge. Finished, it casts a protective shell around her. Eleven runes were cut in Ra's beam at Session Five; the other twelve need a divine beam. Behind it, the notes she made with Penny: a stage of heat-resistant pipe, Muriel's transmittative ink, a folio slate, and the theory of a reprogrammable rune projector built from stacked primitives.
 **A notebook** of collaborators and the outline of a paper. **Robes.** (The dean's folio went into the lenses.)
 **Intro texts, borrowed by chit:** Basic Runes; Inscription; Incantation; Metamath Magics; Transform Theory; a town-library book on glasswork.
 **Blunderbuss** — one of Iter's two, from the depot. She is not sure which end goes where.
-**A cloak**, half-inscribed with common abjuration runes, and canvas, both on the College account. What the runes do is settled on the between-session roll.
+**A cloak**, half-inscribed with common abjuration runes, on the College account. Penny may take it on once Iter's parasol is done. What the runes do is not yet settled.
 
 ## ALIGNMENT
 
@@ -57,5 +57,5 @@ A six-foot high elf in robes who walked into the College on her first day and we
 
 ## LAST BEAT
 
-Session Four: was handed one of Iter's looted blunderbusses and was wrong about which end goes where. Showed Bob the list. Concluded aloud that the College is laundering money through Procurement, then, inside Snarfa's privacy shield, told the party that Dean Alistair sent her to them and that she is disposable. Proposed the arm. Has the runes for a lens-and-mirror projector but not the engineering; inscribing a cloak meanwhile. Asked Martha to look into the sand, as a paper. See [Alistrassa](../Character%20Logs/Alistrassa.md).
+Session Five: gave Penny the canvas, Iter's parasol and a cup of herbal tea. Remembered that every magical writing she has seen is blue, and the rune is black. Planned a light shell for the end of the night, and Ra fired early: eleven of twenty-three runes cut, a hole in the quad, Bob dead, and the dungeons under Conjuration breached. She saw it coming on a Wisdom roll and asked Snarfa, through Iter, to stop him. Walked a salt circle round a suspicious student, who turned out to be Ada Crane: deceitful, she judged, but not malicious. See [Alistrassa](../Character%20Logs/Alistrassa.md).
 

@@ -9,7 +9,7 @@ tags: [player-reference, magic-system, ability]
 
 A half-giant in a journeyman's leather armour the College gave him, carrying a two-handed hammer made from the tusk or femur of something large and magical. Big, quiet and hard to rattle — pleas and threats slide off him the way spells do. He is the College's Warden, sent along with the party to make sure their quest succeeds, and he says so. Magic near him fails: the runes in his armour dampen every spell cast in his zone, friend or enemy, unless he has attuned to the caster first. He watches more than he talks, and the party has learned that when he does talk it is a practical question. He opened the envelope in Hamlet himself, and his armour ate a death rune that would have killed anyone else.
 
-**Now:** Health **Normal** · Tokens **7** · Gold **20** (+20 in the group fund) · as of Session Three (2026-09-16). Log: [Pudge](../Character%20Logs/Pudge.md).
+**Now:** Health **Normal** · Tokens **5** · Gold **20** (+20 in the group fund) · as of Session Five (2026-09-30). Log: [Pudge](../Character%20Logs/Pudge.md).
 
 ---
 
@@ -32,7 +32,7 @@ A half-giant in a journeyman's leather armour the College gave him, carrying a t
 
 See [Abilities](../Mechanics/Abilities.md) for full entries.
 
-**[Magical Dampening](../Mechanics/Abilities.md#magical-dampening)** — his signature. Fully abjures any spell, friendly or enemy, cast in his own zone, unless he is deliberately attuned to that caster. A spell cast from one zone away needs a DC 10 proactive spell check to land at all. Granted by a rune in his armour, not by race. The cost: he cannot be healed by magic in combat, and he is fully vulnerable to potions and to magical or poisoned arrows — the dampening does not stop what enters his body.
+**[Magical Dampening](../Mechanics/Abilities.md#magical-dampening)** — his signature. Any spell cast at him at Common level or below, friendly or enemy, soaks into the runes and does nothing. A spell cast at Greater or above gets through. Spells not aimed at him work as usual around him. Granted by a rune in his armour, not by race. The cost: he cannot be healed by magic in combat, and he is fully vulnerable to potions and to magical or poisoned arrows — the dampening does not stop what enters his body.
 
 **[Beefy](../Mechanics/Abilities.md#beefy)** — racial. Major damage reads as Minor on his Health track. May need a Prowess check to fit through small spaces. Advantage on Intimidation.
 
@@ -65,7 +65,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Three: took sustained fire and Halvard Ironspur's twin swords with minimal damage, lifted a wrecked train car with the man who had been shooting at him still inside, and put Halvard down. Re-grappled and re-tied Finnegan after he slipped his ropes. **Wrote "yes and yes" to Mark Thornbush's chit and could not send it** — he is not magical, and the paper fell where Iter and Alistrassa read it. Session Four (away): went to answer Thornbush in person. Full log: [Pudge](../Character%20Logs/Pudge.md).
+Session Five: went down to Mark Thornbush and lied to him for the first time — Finnegan slipped away in the Hamlet crowd, and the envelope with him. Thornbush believed him, and gave the same order a fourth time: get the envelope to Finnegan, and report back. A Saturday off and a ticket to Seaside if he does. On the stairs he read three placards on hooks: his own, N0008, and N0241 crossed out in red. Found the envelope in his own coat. Told the party everything, inside Bob's dome. Now carries Seamus on a rope. Full log: [Pudge](../Character%20Logs/Pudge.md).
 
 ---
 

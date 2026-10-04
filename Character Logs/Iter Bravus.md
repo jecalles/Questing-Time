@@ -51,3 +51,15 @@ Sent Finnegan off to pick a flower so the party could talk, and lost him to thre
 - Traded Penny two books for abjuration runes on her parasol.
 
 **State at close:** Health Normal · Tokens 4 · Gold 20 (+20 in the group fund).
+
+## Session Five (2026-09-30)
+
+- Handed Seamus's rope to Pudge.
+- Read Snarfa as hopelessly smitten with Calliope.
+- Led a drow dance through the quad; a large crowd followed her.
+- Talked karma with Alistrassa. At fifty, she wonders if this is her first life.
+- When Ra's beam went wrong, carried Alistrassa's words to Snarfa.
+- Spotted the odd "student" in the Hawaiian shirt with Alistrassa (three tokens between them to beat the DC), and met Ada Crane.
+- Caught Snarfa when he stumbled, kissed him, and left with him. Calliope saw, and turned away; only Iter noticed.
+
+**State at close:** Health Minor · Tokens 5 · Gold 20 (+20 in the group fund).

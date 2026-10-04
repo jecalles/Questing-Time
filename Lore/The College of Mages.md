@@ -9,16 +9,16 @@ The seat of Derived magic in [New Squishnesta](../Lore/New%20Squishnesta.md), ab
 
 # The Hexagon
 
-Six schools, a spire each, small rooms off every spire, one shared quad in the middle. Perhaps thirty academics, plus students, clerks, and one super senior. Books on every shelf of every hall: the whole place is the library, and the schools are its wings. Worn wooden stairs and good carpet in every spire. Floating stones in the busy stairwells, with a queue. Anything that can fly, flies.
+Six schools, a spire each, small rooms off every spire, one shared quad in the middle. About thirty academics, a hundred to two hundred students, clerks, and one super senior. Books on every shelf of every hall: the whole place is the library, and the schools are its wings. Worn wooden stairs and good carpet in every spire. Floating stones in the busy stairwells, with a queue. Anything that can fly, flies.
 
 | School | What you find there | Who |
 | --- | --- | --- |
-| **Restoration** | The clinic: bumps and bruises below, surgery above. The dean's study up the spire. A karmic-restoration desk stacked with a dead man's case files. | [Dean Alistair](../Player%20Materials/People%20You've%20Met.md#dean-alistair); [Tim Aboul](../Player%20Materials/People%20You've%20Met.md#tim-aboul) at the clinic; Dartha at the dean's door |
-| **Abjuration** | The calmest room in the College. Rune-stone couches, tea, a writing room with ink and quills, intro texts, a seminar on the board. If the College is ever attacked, everyone falls back here. | [Snarfa](../Player%20Materials/People%20You've%20Met.md#snarfa) at the clerk's desk; [Penny](../Player%20Materials/People%20You've%20Met.md#penny) in the writing room |
+| **Restoration** | The clinic: bumps and bruises below, surgery above. The dean's study up the spire. A karmic-restoration desk stacked with a dead man's case files. Under the spire, a fey wellspring. | Dean Alistair; [Tim Aboul](../Player%20Materials/People%20You've%20Met.md#tim-aboul) at the clinic; Dartha at the dean's door |
+| **Abjuration** | The calmest room in the College. Rune-stone couches, tea, a writing room with ink and quills, intro texts, a seminar on the board. If the College is ever attacked, everyone falls back here. | Snarfa at the clerk's desk; [Penny](../Player%20Materials/People%20You've%20Met.md#penny) in the writing room |
 | **Transmutation** | Laboratories. Reaction chambers, cauldrons, glass furnaces, glass boxes with something changing inside, a tool shop, a dark room behind black curtains. Lab coats on humans, an elf and a gnome. "We helped build the train lines." | Lartha at the desk; [Eustace](../Player%20Materials/People%20You've%20Met.md#eustace) and [Muriel](../Player%20Materials/People%20You've%20Met.md#muriel) at the bench |
 | **Evocation** | An amphitheatre of charred cobblestone panels where the fire wizards practise. A cold plunge for afterwards. | Victoria Ashburne, the dean; [Jeff](../Player%20Materials/People%20You've%20Met.md#jeff) |
 | **Divination** | The College's archaeology: the obsidian, the digs. Not yet walked. | — |
-| **Conjuration** | Not yet walked. | — |
+| **Conjuration** | Not yet walked. Dungeons underneath: trapped creatures, demons. When something gets out, Conjuration feeds the deep — a Kraken comes down through a portal, upside down, and takes it. | — |
 
 **The offices** are not schools. They sit on the Bureaucratic Council, below, and the day-to-day runs through them.
 
@@ -30,7 +30,7 @@ Six schools, a spire each, small rooms off every spire, one shared quad in the m
 
 **The Academic Council.** Six deans, one per school, nothing above them. A vacancy is filled by the other five, by election. They hold a **courtesy seat in government** for ruling on magical affairs, which rarely comes up; otherwise, administration. **All elves** but one: Victoria Ashburne, Dean of Evocation, a human sorcerer. Few evocation wizards will sit still to *study* — it is a vibe-based practice — so the chair goes to whichever sorcerer is too powerful to refuse.
 
-**The courtesy seat is a real appointment.** The Council elects one of its six as **Chair**, and the Chair is the face New Squishnesta City Council actually sees. Right now that is [Dean Alistair](../Player%20Materials/People%20You've%20Met.md#dean-alistair), sitting the seat for all six.
+**The courtesy seat is a real appointment.** The Council elects one of its six as **Chair**, and the Chair is the face New Squishnesta City Council actually sees. Right now that is [Dean Alistair](../NPC%20Sheets/Dean%20Alistair.md), sitting the seat for all six.
 
 **The Bureaucratic Council.** Procurement, Ways and Means, Groundskeeping, Accounting, and more as needed. On paper it answers to the Academic Council, and the College's magical charter would enforce that. In practice the wizards are airheads with no attention for the day-to-day, so the Bureaucratic Council runs the place, and **most of the worldly power sits here.** Largely human.
 
@@ -56,7 +56,7 @@ Six schools, a spire each, small rooms off every spire, one shared quad in the m
 - **The Abjuration floor.** A thirty-foot cone melted into it. Snarfa's friend Ra, once.
 - **The amphitheatre.** Charred stone, fire wizards letting off steam, one of them in a bucket.
 - **Transmutation's labs and tool shop.** Where a thing gets made once someone has decided what it is.
-- **The quad.** Hacky sack, and the party when there is one.
+- **The quad.** Hacky sack, and the party when there is one. A plug of new stone where Ra's beam went through.
 - **The public reading room.** The College's common library, semi-public, written from the College's own lens; read it against the grain with an Instinct or Wisdom roll. A visitor desk inside the door, where a clerk stamps visitor chits.
 - **The restricted libraries.** Internal, for the dark and restricted arts. Not for visitors. Nobody outside says where.
 - **The basement.** Under the College. Mark Thornbush briefed Pudge down here.
@@ -79,7 +79,7 @@ Who you meet, and where they are. Blocks in Named Characters.
 | Jeff, fire | the amphitheatre |
 | Martha Woolsworth | Procurement |
 | Mark Thornbush, Pudge's handler | the basement |
-| Ada Crane, Castle investigator (not College) | the halls |
+| Ada Crane, Castle inspector (not College) | upstairs in Abjuration, with her books |
 | Ellis, glassmaker (not College) | the south end of town, by the Red Line |
 | Ra, the sun god (not College) | wherever Snarfa's party is |
 
@@ -89,12 +89,14 @@ Who you meet, and where they are. Blocks in Named Characters.
 
 # What's Going On Now
 
-- **The party holds a red velvet couch in Abjuration.** Two bottles of Snarfa's sixty-year Sylvan, one empty. Two blunderbusses nobody here can work. Tied at the couch's leg: a blonde, flat-nosed, silent Munchkin the party calls Seamus.
+- **A plug of stone in the quad.** Ra's beam bored through into Conjuration's dungeons. Transmutation poured sand into the hole and it set as stone on the way down. Beside it stands what is left of Bob's last body: legs, and bare skeleton from the waist up.
+- **Snarfa's party is winding down.** A floating stage, eleven cut lenses, a crowd that thinks the demons were part of the show. Ra is still here, tripping. Snarfa is out of slots.
 - **Finals.** The end of the semester. White tea to black, brisk walks for ink, an abjuration shield round a first-year sitting her midterm.
-- **Snarfa is on his phone**, planning a party. Ra is coming.
-- **Penny's runes are drying** on Iter's parasol.
+- **The party holds a red velvet couch in Abjuration.** Two bottles of Snarfa's sixty-year Sylvan, one empty. Two blunderbusses nobody here can work. Seamus — blonde, flat-nosed, silent — goes where Pudge goes, on a rope.
+- **Penny has Iter's parasol**, a length of umbrella canvas, and a book on runic projection mapping.
 - **Martha has a pinch of sand** and a note to look into it, somewhere under the day's chits.
-- **Pudge has gone to find his handler.**
-- **The College is tidying.** The archway seal is fresh. The right meetings are cancelled. A Castle investigator, Ada Crane, walks the halls.
+- **Pudge is back from the basement**, the envelope still in his coat. Thornbush wants word that Finnegan has it.
+- **The College is tidying.** The archway seal is fresh. The right meetings are cancelled.
+- **Ada Crane is coming back.** A Castle inspector, out of her student disguise, gone for her books. She meets the party upstairs in Abjuration within the hour. See [Ada Crane](../NPC%20Sheets/Ada%20Crane.md).
 - **Something is being built**, by the Don's account, and the College wants regulation pushed through city hall. Nobody inside has said what.
 

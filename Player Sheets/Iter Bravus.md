@@ -11,7 +11,7 @@ tags: [player-reference, magic-system, ability]
 
 A dark elf of about fifty, which is young, in a long white Edwardian dress, lace and loose-cut, torn in places and spotted with black mould that matches her hair — and never without her sunglasses or a long black parasol that always looks like it is dripping. She carries herself like nobility, and talks like a pretentious high elf on purpose, to people who least expect a rebel to sound that way. She is the party's healer, and heals the way other people pick fights: it is her rebellion. Fragile as glass up close, so she stays at range and sends mushrooms in. Prays to someone she calls the Red Lady, whom she reaches through fungus and long conversation. Her name means "bad trip," and she is in on the joke.
 
-**Now:** Health **Normal** · Tokens **4** · Gold **20** (+20 in the group fund) · as of Session Four (2026-09-24). Log: [Iter Bravus](../Character%20Logs/Iter%20Bravus.md).
+**Now:** Health **Minor** · Tokens **5** · Gold **20** (+20 in the group fund) · as of Session Five (2026-09-30). Log: [Iter Bravus](../Character%20Logs/Iter%20Bravus.md).
 
 ---
 
@@ -52,7 +52,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 **The dress** — long, white, Edwardian lace; loose-cut and made for summer, ripped now and mould-spotted. No mechanical effect. It is the visual thesis of the character.
 
-**Parasol** — long, black, always dripping. A weapon: a plain one-handed **Prowess** attack, piercing. See [Iter Bravus's Parasol](../Mechanics/Items%20and%20Equipment.md#iter-bravuss-parasol). Warded by Penny with common abjuration runes at Session Four; what the wards do is settled on the between-session roll.
+**Parasol** — long, black, always dripping. A weapon: a plain one-handed **Prowess** attack, piercing. See [Iter Bravus's Parasol](../Mechanics/Items%20and%20Equipment.md#iter-bravuss-parasol). Warded by Penny with common abjuration runes. Penny has it, with new canvas, and finishes the runes by the time the party is back in Abjuration. What the wards do is not yet settled.
 
 **Blunderbuss** — one of two looted from the train pirates at the depot. She carried both in her skirt and gave the other to Alistrassa. Abjuration's wards push against it.
 
@@ -81,7 +81,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 ## LAST BEAT
 
-Session Four: sent Munge to the Don with a promise to bring Finnegan once healed, and a hand on his arm. Produced two looted blunderbusses from her skirt and gave one to Alistrassa; Abjuration's wards nearly took hers apart. Spent most of her tokens buying the party a read on Hamlet — not the Don's work, or not with his knowledge. Asked Snarfa to give Finnegan a new face, and then to stop him saying his name; he is now Seamus, and mute. Traded Penny two books for abjuration runes on her parasol. Full log: [Iter Bravus](../Character%20Logs/Iter%20Bravus.md).
+Session Five: handed Seamus's rope to Pudge. Read Snarfa as smitten with Calliope, and led a drow dance with a crowd behind her. Talked karma with Alistrassa. Carried Alistrassa's words to Snarfa when Ra's beam went wrong. Spotted Ada Crane in her bad disguise. At the end of the night she caught Snarfa, kissed him, and left with him; Calliope saw, and turned away, and only Iter noticed. Full log: [Iter Bravus](../Character%20Logs/Iter%20Bravus.md).
 
 ---
 

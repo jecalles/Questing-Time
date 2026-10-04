@@ -46,7 +46,7 @@ The College keeps many archaeologists and geologists, and is very interested in 
 
 **Player-facing framing.** In play the College reads as "the Harvard of the wizarding world" — an educational body *and* a continent-spanning political power, governing the derived/book magics. Its seat sits beside the Castle in the capital; the seal above one of its archways is the same seal that was on the assassination envelope.
 
-**The building.** A hexagon of six schools, a spire each, one quad, abutting the Castle — walked in full by [Alistrassa](../Player%20Sheets/Alistrassa.md) over four months. The place, its people and its chit economy are in [The College of Mages](../Lore/The%20College%20of%20Mages.md), which also holds its two governing bodies: the elven **Academic Council** of six deans, and the largely human **Bureaucratic Council** where the worldly power sits. One dean is named for the players: [Alistair](../Player%20Materials/People%20You've%20Met.md#dean-alistair) of Restoration. Snarfa, the super senior, has been a student for fifty years.
+**The building.** A hexagon of six schools, a spire each, one quad, abutting the Castle — walked in full by [Alistrassa](../Player%20Sheets/Alistrassa.md) over four months. The place, its people and its chit economy are in [The College of Mages](../Lore/The%20College%20of%20Mages.md), which also holds its two governing bodies: the elven **Academic Council** of six deans, and the largely human **Bureaucratic Council** where the worldly power sits. One dean is named for the players: [Alistair](../NPC%20Sheets/Dean%20Alistair.md) of Restoration. Snarfa, the super senior, has been a student for fifty years.
 
 - **Wants**: no single want. The College is its councils and its deans, and each wants its own thing.
 - **Fronts**: a building abutting [the Castle](../Lore/New%20Squishnesta.md#key-locations) — not inside it.
@@ -54,7 +54,7 @@ The College keeps many archaeologists and geologists, and is very interested in 
 - **Clues**: TBD.
 - **Current Move**: **the tidy after the Hamlet job.** The envelope was a one-shot death rune meant for Finnegan Bramblebush, and it failed (see below). Since then: the seal on the archway has been re-carved; the right meetings have been cancelled; a Castle investigator can be seen exploring the halls; and nobody inside will decide whether the loose ends are still worth killing. The party is the spanner in the works. Also live: the College is "doing some construction" and, by the Don's account, wants regulation pushed at city hall.
 
-**What Session Zero exposed.** The party ran the envelope and opened it. It was a one-shot death rune — "a sloppy assassination," a single common-script death incantation — meant to kill whoever read it. It was handed to [Finnegan Bramblebush](../Player%20Materials/People%20You've%20Met.md#seamus) disguised as "the deeds of [his] new farmstead": **the College tried to have Finnegan killed.** Finnegan is a magical smuggler who has been working with elements of the College — moving magical items, and mostly enchanted candy and syrupy confections (see [Enchanted confections — the butter trade](../Mechanics/Items%20and%20Equipment.md#enchanted-confections--the-butter-trade)), into [the Red Line](../Lore/New%20Squishnesta.md#key-locations) — for the promise of land. The party left Session Zero with hooks into this and into the College's Red Line money dealings; see [Where's the Money?](#wheres-the-money).
+**What Session Zero exposed.** The party ran the envelope and opened it. It was a one-shot death rune — "a sloppy assassination," a single common-script death incantation — meant to kill whoever read it. It was handed to [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md) disguised as "the deeds of [his] new farmstead": **the College tried to have Finnegan killed.** Finnegan is a magical smuggler who has been working with elements of the College — moving magical items, and mostly enchanted candy and syrupy confections (see [Enchanted confections — the butter trade](../Mechanics/Items%20and%20Equipment.md#enchanted-confections--the-butter-trade)), into [the Red Line](../Lore/New%20Squishnesta.md#key-locations) — for the promise of land. The party left Session Zero with hooks into this and into the College's Red Line money dealings; see [Where's the Money?](#wheres-the-money).
 
 ## The Homesteaders
 
@@ -122,7 +122,7 @@ It reads as **Bill's week** more than anyone's, because his kitchens carry the s
 
 ### The Don
 
-**La Familia Munquiana** — the **Zuccaro** family. **Boss: Don Aldo Zuccaro** — [Don Aldo Zuccaro](../Player%20Materials/People%20You've%20Met.md#don-aldo-zuccaro). The **old blood**: hereditary land, and deeds that quietly trace back to before the Castle, from the generations when Munchkins kept their own records. This is the family that keeps the records. Formal codes and a veneer of respectability laid over a business line of real brutality. Most likely of the five to sit down and negotiate, and most likely to mean it only until it stops being convenient. One wide family with several sugar-named cousin lines — del Sucre among them; Doucet, Praslin, Zuckermann, Sakharov are available and not yet used.
+**La Familia Munquiana** — the **Zuccaro** family. **Boss: Don Aldo Zuccaro** — [Don Aldo Zuccaro](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md). The **old blood**: hereditary land, and deeds that quietly trace back to before the Castle, from the generations when Munchkins kept their own records. This is the family that keeps the records. Formal codes and a veneer of respectability laid over a business line of real brutality. Most likely of the five to sit down and negotiate, and most likely to mean it only until it stops being convenient. One wide family with several sugar-named cousin lines — del Sucre among them; Doucet, Praslin, Zuckermann, Sakharov are available and not yet used.
 
 The Don owns everything that does not move:
 
@@ -135,7 +135,7 @@ The Don owns everything that does not move:
 
 - **Wants**: the peace, held; the land, unexamined; the College kept to the arrangement.
 - **Fronts**: the parlour; a safe house a few doors down that the party now uses.
-- **Assets**: [Don Aldo Zuccaro](../Player%20Materials/People%20You've%20Met.md#don-aldo-zuccaro), [Ziggy](../Player%20Materials/People%20You've%20Met.md#ziggy), [Slo Mo](../Player%20Materials/People%20You've%20Met.md#slo-mo), [Tommy Two Cheeks](../Player%20Materials/People%20You've%20Met.md#tommy-two-cheeks), [Munge](../Player%20Materials/People%20You've%20Met.md#munge); four more armed Munchkins in the front room; the archive. Retainer pay for people who do steady work.
+- **Assets**: [Don Aldo Zuccaro](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md), [Ziggy](../Player%20Materials/People%20You've%20Met.md#ziggy), [Slo Mo](../Player%20Materials/People%20You've%20Met.md#slo-mo), [Tommy Two Cheeks](../Player%20Materials/People%20You've%20Met.md#tommy-two-cheeks), [Munge](../NPC%20Sheets/Munge.md); four more armed Munchkins in the front room; the archive. Retainer pay for people who do steady work.
 - **Clues**: the archive.
 - **Current Move**: get Finnegan back. The Don blames the pirates and has lent the party Tommy. He has hinted at work at city hall for the College's "construction."
 
@@ -157,7 +157,7 @@ The corners are where alignment runs thinnest: the arrests, the violence and the
 
 The Bootleggers are **train pirates**. the Bootleggers move goods inland by rail and cut the cars off at the **train depots** — one sits at an edge of [the Red Line](../Lore/New%20Squishnesta.md#key-locations), opposite the Castle, rusted and half-disused. **Bulk import**: the family's business is volume, the waterline and the rail, plus warehousing; it ends where Bill's begins. They bring in whatever a run can source — an unstable, opportunistic supply of raw ingredients — Pirates to a one, willing to lose an eye over a few gold coins. Names are Munchkin mouthfuls with a pirate's swagger.
 
-**Boss: Bramblebeard Thramplesnatch** — not "Bramblebush," as Session Zero had it. A jovial, heavy-drinking Munchkin who **corners the butterscotch trade** (see [Enchanted confections — the butter trade](../Mechanics/Items%20and%20Equipment.md#enchanted-confections--the-butter-trade)); dangerous to drink against — "go toe to toe with him you might lose a tooth." He trusts nobody outside his own, except Bill. **He is [Finnegan Bramblebush](../Player%20Materials/People%20You've%20Met.md#seamus)'s half-brother** — one Munchkin parent of the Bramble line, different other parents, different surnames — which is why the street mixes the two names up and why the Bootleggers tolerate Finnegan at all. "You can find Bramblebeard by the docks" — the depot's loading dock, in Red Line speech.
+**Boss: Bramblebeard Thramplesnatch** — not "Bramblebush," as Session Zero had it. A jovial, heavy-drinking Munchkin who **corners the butterscotch trade** (see [Enchanted confections — the butter trade](../Mechanics/Items%20and%20Equipment.md#enchanted-confections--the-butter-trade)); dangerous to drink against — "go toe to toe with him you might lose a tooth." He trusts nobody outside his own, except Bill. **He is [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md)'s half-brother** — one Munchkin parent of the Bramble line, different other parents, different surnames — which is why the street mixes the two names up and why the Bootleggers tolerate Finnegan at all. "You can find Bramblebeard by the docks" — the depot's loading dock, in Red Line speech.
 - **Assets**: Bramblebeard Thramplesnatch. The rail line.
 - **Clues**: the manifests — how cargo is labelled, how cars go missing.
 
@@ -199,7 +199,6 @@ They are Dark Fae of the Unseelie Court, whose seat is **Pandemonium** in the [F
 - **Fronts**: Pandemonium, their seat in the [Feywild](../Lore/Magic%20System.md#the-feywild); the [Sharp Forest](../Lore/Sharp%20Forest.md), where the expansion is pushing in. The Well ([New Squishnesta](../Lore/New%20Squishnesta.md)) is confirmed as a contact point — but for **all** Fae, Seelie included, not an Unseelie-only channel. It leads toward both the Seelie Court and the Unseelie Court, and more broadly into the Feywild.
 - **Assets**: stat blocks TBD. Distinct from [Fey (Seelie)](../Mechanics/Stat%20Blocks.md#fey-seelie).
 - **Clues**: TBD.
-- **Current Move**: TBD.
 
 ## Razor's Edge
 

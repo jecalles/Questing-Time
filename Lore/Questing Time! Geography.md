@@ -38,7 +38,7 @@ Its older name is **Brightwater**, which is what the glisten was named for. It i
 
 ## Hamlet
 
-The only named village, about a thousand people, deep in the Shire — roughly halfway in, a long walk from the City. Big enough for a general store, a tavern and some communal life. The party's first job took them there; the tavern floor has not recovered.
+The only named village, fewer than a hundred people, deep in the Shire — roughly halfway in, a long walk from the City, well past the squirrel tree. A general store, a tavern, some communal life. No longer a township: it was dissolved within the last twenty years, and nobody polices it. About three deaths in three years, all natural. The party's first job took them there; the tavern floor has not recovered.
 
 ## Trains
 
@@ -51,6 +51,8 @@ Most small towns hold one; a city may hold several. Anyone can pin a flyer; no i
 # The Sharp Forest
 
 At the Shire's edge: dense forest and bog, sparsely peopled at its perimeter and not at all deep in, where huge silicon monoliths innervated by trees and mycelium hum and glow. The name comes from the bite of the vegetation, not the silicon. Home to the Druids of the Forest, the Forest Fae of Razor's Edge, and the Anachrons — silicon automata that guard what they were built to guard. The Unseelie Fey are pushing in from a domain of their own elsewhere. Lark is from here; so, in a sense she does not fully understand, is her magic. Full entry: [Sharp Forest](../Lore/Sharp%20Forest.md).
+
+Same continent as the City, deeper in. If the City is western Europe running out to its coast, the Forest is the steppe gone to forest: not arid but sunken and green, more humid the further in, with deep rivers and tributaries running every way.
 
 # The UKaves
 
