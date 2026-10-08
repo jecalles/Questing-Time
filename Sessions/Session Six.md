@@ -169,8 +169,8 @@ The brightest thing in the room, by a mile, was her own bag of sand. But
 the papers glowed too, faintly, in some letters and not others: mostly
 numbers, scattered across the schools, in Abjuration, Restoration,
 Evocation and Conjuration and not the other two. On some pages it was
-the name of the item that had changed, not the price. On one vendor's
-card, every item name had been changed. And the glow was not the blue
+the name of the item that had changed, not the price. On Haldane &
+Daughters' card, every item name had been changed. And the glow was not the blue
 of every magical writing they had ever seen. It was a very light beige,
 like a fine white sand. Like the sand in her satchel. Ember, taking
 notes under a sheet of paper, called it inflation of the numbers to
@@ -224,7 +224,7 @@ Before dawn, everyone rested.
   Her supervisor napped all day with access to her desk.
 - Through Alistrassa's lens, the changed letters in Ada's ledgers glow a
   pale beige, like the sand in her satchel. Not blue. The changes are in
-  four schools' ledgers. On one vendor's card every item has a new name.
+  four schools' ledgers. On Haldane & Daughters' card every item has a new name.
 - The books say the celestial and infernal realms lie opposite each
   other, the Feywild between, the world in the middle. *Karmic Topology*
   says the shape of it may shape karma.
