@@ -9,7 +9,7 @@ tags: [player-reference]
 
 A human, six and a half feet of brick outhouse under a ragged, floppy cultist's robe that hides it — he is usually hunched, and the party has seen him stand up only once. Covered in the ash of his dead prophet, Yuhai, which he refuses to wash off and now also carries in a vial at his neck. Carries a moth in a very small cage (the moth is out now, and follows him), a pair of chopsticks, a rusted sword hilt, a sacred cowbell, and two wax-sealed scrolls he has not opened. A paladin who thinks he draws his power from a dead false prophet, and who has no magic at all. His luck is decided by a die he never sees. "I just want to save my kids." Prays to the moon; reaches, so far, someone else.
 
-**Now:** Health **Normal** · Tokens **8** · Deaths **3** · Gold **20** (+20 in the group fund) · as of Session Five (2026-09-30). Log: [Baeon Bob Oberoni](../Character%20Logs/Baeon%20Bob%20Oberoni.md).
+**Now:** Health **Normal** · Tokens **8** (Session Five; not given at Session Six) · Deaths **3** · Gold **20** (+20 in the group fund) · as of Session Six (2026-10-07). Log: [Baeon Bob Oberoni](../Character%20Logs/Baeon%20Bob%20Oberoni.md).
 
 ---
 
@@ -44,6 +44,8 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **[Luck of the Coin](../Mechanics/Abilities.md#luck-of-the-coin)** — narratively finds money in unexpected places. After finding money, one stat's die size is demoted, GM's choice, until the end of the encounter.
 
+**Read up on the planes** — advantage, for good, on Intelligence and Wisdom rolls about how the planes are laid out, from the library's books.
+
 ---
 
 ## ITEMS AND EQUIPMENT
@@ -56,7 +58,9 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **Rusted Hilt of a Sword** — short-ranged melee weapon, bludgeoning. Picked up in Hamlet, in a scabbard.
 
-**The Moth** — formerly in a very small cage; released at Session Zero, it follows him now. Treated as a familiar; its reverberation stun works **once per encounter**. See [The Moth (formerly "A Very Small Moth in a Very Small Cage")](../Mechanics/Items%20and%20Equipment.md#the-moth-formerly-a-very-small-moth-in-a-very-small-cage). The cage held Finnegan for a while.
+**Mothra** (the Moth) — formerly in a very small cage; released at Session Zero, it follows him now. Treated as a familiar; its reverberation stun works **once per encounter**. See [The Moth (formerly "A Very Small Moth in a Very Small Cage")](../Mechanics/Items%20and%20Equipment.md#the-moth-formerly-a-very-small-moth-in-a-very-small-cage). The cage held Finnegan for a while. On the Moon's answer it blinked through a crack in time and space into Ember's face, and Bob rode its senses.
+
+**A leather pouch of his own sand**, brushed off after his third death. **Clothes from a lost-and-found**, too small.
 
 **Yuhai's ash** — in an alchemical vial around his neck, scooped up after the god manifested from it.
 
@@ -75,6 +79,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 | Iter Bravus | Aligned | Session Zero |
 | Pudge | Aligned | Session Zero |
 | Lark | Neutral | Session Zero |
+| Ember | Neutral | Session Six |
 | Finnegan Bramblebush | Aligned-ish (protected him in the fight; wanted him spared); his row toward the party: Enemy | Session Zero / One |
 | The Zuccaro family | Aligned (their row toward him: Ally) | Session One |
 | The College of Mages | Misaligned (default) | — |
@@ -83,7 +88,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Five: cast his first spell, a privacy dome copied from Snarfa, and the Moon answered. Ra called him brother; Bob let himself be comforted, and hates him a little. Knows the Sun lights the Moon, and kept it to himself. Moshed, drunk, into Ra's beam and died from the waist up: his third death. Stood before the weeping figure with the scales again; the Moon comforted it, praised his spell, and told him to ask more. Woke naked and covered in sand beside his own half-skeleton. Full log: [Baeon Bob Oberoni](../Character%20Logs/Baeon%20Bob%20Oberoni.md).
+Session Six: cast Speak with Animals and the Moon answered on a 93: Mothra blinked into Ember's face. Pulled a tree out of the ground with Pudge and held Ember. Read the planes in the schoolhouse library and found *Karmic Topology*.
 
 ---
 

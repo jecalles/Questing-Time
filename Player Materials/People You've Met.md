@@ -10,6 +10,10 @@ Someone with a sheet of their own links to it.
 
 ## Around the party
 
+### Ember
+
+A teenager with a long brown braid, in baggy forest-green fatigues. Blew the road and took Ada's books, then led you over the river. A shadow follows her. Took you to a library she trusts. Sheet: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
+
 ### Seamus
 
 Half Munchkin, half human. Finnegan Bramblebush, until Session Four: now a glamoured face, blonde and flat-nosed, and no voice at all. Wanted dead by more people than anyone can count. Tied to the couch in Abjuration. Brightens the moment anyone is kind to him.
@@ -66,6 +70,8 @@ Dwarf, the depot's engineer, an Australian accent. Happy to show a stranger how 
 
 The super senior: fifty years a student, never graduated, better than some of the professors and paid to teach. The Abjuration clerk's desk, flip-flops, a fleece, board shorts. Looks like a dog; is not a dog. Knows the sun god personally. Threw the party in the quad, fronting his band, the Snarfettes.
 
+Broke his leg after his party; in a cast at his desk.
+
 Sheet: [Snarfa](../NPC%20Sheets/Snarfa.md).
 
 ### Dean Alistair
@@ -86,7 +92,7 @@ At Session Five he gave Pudge the same order again, four times: get the envelope
 
 ### Penny
 
-First-year, Abjuration. Nineteen, bangs, her second coffee. Likes runes because they are pretty. Warded Iter's parasol for two books. Has Iter's parasol and new canvas, and a book on runic projection mapping.
+First-year, Abjuration. Nineteen, bangs, her second coffee. Likes runes because they are pretty. Warded Iter's parasol for two books. Has Iter's parasol and new canvas, and a book on runic projection mapping. Session Six: finished the runes for the parasol and the cloak. Distant and tired; midterms.
 
 ### Jeff
 
@@ -115,6 +121,8 @@ Eldest of the Muses, and an old friend of Snarfa's: "She was once my muse." Came
 ### Ada Crane
 
 An inspector of the City Council's finance department, and "the whole team". Came to Snarfa's party as Studentsson, a student in a Hawaiian shirt and a fake moustache; under it, a real one. Asking who buys bat wings at 400 gold bars each. Coming back with her books.
+
+In the library she told you her story: two bat wings at 400 gold bars, and figures that change after she writes them.
 
 Sheet: [Ada Crane](../NPC%20Sheets/Ada%20Crane.md).
 

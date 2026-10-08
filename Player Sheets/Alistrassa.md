@@ -9,7 +9,7 @@ tags: [player-reference, magic-system]
 
 A six-foot high elf in robes who walked into the College on her first day and went straight for a dean. She is dying of a karmic wasting disease — her soul is rotting, and when she dies there is no Celestial waiting — and every innate cast she makes brings it closer, so she has taken up the human way: books, ink, runes, and the calligraphy of them. Sharp, frantic, polite to a fault, envious of anyone relaxed. Wears glasses with slide-in lenses, one of which is a spell. Winded halfway down a flight of stairs.
 
-**Now:** Health **Minor** · Karma **Normal** · Tokens **4** · Gold **0** (flat broke; the College account covers materials) · as of Session Five (2026-09-30). Log: [Alistrassa](../Character%20Logs/Alistrassa.md).
+**Now:** Health **Normal** · Karma **Normal** · Tokens **4** (Session Five; not given at Session Six) · Gold **0** (flat broke; the College account covers materials) · as of Session Six (2026-10-07). Log: [Alistrassa](../Character%20Logs/Alistrassa.md).
 
 ## STATS
 
@@ -41,7 +41,7 @@ A six-foot high elf in robes who walked into the College on her first day and we
 **A notebook** of collaborators and the outline of a paper. **Robes.** (The dean's folio went into the lenses.)
 **Intro texts, borrowed by chit:** Basic Runes; Inscription; Incantation; Metamath Magics; Transform Theory; a town-library book on glasswork.
 **Blunderbuss** — one of Iter's two, from the depot. She is not sure which end goes where.
-**A cloak**, half-inscribed with common abjuration runes, on the College account. Penny may take it on once Iter's parasol is done. What the runes do is not yet settled.
+**A cloak**, runed by Penny against physical harm, on the College account. It drops any physical hit on her one Health step, as armour does. No roll.
 
 ## ALIGNMENT
 
@@ -50,6 +50,8 @@ A six-foot high elf in robes who walked into the College on her first day and we
 | Snarfa | Aligned | the side session (2026-09-06) |
 | [The College of Mages](../Lore/Factions.md#the-college-of-mages) | Aligned (employed, Restoration) | the side session |
 | The party | Neutral (both ways) | Session Two (2026-09-09) |
+| Lark | Neutral | Session Six |
+| Ember | Neutral | Session Six |
 
 ## FACTION
 
@@ -57,5 +59,5 @@ A six-foot high elf in robes who walked into the College on her first day and we
 
 ## LAST BEAT
 
-Session Five: gave Penny the canvas, Iter's parasol and a cup of herbal tea. Remembered that every magical writing she has seen is blue, and the rune is black. Planned a light shell for the end of the night, and Ra fired early: eleven of twenty-three runes cut, a hole in the quad, Bob dead, and the dungeons under Conjuration breached. She saw it coming on a Wisdom roll and asked Snarfa, through Iter, to stop him. Walked a salt circle round a suspicious student, who turned out to be Ada Crane: deceitful, she judged, but not malicious. See [Alistrassa](../Character%20Logs/Alistrassa.md).
+Session Six: read the blast as planted. Fired her blunderbuss straight up; it was not loaded. Through her lens, the edits in Ada's ledgers glow pale beige, like her sand. Offered Penny tutoring. Has a chit in for a book on the sand.
 

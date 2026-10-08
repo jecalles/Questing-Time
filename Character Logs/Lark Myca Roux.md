@@ -26,5 +26,14 @@ Talked the party out of a firefight and into a deal with the Don's men. Found he
 - **Proposed to the Don:** thanks for the trust; he has questions about Finnegan's College connection and so does she; she'll go to the College and ask, if he funds the trip. A side quest for him and a side-side quest of her own.
 - **Her own quest:** the Sour Patch mushroom, a candied mushroom she knew only by story, which does not grow where she is from — through the corner kids, whom she wants to understand, and to whom she means to offer a holistic methadone and a meditation in exchange for what they know of the supply. Granted as a greater item quest. The rune study beside it is a greater information quest.
 - **Canon, ruled:** her people seed their dead into mushrooms and eat them to reach the ancestor; each mushroom reaches a different realm. Her mycology notebook is in the rig.
-- **Left abruptly.** Letters from Lark begin.
+- **Left abruptly**, with a goodbye note on her bed.
 
+## Session Six (2026-10-07)
+
+- Came back to the College in a long black cloak, squirrels round her neck. The squirrel left with the party fell drunk out of Snarfa's goblet and joined the chain.
+- Named the squirrels: Larry, Curly, The Bald One I Think, Yes and No.
+- Talked to the thief from the back of the chase. Catapulted a squirrel at her off a gas tank, and missed; the bald one took the worst of it.
+- In the library, read the history and the genealogies of the Sharp Forest's peoples, and worked out that "karma's bent because karma's mushrooms". She reads karma by Instinct now, at advantage.
+- Ember gave her a written account of her mother's time in the Sharp Forest, twenty years ago. Lark was honoured. They are Aligned.
+
+**State at close:** Health Normal · Tokens 2 (on her return; not given at Session Six) · Gold 2 (+20 in the group fund).

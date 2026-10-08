@@ -60,3 +60,13 @@ Sheet: [Alistrassa](../Player%20Sheets/Alistrassa.md).
 - Sat with Bob beside his half-skeleton.
 
 **State at close:** Health Minor · Karma Normal · Tokens 4 · Gold 0.
+
+## Session Six (2026-10-07)
+
+- Took her cloak back from Penny, runed against physical harm. Offered Penny tips on Divination; Penny warmed a little.
+- Read the blast on the road as a charge planted at a choke point.
+- Fired her blunderbuss straight up in the fight. It was not loaded.
+- Read Ada's ledgers through her lens. The edits glow pale beige, the colour of her sand, not blue. On one vendor's card, every item name has changed.
+- Put in a chit for a book on the sand.
+
+**State at close:** Health Normal · Karma Normal · Tokens 4 (as at Session Five; not given at Session Six) · Gold 0.

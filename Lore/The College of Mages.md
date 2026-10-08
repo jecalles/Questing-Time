@@ -25,6 +25,7 @@ Six schools, a spire each, small rooms off every spire, one shared quad in the m
 - **Procurement.** [Martha](../Player%20Materials/People%20You've%20Met.md#martha-woolsworth)'s. Every school's errand for paper, ink, folio or glass goes through her.
 - **Ways and Means.** Where the money is. On the Castle side of the hexagon, where the College meets the City. See [The College of Mages](../Lore/Factions.md#the-college-of-mages).
 - **Accounting.** The books.
+- **Groundskeeping.** Porters and the grounds.
 
 # The Two Councils
 
@@ -89,14 +90,15 @@ Who you meet, and where they are. Blocks in Named Characters.
 
 # What's Going On Now
 
+- **Someone blew the road** between the College and the Castle, just past the gate. A crater, a fallen beam, fifty feet of smoke. A bridge over the Brightwater gone the same night.
 - **A plug of stone in the quad.** Ra's beam bored through into Conjuration's dungeons. Transmutation poured sand into the hole and it set as stone on the way down. Beside it stands what is left of Bob's last body: legs, and bare skeleton from the waist up.
-- **Snarfa's party is winding down.** A floating stage, eleven cut lenses, a crowd that thinks the demons were part of the show. Ra is still here, tripping. Snarfa is out of slots.
+- **Snarfa's party is over.** A floating stage, eleven cut lenses, a crowd that thinks the demons were part of the show. Ra is still here, tripping. Snarfa is at the Abjuration desk with his leg in a cast, out of slots.
 - **Finals.** The end of the semester. White tea to black, brisk walks for ink, an abjuration shield round a first-year sitting her midterm.
 - **The party holds a red velvet couch in Abjuration.** Two bottles of Snarfa's sixty-year Sylvan, one empty. Two blunderbusses nobody here can work. Seamus — blonde, flat-nosed, silent — goes where Pudge goes, on a rope.
-- **Penny has Iter's parasol**, a length of umbrella canvas, and a book on runic projection mapping.
+- **Penny has finished the runes**: Iter's parasol canvas and Alistrassa's cloak. She is tired and quiet. Midterms.
 - **Martha has a pinch of sand** and a note to look into it, somewhere under the day's chits.
 - **Pudge is back from the basement**, the envelope still in his coat. Thornbush wants word that Finnegan has it.
 - **The College is tidying.** The archway seal is fresh. The right meetings are cancelled.
-- **Ada Crane is coming back.** A Castle inspector, out of her student disguise, gone for her books. She meets the party upstairs in Abjuration within the hour. See [Ada Crane](../NPC%20Sheets/Ada%20Crane.md).
+- **Ada Crane came upstairs late.** Her books were taken on the road, and the party got them back. She went on with them across the river, to a library. See [Ada Crane](../NPC%20Sheets/Ada%20Crane.md).
 - **Something is being built**, by the Don's account, and the College wants regulation pushed through city hall. Nobody inside has said what.
 

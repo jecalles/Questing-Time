@@ -1,0 +1,18 @@
+---
+description: Story log for Ember Spanner — what happened to her at the table, one section per session.
+tags: [player-reference, session-log]
+---
+
+Sheet: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
+
+## Session Six (2026-10-07)
+
+- Blew the road between the College and the Castle and took Ada Crane's ledgers from under a fallen beam.
+- Dropped a bridge into the Brightwater behind her.
+- When the party closed, her shadow rose up in her shape with a hammer and screamed. Everyone but Pudge reeled.
+- Slipped Pudge twice, dropped a lintel, and went up a tree. Pudge and Bob pulled it out of the ground. Mothra blinked into her face.
+- Bob held her. Iter asked if she was hurt, and she cried.
+- Took them to an old schoolhouse library across the river, a place she trusts. Neutral with the party now.
+- Read her mother's old book in a corner, and gave Lark an account of her mother's time in the Sharp Forest.
+
+**State at close:** Health Normal · Tokens not given.

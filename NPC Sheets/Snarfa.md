@@ -7,7 +7,7 @@ tags: [npc]
 
 Fifty years a student at [The College of Mages](../Lore/The%20College%20of%20Mages.md), never graduated, better than some of the professors and paid to teach. He sits the Abjuration clerk's desk in flip-flops, a fleece, board shorts and a backwards cap, frequently high, and gets about on a longboard. He looks like a dog and is explicitly not a dog: golden, with big floppy ears. Nobody has explained this and nobody asks. Smoke rings off his joint hang in the air as runes, the numbers in his sudoku get up and dance, and his magic reads as more flowing than other wizards'. He knows the sun god personally and carries a phone nobody can explain.
 
-**Now:** Unhurt · out of spell slots · the party in the quad winding down; gone off with Iter · as of Session Five (2026-09-30).
+**Now:** Leg broken, in a cast at the Abjuration desk · out of spell slots · as of Session Six (2026-10-07).
 
 ## WHAT THE PARTY KNOWS
 
@@ -34,5 +34,5 @@ Fifty years a student at [The College of Mages](../Lore/The%20College%20of%20Mag
 
 ## LAST BEAT
 
-Session Five: threw the party in the quad and sang with the Snarfettes; brought Ra and Calliope; would not stop Ra's beam; kissed Iter and left with her. Out of slots.
+Session Six: broke his leg clean in half on the way down from his party. In a cast at his desk.
 

@@ -61,3 +61,13 @@ Suggested whacking the three gangsters and heard three safeties click off. Commu
 - Woke in the quad, naked and covered in sand, beside his own body: legs, and bare skeleton from the waist up. Sat there with Alistrassa.
 
 **State at close:** Health Normal · Tokens 8 · Deaths 3 · Gold 20 (+20 in the group fund).
+
+## Session Six (2026-10-07)
+
+- Saw the runner in a moonbeam before the shadows pulled her out of it.
+- Cast Speak with Animals on his moth, and the Moon answered on a 93. **Mothra** blinked through a crack in time and space into the thief's face, and Bob rode its senses.
+- Pulled a tree out of the ground with Pudge, then held Ember with a grapple and a kind word.
+- In the library, read how the planes are laid out and found a treatise, *Karmic Topology*. Advantage, for good, on rolls about the planes.
+- Brushed his own sand off into a leather pouch. Dressed from the lost-and-found; everything is too small.
+
+**State at close:** Health Normal · Tokens 8 (as at Session Five; not given at Session Six) · Deaths 3 · Gold 20 (+20 in the group fund).

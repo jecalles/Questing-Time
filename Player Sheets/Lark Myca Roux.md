@@ -1,5 +1,5 @@
 ---
-description: "Character sheet for Lark Myca Roux (player: Robyn) — a Forest Fae druidic alchemist of Razor's Edge with a gas rig, five squirrels, and a Forest for a patron."
+description: "Character sheet for Lark Myca Roux (player: Robyn) — a Forest Fae druidic alchemist of Razor's Edge with a gas rig, five named squirrels, and a Forest for a patron."
 tags: [player-reference, magic-system, ability]
 ---
 
@@ -9,7 +9,7 @@ tags: [player-reference, magic-system, ability]
 
 A small, slender fae, four and a half feet, with skin that runs from obsidian to mahogany with a tree-like undertone, and purplish tattoos over all of it, each ringed by a soft aura a few centimetres deep. The tattoos shift colour and pattern with what each one does; she did not choose them. The Sharp Forest itself is her patron: it chose her tattoos, and her gas-and-powder magic is its gift. She flies. She wears a cropped top and shorts to keep the tattoos visible, grey palladium boots that roll up or down, a hooded cloak of living mushroom leather, and a modular gas rig on her back with two hoses and a nozzle she can point. Five squirrels with a drug problem travel with her. She is the one who talks the party out of fights and into deals, and the one who brews things; she is broke, cheerful, and refuses to call on her diplomat family because she will not hear "I told you so."
 
-**Now:** Health **Normal** · Tokens **2** · Gold **20** (+20 in the group fund) · as of Session One (2026-09-02). Log: [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md). *Lark is on her own quest, on her way to the College. Robyn missed Session Five and is back for Session Six.*
+**Now:** Health **Normal** · Tokens **2** (on her return; not given at Session Six) · Gold **2** (+20 in the group fund) · Truth serum **2/4** · Gas **3** charges · as of Session Six (2026-10-07). Log: [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
 
 ---
 
@@ -50,11 +50,17 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **[Fairy Prestidigitation](../Mechanics/Abilities.md#fairy-prestidigitation)** — a minor sparkle-and-chime flourish. Cosmetic.
 
+**[Friend of the Forest](../Mechanics/Abilities.md#friend-of-the-forest)** — befriends a nearby creature as a companion. The squirrels: Larry, Curly, The Bald One I Think, Yes and No.
+
+**Karma's mushrooms** — when working out how karma would play out, she rolls Instinct in place of Intelligence, at advantage.
+
+**[Flow](../Mechanics/Abilities.md#flow)** — at Lesser, entered through a trance: a few quiet minutes out of a fight, and it lasts the scene. While in it, Prowess or Instinct for any reactive stat. Grows toward full Flow.
+
 ---
 
 ## ITEMS AND EQUIPMENT
 
-**Gas rig.** A modular rucksack with a backplate holding her active canister — ornate glass vacuum-tube vials with valve tops, swapped like a magazine; spares inside. Two hoses with switchable nozzles: spray a crowd, or inhale. Can be pre-loaded ahead of a fight, and now takes a second liquid in a compartment at the nozzle to mix with her casting medium. Vapour from the rig has a two-zone range and the material's own mechanics. See [Robyn's Gas Rig](../Mechanics/Items%20and%20Equipment.md#robyns-gas-rig).
+**Gas rig.** A modular rucksack with a backplate holding her active canister — ornate glass vacuum-tube vials with valve tops, swapped like a magazine; spares inside. Two hoses with switchable nozzles: spray a crowd, or inhale. Can be pre-loaded ahead of a fight, and now takes a second liquid in a compartment at the nozzle to mix with her casting medium. Vapour from the rig has a two-zone range and the material's own mechanics. See [Lark's Gas Rig](../Mechanics/Items%20and%20Equipment.md#larks-gas-rig).
 
 **Casting medium** — an enchanted liquid, vodka plus fragrant moss, that she treats as "mana."
 
@@ -62,7 +68,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **Reagents** — common and uncommon foraged stock (roughly 3 common + 1 uncommon at Session Zero: a glowing green toadstool); **morning dew**, three drops; **cinnamon**, a few chunks from Slo Mo's spice bag; a tooth from a Gary Busey.
 
-**Tent.** Magically larger on the inside — one small room for now; packs like an ordinary tent into the bottom of the rig. Safe-room use only where a tent could reasonably be pitched. See [Robyn's Tent](../Mechanics/Items%20and%20Equipment.md#robyns-tent).
+**Tent.** Magically larger on the inside — one small room for now; packs like an ordinary tent into the bottom of the rig. Safe-room use only where a tent could reasonably be pitched. See [Lark's Tent](../Mechanics/Items%20and%20Equipment.md#larks-tent).
 
 **Delivery methods.** Thrown Molotov-style bottles, leaf packets with a tree-sap wick, satchels, bone vials — improvised per fight. A smoke bomb, used once.
 
@@ -83,6 +89,8 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 | Iter Bravus | Aligned | Session Zero |
 | Pudge | Aligned | Session Zero |
 | Bob | Neutral | Session Zero |
+| Alistrassa | Neutral | Session Six |
+| Ember | Aligned (both ways) | Session Six |
 | Finnegan Bramblebush | Aligned ("you're one of us"); his row toward the party: Enemy | Session Zero / One |
 | The Zuccaro family | Aligned (their row toward her: Ally) | Session One |
 | The College of Mages | Misaligned (default) | — |
@@ -97,13 +105,13 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## PATRON
 
-**The [Sharp Forest](../Lore/Sharp%20Forest.md)** — Gaia's Major Aspect. The Forest is Lark's patron. It chooses her tattoos (the forest/universe picks the marks during a mushroom trip) and delegates her magic. Her gas-and-powder kit is Gifted magic, delegated by the Forest the same way it delegates to the Druids of the Forest; she is Forest-patroned without being a Druid. Race/stat-block mapping still open — see Notes and B-10.
+**The [Sharp Forest](../Lore/Sharp%20Forest.md)** — Gaia's Major Aspect. The Forest is Lark's patron. It chooses her tattoos (the forest/universe picks the marks during a mushroom trip) and delegates her magic. Her gas-and-powder kit is Gifted magic, delegated by the Forest the same way it delegates to the Druids of the Forest; she is Forest-patroned without being a Druid.
 
 ---
 
 ## LAST BEAT
 
-Left the party. She thanked the Don for the trust, proposed to go to the College and learn what Finnegan's connection is, asked him to fund it, and went — abruptly. Letters follow. Now on her own quest: the Sour Patch mushroom, which she is trying to get a line on through the corner kids. See [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
+Session Six: came back to the College in a long black cloak, squirrels round her neck. Catapulted a squirrel at Ember and missed. Read karma in the library ("karma's bent because karma's mushrooms"), and was given Ember's mother's account of the Sharp Forest. Before that: two weeks away on her own quest, the Sour Patch mushroom. See [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
 
 ---
 

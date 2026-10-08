@@ -56,3 +56,14 @@ Asked Finnegan the practical questions (which way is the College, which way is B
 - Took Seamus's rope from Iter and carries him like a handbag. Noticed Snarfa sings a little too well. Met Ada Crane.
 
 **State at close:** Health Normal · Tokens 5 · Gold 20 (+20 in the group fund).
+
+## Session Six (2026-10-07)
+
+- Lifted the beam off Ada Crane after the road blew.
+- Went into the Brightwater with Seamus when the second charge dropped the bridge. Iter's mushroom brought them out.
+- His armour held off the Shade's scream; everyone else reeled.
+- Grappled the thief twice and could not hold her. Grinned at her awkwardly.
+- Pulled a tree out of the ground with Bob, with her in it. Took a knock from the fall.
+- Curled up to sleep in the library the way he always does: three circles, then the floor.
+
+**State at close:** Health Normal · Tokens 4 · Gold 20 (+20 in the group fund).

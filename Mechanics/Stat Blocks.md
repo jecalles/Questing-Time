@@ -126,7 +126,7 @@ A half-race per [Half-Races](#half-races) — no fixed formula, built by merging
 
 **Pudge's build:** D20 Constitution; D12 Instinct; D10 Prowess; D8 Wisdom; D6 Charisma; D4 Intelligence. (Prowess and Instinct are swapped versus the Giant default — a personal deviation, allowed.)
 
-**Racial ability: [Beefy](../Mechanics/Abilities.md#beefy)** — from the Giant side, per the 2026-08-29 ruling; no longer just Pudge's personal ability. [Magical Dampening](../Mechanics/Abilities.md#magical-dampening) is College-granted, not racial.
+**Racial ability: [Beefy](../Mechanics/Abilities.md#beefy)** — from the Giant side, not Pudge's alone. [Magical Dampening](../Mechanics/Abilities.md#magical-dampening) is College-granted, not racial.
 
 # City Dwellers
 

@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Pudge, Alyssa's half-giant Warden — a College of Mages enforcer built as a magic-null "dud" who came out disrupting magic instead.
+description: Character sheet for Pudge, Alyssa's half-giant Warden — a College of Mages enforcer who suppresses magic.
 tags: [player-reference, magic-system, ability]
 ---
 
@@ -9,7 +9,7 @@ tags: [player-reference, magic-system, ability]
 
 A half-giant in a journeyman's leather armour the College gave him, carrying a two-handed hammer made from the tusk or femur of something large and magical. Big, quiet and hard to rattle — pleas and threats slide off him the way spells do. He is the College's Warden, sent along with the party to make sure their quest succeeds, and he says so. Magic near him fails: the runes in his armour dampen every spell cast in his zone, friend or enemy, unless he has attuned to the caster first. He watches more than he talks, and the party has learned that when he does talk it is a practical question. He opened the envelope in Hamlet himself, and his armour ate a death rune that would have killed anyone else.
 
-**Now:** Health **Normal** · Tokens **5** · Gold **20** (+20 in the group fund) · as of Session Five (2026-09-30). Log: [Pudge](../Character%20Logs/Pudge.md).
+**Now:** Health **Normal** · Tokens **4** · Gold **20** (+20 in the group fund) · as of Session Six (2026-10-07). Log: [Pudge](../Character%20Logs/Pudge.md).
 
 ---
 
@@ -54,6 +54,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 | The party (Iter, Bob, Lark) | Aligned | Session Zero |
 | Finnegan Bramblebush | Aligned ("smitten," natural 20); his row toward the party: Enemy | Session Zero / One |
 | The Zuccaro family | Neutral — "still very carefully watching" (their row toward him: Aligned) | Session One |
+| Ember | Neutral | Session Six |
 
 ---
 
@@ -65,7 +66,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Five: went down to Mark Thornbush and lied to him for the first time — Finnegan slipped away in the Hamlet crowd, and the envelope with him. Thornbush believed him, and gave the same order a fourth time: get the envelope to Finnegan, and report back. A Saturday off and a ticket to Seaside if he does. On the stairs he read three placards on hooks: his own, N0008, and N0241 crossed out in red. Found the envelope in his own coat. Told the party everything, inside Bob's dome. Now carries Seamus on a rope. Full log: [Pudge](../Character%20Logs/Pudge.md).
+Session Six: lifted the beam off Ada; went into the Brightwater with Seamus when the bridge dropped, and Iter's mushroom brought them out. His armour held off the Shade's scream. Pulled a tree out of the ground with Bob.
 
 ---
 

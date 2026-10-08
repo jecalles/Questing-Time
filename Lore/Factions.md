@@ -68,7 +68,7 @@ Typically humans or munchkins who just want to mind their farms and their folk. 
 
 ## The Merchants' Guild
 
-Governs the City's legal trade, such as anyone does — no single body dominates it. Accepted into canon 2026-08-15 (mapping session).
+Governs the City's legal trade, such as anyone does — no single body dominates it.
 
 - **Wants**: orderly, profitable legal trade. Details TBD.
 - **Fronts**: TBD. The General Market and the Train Station are the obvious candidates ([Key Locations](../Lore/New%20Squishnesta.md#key-locations)).
@@ -90,7 +90,7 @@ The Dwarves' guild. See [Dwarves](../Mechanics/Stat%20Blocks.md#dwarves).
 
 Five crime families run the underground trade of [The Red Line](../Lore/New%20Squishnesta.md#key-locations), the City's Munchkin district. The archetype word is the family's label — the Butchers (colloquially; formally "Bill's family," **Butcherson**), the Bootleggers, the Corner Crew, the Don's family (**La Familia Munquiana**, the Zuccaros), and the fifth family, the Millbanks — and bosses carry proper names that may or may not embed it. None of them controls it. None of them wants to — a fragmented Red Line means no single family is ever the only target. Every family specializes in one substance while still dabbling in the other two, and that overlap is most of what the small turf skirmishes are actually about. See [Substances](../Mechanics/Items%20and%20Equipment.md#substances).
 
-**Two of the five are not families at all.** Ruled 2026-09-13: the Bootleggers and the Corner Crew are "ragtag groups," drawn together economically rather than by blood — "less about familial ties and more about what draws them together economically." Only Bill's Butchersons, the Zuccaros and the Millbanks are actual bloodlines; "family" for the other two is a label of convenience, same as "the Five Families" itself.
+**Two of the five are not families at all.** The Bootleggers and the Corner Crew are "ragtag groups," drawn together economically rather than by blood — "less about familial ties and more about what draws them together economically." Only Bill's Butchersons, the Zuccaros and the Millbanks are actual bloodlines; "family" for the other two is a label of convenience, same as "the Five Families" itself.
 
 **Munchkins born in the Red Line hold Aligned standing with all five families**, under the racial identity rule ([Racial Identity](../Mechanics/Questing%20Time!%20Mechanics.md#racial-identity)). Munchkins from Squishnestashire's farms hold Misaligned standing instead — the Red Line and the Homesteaders draw from the same people, and no longer agree on much.
 
@@ -151,7 +151,7 @@ The corners are where alignment runs thinnest: the arrests, the violence and the
 - **Fronts**: the corners, re-upping at dusk.
 - **Assets**: the default [Munchkin block](../Mechanics/Stat%20Blocks.md#the-munchkin). Numbers, and street-level trust. Ruby's book.
 - **Clues**: Ruby's book; the count.
-- **Current Move**: holding the room, and starting to wonder where the money goes. Lark means to meet Ruby (Letters from Lark, letter one).
+- **Current Move**: holding the room, and starting to wonder where the money goes. Lark meant to meet Ruby on her trip, and did not.
 
 ### The Bootleggers
 
@@ -202,17 +202,17 @@ They are Dark Fae of the Unseelie Court, whose seat is **Pandemonium** in the [F
 
 ## Razor's Edge
 
-Robyn's people. They are **Forest Fae** — the Fae of the [Sharp Forest](../Lore/Sharp%20Forest.md), who keep no court — and Razor's Edge is their faction, named live at the table by the player behind [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md). Alone among the Fae they live wholly on Gaia, with no second residence in the [Feywild](../Lore/Magic%20System.md#the-feywild); they return there only when they die. Robyn named them for that edge: they are constantly on the razor's edge of magic, and well aware of the thin line between life and death. They move through the Forest on a calendar that shifts with the seasons. Over generations, as separate communities merged, their migration loop has pulled inward — a smaller and smaller pattern, further each generation from the outer Forest.
+Lark's people. They are **Forest Fae** — the Fae of the [Sharp Forest](../Lore/Sharp%20Forest.md), who keep no court — and Razor's Edge is their faction. Alone among the Fae they live wholly on Gaia, with no second residence in the [Feywild](../Lore/Magic%20System.md#the-feywild); they return there only when they die. They are named for that edge: they are constantly on the razor's edge of magic, and well aware of the thin line between life and death. They move through the Forest on a calendar that shifts with the seasons. Over generations, as separate communities merged, their migration loop has pulled inward — a smaller and smaller pattern, further each generation from the outer Forest.
 
-They take the name from **the Razor's Edge itself** — a large cliff face at the far inner edge of that old range, toward the silicon interior, where the land drops away in thin waterfalls, roughly 1,000 feet down into a fine mist. It was a seasonal gathering ground, its rim wide enough to hold whole congresses. The loop has since pulled inward and almost no one travels that far out now. Robyn camped there alone as a child and saw things she did not yet understand.
+They take the name from **the Razor's Edge itself** — a large cliff face at the far inner edge of that old range, toward the silicon interior, where the land drops away in thin waterfalls, roughly 1,000 feet down into a fine mist. It was a seasonal gathering ground, its rim wide enough to hold whole congresses. The loop has since pulled inward and almost no one travels that far out now. Lark camped there alone as a child and saw things she did not yet understand.
 
-Explicitly unaligned with either the Seelie Court or the Unseelie Court — membership runs by people and region, not by court politics — and holds its own internal politics and infighting, unspecified. They are not a splinter of either, and no kin of [the Unseelie](#the-unseelie-fey), who are Dark Fae from another domain, pushing in. Robyn's parents work as traveling ambassador-diplomats between the two Courts and the region's cities; the GM ties Robyn's own nomadic, knowledge-sharing streak directly to them. The people are also known for a "smart material" — silica and rare metals worked with space-bending transmutation magic into a fabric that is very strong, very thin, very warm, and velvet-soft — made through a craft tradition split area by area across the bands.
+Explicitly unaligned with either the Seelie Court or the Unseelie Court — membership runs by people and region, not by court politics — and holds its own internal politics and infighting, unspecified. They are not a splinter of either, and no kin of [the Unseelie](#the-unseelie-fey), who are Dark Fae from another domain, pushing in. Lark's parents work as traveling ambassador-diplomats between the two Courts and the region's cities, and her own nomadic, knowledge-sharing streak comes straight from them. The people are also known for a "smart material" — silica and rare metals worked with space-bending transmutation magic into a fabric that is very strong, very thin, very warm, and velvet-soft — made through a craft tradition split area by area across the bands.
 
 **A Razor's Edge Fae can be patroned by the [Sharp Forest](../Lore/Sharp%20Forest.md) without being a Druid of the Forest.** [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) is: the Forest chooses her tattoos and delegates her gas-and-powder magic, the same channel it uses for [the Druids](#the-druids-of-the-forest). See [Aspects and the Non-Illuminated](../Lore/Magic%20System.md#aspects-and-the-non-illuminated).
 
 - **Wants**: TBD.
 - **Fronts**: the nomadic bands moving through the Forest's middle ring; the Razor's Edge cliff itself, now rarely visited.
-- **Assets**: Robyn's family; the "smart material" craft tradition; a Forest-delegated Gifted line (via Lark). The Forest Fae block is unwritten, and it is theirs, not the Unseelie's.
+- **Assets**: Lark's family; the "smart material" craft tradition; a Forest-delegated Gifted line (via Lark). The Forest Fae block is unwritten, and it is theirs, not the Unseelie's.
 - **Clues**: TBD.
 - **Current Move**: TBD.
 
@@ -234,11 +234,5 @@ These outgrew their location notes. Each may become its own page.
 
 ## Where's the Money?
 
-The numbers do not add up. [New Squishnesta](../Lore/New%20Squishnesta.md) has been bankrupt for years. Its power and influence still grow.
-
-Working answer: the majority of the City's real economic activity is illicit.
-
-**The split, roughly.**
-
-Entry points: the sealed envelope in session zero.
+**What the party knows.** The College's books do not add up. [Ada Crane](../NPC%20Sheets/Ada%20Crane.md), an inspector of the City Council's finance department, is chasing them: bat wings bought at 400 gold bars apiece. Alistrassa thinks the College launders money through Procurement's reagent buying. Finnegan says the College buys the sand legally, through Procurement.
 

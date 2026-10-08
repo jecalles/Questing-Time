@@ -21,7 +21,7 @@ Items and equipment for [Questing Time!](../Lore/Questing%20Time!%20A%20Primer.m
 
 ## Currency and charges
 
-**Currency.** Copper for an ale, silver for rope and a tent, gold for anything worth haggling over. 10 copper = 1 silver; 10 silver = 1 gold. Walking-around money is silver; gold buys expensive things; a house is bought on account, not in coin. A job for four adventurers runs 8–12 gold. The Don's 100 gold at Session One was five times the going rate, on purpose.
+**Currency.** Copper for an ale, silver for rope and a tent, gold for anything worth haggling over. 1 gold = 10 silver = 1,000 copper, loosely: ten silver to the gold, a hundred copper to the silver. Each coin is worth about its own metal, and the rate drifts a little by place and season: a gold piece fetches 10 to 12 silver, a silver piece 80 to 120 copper. Walking-around money is silver; gold buys expensive things; a house is bought on account, not in coin. A job for four adventurers runs 8–12 gold. The Don's 100 gold at Session One was five times the going rate, on purpose.
 
 **Charges.** Every material object that can run out declares its charges; the default is **1**. A partial dose shortens the effect's duration, not its strength. A sheet shows charges as **n/max** on the item.
 
@@ -43,25 +43,25 @@ Long, black, and always looks like it is dripping. Held over her shoulder agains
 
 Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 
-## Robyn's Gas Rig
+## Lark's Gas Rig
 
-A modular rucksack built around Robyn's gas-based alchemy. A thin backplate on the outside holds her active canister — ornate glass vacuum-tube vials with valve tops, roughly half a liter to a liter, swapped in and out like a magazine. Spare canisters ride inside the pack. Two hoses run off it with switchable nozzles: one setting to spray a crowd, one to inhale personally. Can be pre-loaded with multiple charges ahead of a fight.
+A modular rucksack built around Lark's gas-based alchemy. A thin backplate on the outside holds her active canister — ornate glass vacuum-tube vials with valve tops, roughly half a liter to a liter, swapped in and out like a magazine. Spare canisters ride inside the pack. Two hoses run off it with switchable nozzles: one setting to spray a crowd, one to inhale personally. Can be pre-loaded with multiple charges ahead of a fight.
 
-**Form, refined 2026-08-27.** Built like a photographer's bag — many compartments, attachments added and removed as needed. The gas tank mounts on the front or in its own compartment; her tent (below) rolls into the bottom. The material is a mushroom/mycelial leather, possibly living. It may be expandable on the inside through her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions.md#razors-edge)) if her inventory outgrows it — the same principle as the tent.
+**Form.** Built like a photographer's bag — many compartments, attachments added and removed as needed. The gas tank mounts on the front or in its own compartment; her tent (below) rolls into the bottom. The material is a mushroom/mycelial leather, possibly living. It may be expandable on the inside through her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions.md#razors-edge)) if her inventory outgrows it — the same principle as the tent.
 
-**Delivery beyond the rig.** Robyn can also throw or place her mixes without it: Molotov-style glass bottles with a rag wick (powder worked into a liquid), leaf packets tied with grass and a tree-sap wick, small satchels, or bone vials. Improvised per fight, not fixed gear.
+**Delivery beyond the rig.** Lark can also throw or place her mixes without it: Molotov-style glass bottles with a rag wick (powder worked into a liquid), leaf packets tied with grass and a tree-sap wick, small satchels, or bone vials. Improvised per fight, not fixed gear.
 
-Delivers [Hallucination Gas](../Mechanics/Abilities.md#hallucination-gas). **Confirmed covered** — the rig's own ability entry already carries its resolution mechanic, so no separate weapon math is needed here. The rig is explicitly extensible — new attachments click on as Robyn acquires them. A physical module grants its ability cleanly; doing the same without one costs narrative beats and a developed skill. Treat this entry as a baseline, not a final loadout.
+Delivers [Hallucination Gas](../Mechanics/Abilities.md#hallucination-gas). **Confirmed covered** — the rig's own ability entry already carries its resolution mechanic, so no separate weapon math is needed here. The rig is explicitly extensible — new attachments click on as Lark acquires them. A physical module grants its ability cleanly; doing the same without one costs narrative beats and a developed skill. Treat this entry as a baseline, not a final loadout.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
-## Robyn's Tent
+## Lark's Tent
 
 A shelter that is magically larger on the inside — currently one small room, empty, upgradable. From outside it looks and packs like an ordinary tent, and it rolls into the bottom of her gas rig. The larger-inside space comes from her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions.md#razors-edge)).
 
 **Safe-room use.** It counts as a safe rest space only where pitching a tent is actually reasonable. In combat an enemy can climb in or attack it like any tent — it grants no hiding exploit. Upgrades are open; a localised alchemy station inside was floated as one path.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ## Pudge's Hammer
 
@@ -98,6 +98,8 @@ The College's favour economy runs on paper. A chit is a magical IOU: whatever is
 **A chit is any IOU, magically executed.** The library checkout system and the City's monetary policy run on the same mechanic, at different scales.
 
 **A chit always executes.** It is mechanical and automatic, and the burden is entirely on the inscriber to understand what they wrote; more than one wizard has bankrupted a village by signing away the wrong thing. Long, dull legal reconciliation is a permanent feature of the economy, and across a continent the errors roughly cancel.
+
+**Gold bars.** The Castle casts gold in bars of about 12 kg, each worth about 1,600 gold coins. Sums that size are counted in bars, never in coin.
 
 **Who handles them.** Chits pass mostly between wizards, or between government officials countersigned by their court wizards. Things being what they are in the Red Line, some have found their way into Munchkin hands. **The Don avoids them** — in his experience the last person holding one ends up in jail or dead, sometimes literally burned and usually figuratively. **The Millbanks take them happily**, and many are addressed to them by name, on the strength of their friendliness with the College and the government.
 
@@ -203,13 +205,13 @@ Lark's brew, Session One (2026-09-02) — an exploded 27 on the craft roll turne
 
 - **1 charge, drunk:** the target answers truthfully for one encounter.
 - **4 charges, drunk:** truthful in every interaction for a week, and the effect **bypasses alignment**. Side effect: pallid and feeble for days.
-- **1 charge, vaporised** through [Robyn's Gas Rig](#robyns-gas-rig): common truth serum, one encounter; the target rolls Constitution against DC 8.
+- **1 charge, vaporised** through [Lark's Gas Rig](#larks-gas-rig): common truth serum, one encounter; the target rolls Constitution against DC 8.
 
 Truthful is not helpful: a disciplined target chooses every word.
 
 ## Sour Patch Mushroom
 
-A candied psychedelic mushroom, sour first and then sweet, native to somewhere in Squishnestashire and nowhere near [the Sharp Forest](../Lore/Sharp%20Forest.md)'s Razor's Edge — [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) knew it only as a story until she reached the Red Line. The corner kids do not sell it; what reaches the street with it in it is a pressed pill, the mushroom melted into candy with other things (Robyn's model is "toosie"). Where it grows, and who supplies the pill, is open.
+A candied psychedelic mushroom, sour first and then sweet, native to somewhere in Squishnestashire and nowhere near [the Sharp Forest](../Lore/Sharp%20Forest.md)'s Razor's Edge — [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) knew it only as a story until she reached the Red Line. The corner kids do not sell it; what reaches the street with it in it is a pressed pill, the mushroom melted into candy with other things. Who supplies the pill is open.
 
 **A greater agent**. Common foraged reagents give advantage or an extra die; this is the next tier up. Spend one whole mushroom to make **about three charges of a Lark consumable at greater level**, or **one cast at greater level** in a single go. The exact potency of each product is set when it is brewed, the way the greater truth serum was.
 

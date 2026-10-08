@@ -19,6 +19,8 @@ Each player starts the game with six (6) unique dice to assign to different stat
 
 **Planned Actions vs Snap Decisions**: Planned Actions are checks that occur without time pressure and under ideal circumstances. You can automatically succeed a Planned Action whose difficulty is half your die size or smaller in that skill (e.g., DC 10 on a Brains check with a D20 in Brains) without rolling. Snap decisions are the opposite: time pressure and nonideal circumstances. You roll straight, and your party cannot spend Determination Tokens to help your roll.
 
+**Group checks.** When the whole group makes one check, everyone rolls and the group takes the middle roll. With an even number of rolls, the GM rolls a d4 to pick between the two middle rolls: even, the higher; odd, the lower. With group advantage take the higher; with group disadvantage, the lower.
+
 # Determination Tokens
 
 Every time you fail a check, take a Determination Token. All characters can expend a token to increase a roll by +1 per token used. For Planned Actions, other party members can expend tokens on other people's rolls. Determination Tokens cannot be spent to assist another character's roll in combat, since combat actions are Snap Decisions by default — unless a specific ability says otherwise. A failed attack in combat still grants a Determination Token, same as any other failed check. A token may be spent **after the roll is seen** (table ruling, Session One), and on a Planned Action tokens may be pooled in the middle of the table and donated.
@@ -136,6 +138,10 @@ You only roll initiative once per combat. That order holds for the entire fight,
 **Ties** are broken by comparing Prowess die size (a d12 beats a d8, regardless of the roll). If the dice are the same size, the GM decides.
 
 All actions taken during a combat are Snap Decisions by default. An ability may state otherwise.
+
+## Combos (playtest)
+
+Two characters acting on the same turn may combine for one action: sum their dice, and both spend their turn. To join someone later in the order, cede your turn and act on theirs. Being tried at the table; it may change.
 
 ## Surprise
 

@@ -48,6 +48,12 @@ The Shire's agricultural output is mostly monocropping under somewhat austere pr
 
 **The Industrial District** *(unnamed)*: a light industrial quarter for abjurative machinery work and what little refining the City does itself.
 
+**The schoolhouse library**: an old schoolhouse across the river, past the inn. Red tin roof. Children's desks downstairs, no class in years; upstairs, the books other people burned.
+
+**The Tanners** and **the financial district**: on the hill, near the aristocracy.
+
+**The Western Garrison**: the City's standing force in the west.
+
 **The Sewers**: interconnect with the pre-City cave system beneath the region ([The UKaves](../Lore/Questing%20Time!%20Geography.md#the-ukaves)). A locale in their own right — and they may tie to existing factions.
 
 # Denizens

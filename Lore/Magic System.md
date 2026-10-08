@@ -17,23 +17,29 @@ Practiced by Wizards and Mages of all races, this magic emerges from the organiz
 Core stats: Intelligence (proactive), Wisdom (resistance)
 ## Runes
 
-The College's written art, as its own students learn it. The world is suffused with magic the way a room is full of heat; innate casting is that heat made into a gust. A rune is a **filter**: a minimal form that breaks the least possible symmetry to sort the possibility space, so that one flow passes and another does not. Maxwell's demon, drawn. The runes that would sort hot from cold have not been expressed, and expressing them is the whole game.
+The written art of magic is Inscription. The world is suffused with magic the way a room is full of heat; innate casting is that heat made into a gust. A rune is a **filter**: a minimal form that breaks the least possible symmetry to sort the possibility space, so that one flow passes and another does not. Maxwell's demon, drawn. The runes that would sort hot from cold have not been expressed, and expressing them is the whole game.
+
+**Inscription is not a school, and it is not limited to one.** It is strongly *associated* with Transmutation and Abjuration in practice (a spoken ward holds for a moment; a warded room wants it written down) — most runework the party has seen leans that way — but as a Derived practice it can express any school. A caster's runecraft is not "her school"; the school lives on the individual rune being cut, not on the practice of cutting it.
 
 **The magic is in the ink.** A rune drawn in the College's ink shimmers as it goes down and spends nothing of the caster; what the spell is, is the shape of the ink in relation to itself. A non-magical being who copies a rune exactly is practising magic. What takes years is the **calligraphy** — students call it the flick — because the motion of the line is part of the shape.
 
 **Runes stack.** Elaborations tile semantic meaning outward and inward, self-referentially, "ad infinitum, geometrically"; the intro text calls it metamath magics. A serious working is countersigned by other wizards: a destruction of the original, an illusion layer that triggers only for one reader. **Inscription** says spatially what **incantation** says in time; the same structure, the two arts. See [How the College Works](../Lore/The%20College%20of%20Mages.md#how-the-college-works) for the chits.
 
-**Inscription is not a school, and it is not limited to one.** It is strongly *associated* with Transmutation and Abjuration in practice — most runework the party has seen leans that way — but as a Derived practice it can express any school. A caster's runecraft is not "her school"; the school lives on the individual rune being cut, not on the practice of cutting it.
+**Runes grow.** Geometry carries magic whoever draws it, and mushrooms and plants grow it. A mycelium's pattern is inscription: it projects into the immaterial planes and ties the two together. Seen from the far side, any mushroom space is fractal.
 
 **Sizes.** A chit fetches a book. A quarto carries a serious working — the Hamlet death rune was written on one, which was sloppy. A full folio, countersigned, has ceded countries. See [Ways-and-Means chits](../Mechanics/Items%20and%20Equipment.md#ways-and-means-chits).
 
 **A rune in glass.** A rune etched into a lens filters what passes through it; light is a flow like any other. Alistrassa's lens is the first ([Alistrassa's Lenses](../Mechanics/Items%20and%20Equipment.md#alistrassas-lenses)).
+
+**Conjuration by rune.** A conjuration rune lets an immaterial spirit project into a space and move matter there: a wind spirit shelving a library's books. The projection is held in the space, and knows it. Some wizards do that to the unwilling. Some spirits want the visit, and a friend on the far side can cast the summons back the other way. Many conjurers skip the rune and hold the spirit with their own concentration.
 
 # Gifted Magic
 
 Practiced by Warlocks, Clerics, Druids, and other devotees of higher powers, this discipline focuses on magic given freely of higher Illuminated races (typically celestials and infernals, but in some historic cases even by genius sorcerers), or delegated by a non-Illuminated Major Aspect on its celestial's behalf. This discipline involves the maintenance of relationships: between your gods, your communities, your lands, etc. Improvement typically involves Charisma or Wisdom and takes the form of emotional, interpersonal work. Gifted magic is most strongly affected by alignment, both in amplification and in resistance.
 
 **Who is on the other end, by practice.** A **Druid** draws from the land and the living things on it — terrestrial, immediate, the environment around her. A **Cleric** draws from a god; an evil cleric draws from a demon. A **Warlock** draws from a greater spirit. The practices differ in who is at the other end of the relationship, not in how the relationship works.
+
+**Conjuring by fiat.** A warlock can conjure on the strength of the relationship alone. A major devil sends his own minions, or pieces of himself, to help his warlock in the material world.
 
 **Druids are not only Earth's.** A druid draws on the planet she stands on, so there are druids of other planets as surely as there are Earth druids. Nobody here has ever met one.
 
@@ -61,19 +67,32 @@ A caster must flavor a cast as coming from their own source. The school stays th
 
 Wizards of [the College](../Lore/Factions.md#the-college-of-mages) find this incomprehensible. They cannot see how a caster who has never studied the arcane physics of a spell can abjure it anyway. Expect that friction when a party reaches the College.
 
+## Reach by level
+
+What a working can do grows with its level. A zone is about 30 ft. Fire is the worked example.
+
+| Level | Reach and harm | Fire |
+| --- | --- | --- |
+| Minor | Touch. Utility, no harm. | A spark at the fingers: fuse, lamp, kindling. |
+| Lesser | One zone. A nuisance. | A spark flicked to a point in sight: lights a set charge; in a face, disadvantage on the next roll. |
+| Common | Three zones, or one Health step to one target. | A spark anywhere within 120 ft; a short cone of fire. |
+| Greater | Area harm across a zone, or bending energy already there. | Snarfa's Fireball; a lantern or a charge going off bigger. |
+| Major | Several zones. | Ra's beam. |
+| Majestic | A god's act. | A meteor shower. |
+
 ## Psionic Magic
 
 Magic works because reality is organized information. An incantation works by organizing words; a rune works by organizing ink. Each expresses an aspect of the true magical language of the universe.
 
 **Psionic magic is incantation magic with no Verbal or Somatic component** — the ordering happens in the mind alone. The concepts are hard, so it is mostly the work of Derived casters, though a capable sorcerer can work this way too. A psionic effect tends to manifest as Evocation rather than Transmutation, whatever school the underlying spell sits in.
 
-Added from the 2026-08-17 Pudge interview; reaffirmed in the 2026-08-27 Robyn interview ("there is psionic magic in this universe"). Robyn's mind-affecting kit is a Gifted, alchemical route to similar effects, not psionics proper — see [Lark Myca Roux](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Lark's mind-affecting kit is a Gifted, alchemical route to similar effects, not psionics proper — see [Lark Myca Roux](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 # The Karmic Order
 
 The Karmic order governs how Illuminated beings die and return. It covers every Illuminated race: Elves — **including the [Drau](../Mechanics/Stat%20Blocks.md#drau), who are dark elves** — Fey, Celestials, Devils, Demons, and **Dwarves**. It does not cover non-Illuminated beings — see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated), below, which now also covers a return cycle of its own. **Dwarves' pairing axis** (Lawful/Chaotic like Elves, Good/Evil like Fey, or their own) is open.
 
-**Karma is not part of the magic system.** In this world everything is magic, which makes magic a poor way to tell anything apart. Karma is the other layer, underneath it: what people do to each other, with or without the power to do it. That is what pulls the same people back into each other's lives, life after life. It is why the party keeps meeting Bobs.
+**Karma is not part of the magic system.** In this world everything is magic, which makes magic a poor way to tell anything apart. Karma is the other layer, underneath it: what people do to each other, with or without the power to do it. That is what pulls the same people back into each other's lives, life after life.
 
 Every Illuminated being holds three properties: an Order, a Faction, and a Karma.
 
@@ -90,19 +109,19 @@ Any Order above Common is rare. A being rises through these ranks slowly, over m
 
 **Rising in Order adds dice.** Greater adds one extra die on one stat. Major adds two extra dice, one stat each (or two on one). Majestic adds three. Which stat gets the die is decided narratively, by how the elevation happened — a Fey who fought her way to Greater status might add to Prowess; one who talked her way there might add to Charisma instead. A fall in Order works the same way, in reverse — dice are removed, not stepped down. Die-step bumps (a D12 becoming a D20 outright) are a different thing, granted by abilities and other in-world advancement, not by Order., superseding the die-step reading of this paragraph.
 
-Extra dice are summed, not chosen from: a Greater character with an extra Wisdom die rolls two Wisdom dice and adds them, rather than rolling the better of two sizes. See [Snarfa](../NPC%20Sheets/Snarfa.md) (Greater, `Wis D12 ×2`) and [Ra](../Player%20Materials/People%20You've%20Met.md#ra) (a Major Aspect, `Pro D20 ×3` — a base die plus two Major-rank extras) for the worked examples.
+Extra dice are summed, not chosen from: a Greater character with an extra Wisdom die rolls two Wisdom dice and adds them, rather than rolling the better of two sizes. See [Ra](../Player%20Materials/People%20You've%20Met.md#ra) (a Major Aspect, `Pro D20 ×3` — a base die plus two Major-rank extras) for a worked example.
 
 **Faction** carries a being's political standing into the next life. A being's Faction on rebirth is set by their actions in the life just ended.
 
 **Karma** is the being's moral throughline. Narratively, it's the arc a being's reincarnations move through. Mechanically, it's what decides the being's next incarnation — which race, and which fork of that race's path.
 
-**Reincarnation** moves a being between paired races, and Karma sets the path. The default pair is Fey and Celestial: a Common Fey who dies returns as a Common Celestial, or as several Minor Fey. That Celestial, in turn, returns as a Common Fey. A Fey whose death carries a real moral break can fork off this path into the **Infernals** instead. Infernals mirror Celestials and Fey: a Devil gathers power to work against what it should stand with; a Demon breaks that power up instead. The two are one people under different conduct, not two separate races — see **The Elf pairing**, below, for the axis this runs on.
+**Reincarnation** moves a being along its race's path, and Karma sets the path. **Fey tend to return as Fey.** A Fey's progression is conservative: kill a Fae and you mostly get a Fae back, often the same one, sometimes in the same outfit. **Elves are the ones who travel.** At death they break down and re-form, and go on along the antipodes of the karmic realms: into Celestials, or into **Infernals**. A Celestial, in turn, returns as an Elf or a Fey. Infernals mirror Celestials: a Devil gathers power to work against what it should stand with; a Demon breaks that power up instead. The two are one people under different conduct, not two separate races — see **The Elf pairing**, below, for the axis this runs on.
 
-**The Elf pairing.** Elves pair with the immaterial races the same way Fey do, but the fork is keyed to a different axis. Material-side reincarnation (which race a dying being returns as) runs on the **Good/Evil** axis — this is the existing Fey/Celestial-default, Devil/Demon-on-a-moral-break rule above, and it holds for Elves too. Immaterial-side reincarnation (what race a Celestial or Infernal returns as, going the other way) runs on the **Lawful/Chaotic** axis instead: a Lawful-aligned Celestial or Infernal returns as an **Elf**; a Chaotic-aligned one returns as **Fey**. This is the same axis that already forks Devil from Demon.
+**The Elf pairing.** Elves pair with the immaterial races, Celestial and Infernal. Material-side reincarnation (which race a dying Elf returns as) runs on the **Good/Evil** axis: an Elf goes on as a Celestial, or, on a real moral break, as an Infernal. Immaterial-side reincarnation (what race a Celestial or Infernal returns as, going the other way) runs on the **Lawful/Chaotic** axis instead: a Lawful-aligned Celestial or Infernal returns as an **Elf**; a Chaotic-aligned one returns as **Fey**. This is the same axis that already forks Devil from Demon.
 
-**Conservative** reincarnation is the 1:1 default described above — one soul, one incarnation, same Order unless something moves it. Named as such 2026-08-16 to sit alongside the two variants below.
+**Conservative** reincarnation is the 1:1 default described above — one soul, one incarnation, same Order unless something moves it. It sits alongside the two variants below.
 
-**Dissociative** reincarnation splits one soul across multiple incarnations at death, rather than one soul returning as one being. The Reincarnation rule above already gives the shape of it: a Common Fey who dies can return as one Common Celestial, or instead as several Minor Fey. The finer mechanics of when and how a soul dissociates aren't worked out yet — broad strokes only for now.
+**Dissociative** reincarnation splits one soul across multiple incarnations at death, rather than one soul returning as one being. The Reincarnation rule above already gives the shape of it: a Common Fey who dies can return as several Minor Fey rather than one. The finer mechanics of when and how a soul dissociates aren't worked out yet — broad strokes only for now.
 
 **Aggregative** reincarnation runs the other direction: multiple souls converge into a single incarnation at death. The finer mechanics aren't worked out yet — broad strokes only for now — but there is one worked example on record.
 
@@ -110,19 +129,23 @@ Extra dice are summed, not chosen from: a Greater character with an extra Wisdom
 
 **Aggregating into a Majestic Celestial leaves the Karmic Order.** A being that converges into a celestial stops being a separate Illuminated participant and becomes part of that celestial — an aspect, off the Order entirely (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)). This is a one-way door, and it is why that case is treated as a Major Aspect rather than as a Fey of some rank.
 
-Alignment itself can shift across incarnations, too — a Fey soul's arc might carry it toward Celestial in one life, and, if a later death carries a real moral break, fork away from the Fey/Celestial pairing entirely and into the Infernal side instead. This isn't a separate mechanic from ordinary reincarnation — it's driven by the same thing: the weight of a soul's accumulated karma, built from its decisions across both life and death.
+Alignment itself can shift across incarnations, too — an Elf's arc might carry it toward Celestial in one life and, if a later death carries a real moral break, onto the Infernal side instead. This isn't a separate mechanic from ordinary reincarnation — it's driven by the same thing: the weight of a soul's accumulated karma, built from its decisions across both life and death.
 
-**Order across reincarnation.** Order tracks separately from Faction — it moves with Karma, not with political standing. A being's Order can also shift **within a single lifetime**, not only at the moment of death: a Common Fey can rise to Greater Fey before ever dying. Order can also jump more than one rank at once at the moment of death, under the right karmic circumstances — a Common Fey dying can, in principle, elevate straight to Greater Celestial or Greater Infernal, skipping the ordinary one-rank-at-a-time climb.
+**Order across reincarnation.** Order tracks separately from Faction — it moves with Karma, not with political standing. A being's Order can also shift **within a single lifetime**, not only at the moment of death: a Common Fey can rise to Greater Fey before ever dying. Order can also jump more than one rank at once at the moment of death, under the right karmic circumstances — a Common Elf dying can, in principle, elevate straight to Greater Celestial or Greater Infernal, skipping the ordinary one-rank-at-a-time climb.
 
-**The College doesn't study the Karmic Order.** Two reasons, from the 2026-08-17 Pudge interview: it can't be directly observed, and mages tend to lose their memory as they accumulate power and knowledge. One desk is the exception: Restoration's karmic-restoration post, funded, and empty until 2026-09-06 (see [How the College Works](../Lore/The%20College%20of%20Mages.md#how-the-college-works)).
+**The College doesn't study the Karmic Order.** Two reasons: it can't be directly observed, and mages tend to lose their memory as they accumulate power and knowledge. One desk is the exception: Restoration's karmic-restoration post, funded, and empty until Alistrassa took it (see [How the College Works](../Lore/The%20College%20of%20Mages.md#how-the-college-works)).
 
 # The Immaterial Planes
+
+**What the books say.** The celestial and infernal realms lie opposite each other, up and out from the material plane. The Feywild lies between them, apart from both: "the definition of the space between." The material plane sits at the centre, and is neutral. One treatise, *Karmic Topology*, argues that the shape of the planes shapes karma. Whether the books are right is open;
 
 The material world sits alongside several immaterial planes: the Dream, the Feywild, **the Celestial Sphere**, and the realm of the Infernals among them.
 
 The Dream is part of the geography of the immaterial planes. It is not necessarily contiguous with the Celestial Sphere or the realm of the Infernals. A being can reach the Dream without reaching either of those realms.
 
 **The Devils' domain has a name: the Seven Hells**. The Demons hold their own plane beside it, still unnamed. **The Celestial Sphere is named too, and it is the strange one: it sits co-incident with the material world**, rather than beside it the way the others do.
+
+**Planar shift is social.** Major beings cross between planes to see each other, as a matter of course. Ra comes when Snarfa phones.
 
 **Salt traps infernals.** A ring of it holds a demon, or any piece of one: a severed head will bounce inside it without end. Anyone else walks out.
 
@@ -142,7 +165,7 @@ Deities exist in every moment at once. As a rule, they stay unconcerned with mor
 
 **Gaia** - a majestic celestial. She was once a common Fey, and rose through the Order ranks to Majesty before her death. Per [The Karmic Order](#the-karmic-order), she then returned as a Majestic Celestial.
 
-Humanity emerged as a sentient aspect of Gaia. Most of her other aspects are non-sentient, with a small number of sentient exceptions — octopi, porpoises, and Munchkins among them. This is deep background lore, well past what a player typically needs at the table. None of these aspects count as Illuminated.
+Humanity emerged as a sentient aspect of Gaia, recently and by accident (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)). Most of her other aspects are non-sentient, with a small number of sentient exceptions — octopi, porpoises, and Munchkins among them. None of these aspects count as Illuminated.
 
 The Illuminated perceive humans as both small, individual beings and as aspects of the larger one, and react to that duality differently by race. Most Elves look down on humans with a quiet insecurity. Fey typically feel kinship with humans instead — a genuinely risky posture, for a Fey — and recognize Gaia's majesty, and her origin as a common Fey, as a mark of what a Fey life can become.
 
@@ -150,13 +173,15 @@ Fey broadly eschew worldly hierarchy altogether: to a Fey, the Karmic Order is t
 
 **The Moon** - a Majestic Celestial, the third named. Referred to as "her." Her will, as Yuhai's doctrine frames it, is **transformation** — "we must transform ourselves in a search for her." She has no proper name yet; "the Moon" is a title. Threads that touch her: the crescent on Yuhai's amulet and in the Cult of Bobs' greeting; the Red Lady's monthly, moon-tied visitation of menstruating human and elven women; [Iter](../Player%20Sheets/Iter%20Bravus.md)'s power waxing and waning with the moon; the "temple of the moon" from Bob's vision and the castle seen under a full moon. There is **one moon**. Whether "the Moon" is on the Earth axis at all, and whether she holds aspects, are open. Since Session Five her magic runs through Bob: he asks, nicely, and she answers. How the roll works is still open.
 
-**The Sun** - a Majestic Celestial, the fourth named. It manifests in the world through its Major Aspect, **Ra, the sun god**: eagle-headed, golden, Egyptian, a relatively chill god who parties, comes through a portal when Snarfa phones, and once set the College library on fire. He etched Alistrassa's lenses at an Abjuration party, in time with his own heartbeat. As an aspect he is off the Order (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)); whether the Sun holds other aspects, and where it sits against Earth, Gaia and the Moon, is open. He and the Moon used to date. It went badly. They are still friends, by his account.
+**The Sun** - a Majestic Celestial, the fourth named. It manifests in the world through its Major Aspect and enforcer, **Ra, the sun god**: eagle-headed, golden, Egyptian, a relatively chill god who parties, comes through a portal when Snarfa phones, and once set the College library on fire. He etched Alistrassa's lenses at an Abjuration party, in time with his own heartbeat. As an aspect he is off the Order (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)); whether the Sun holds other aspects, and where it sits against Earth, Gaia and the Moon, is open. He and the Moon used to date. It went badly. They are still friends, by his account.
 
 ## The Moon and the Zodiac
 
 The Moon's will is transformation, and the zodiac is the shape her attention takes as the year turns: twelve faces, each a way of being changed. Every school of magic has two faces among them, because every school is a kind of change — Evocation changes the world by force, Abjuration by refusal, Conjuration by distance, Divination by knowing, Restoration by return, Transmutation by becoming. A caster who reaches for the moon gets the face she is wearing, not the one they wanted; and her phase sets how much of it they get. Dice and tables: [The Moon Dice](../Mechanics/Questing%20Time!%20Mechanics.md#the-moon-dice).
 
 # Aspects and the Non-Illuminated
+
+To be magical is to take up space and time, to have mass and energy. Magic pools. Small beings gather into larger ones and large ones scatter, up to beings the size of planets: Gaia, the Sun, the Moon. An elf is small magic grown together into a person. A Majestic Celestial once projected only lesser forms of itself — a shadow, a small illuminated shape — and the biggest could put out a full figure to act as envoy or enforcer. Then, very recently, the celestials grew so magical that sentience began to pop out of them by accident, live a while, and pop back in: humans, Munchkins.
 
 Non-Illuminated beings are not on the Karmic Order. Instead, they exist as **aspects** of a Majestic Celestial. Every human, and every Munchkin, is an aspect of Gaia specifically.
 
@@ -166,9 +191,5 @@ This is written here as a **general rule of Majestic Celestials**, not a Gaia-sp
 
 **Munchkins** are a human subspecies. They carry a trace of Elf blood, old enough and thin enough that it never illuminated them. Like humans, they're an aspect of Gaia, not a participant in the Karmic Order.
 
-**Major Aspects.** Most aspects are ordinary — humans and Munchkins. A Major Aspect is rarer: still non-Illuminated, still off the Karmic Order, but coherent and powerful enough that its celestial can delegate Gifted magic through it directly, rather than granting that magic in person. A Major Aspect doesn't generate magic of its own — it channels what its celestial hands down. See [Gifted Magic](#gifted-magic). The [Sharp Forest](../Lore/Sharp%20Forest.md) is the known example. Until 2026-08-19 the Forest was the only one, and this was written as a general rule inferred from a single case; a second example makes it a rule.
-
-## Cyclical aspects
-
-Most aspects do not return. A human dies, and that death is a small debit against the celestial's Order. A **cyclical aspect** is the exception: it dies and comes back as itself, the same aspect in the same shape, again and again. The Bobs are the known case — see [Fungible](../Mechanics/Abilities.md#fungible).
+**Major Aspects.** Most aspects are ordinary — humans and Munchkins. A Major Aspect is rarer: still non-Illuminated, still off the Karmic Order, but coherent and powerful enough that its celestial can delegate Gifted magic through it directly, rather than granting that magic in person. A Major Aspect doesn't generate magic of its own — it channels what its celestial hands down. See [Gifted Magic](#gifted-magic). The [Sharp Forest](../Lore/Sharp%20Forest.md) is the known example.
 

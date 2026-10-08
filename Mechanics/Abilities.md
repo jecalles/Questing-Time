@@ -113,15 +113,15 @@ Holders: [Giants](../Mechanics/Stat%20Blocks.md#giants), [Half-Giants](../Mechan
 
 Flight. The holder can fly, or simply hover a few feet off the ground instead of walking. No roll required under normal circumstances.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ## Fairy Evasiveness
 
 Granted as a drawback offset for a low Constitution die paired with carrying no weapon. Sourced from the holder's tattoos.
 
-**Mechanics.** Roll Instinct or Prowess, holder's choice, instead of Constitution on reactive physical-defense checks. Robyn's own build uses Instinct.
+**Mechanics.** Roll Instinct or Prowess, holder's choice, instead of Constitution on reactive physical-defense checks. Lark's own build uses Instinct.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ## Fairy Prestidigitation
 
@@ -129,7 +129,7 @@ A minor, optional flourish — a small shower of sparkle, a faint chime, or both
 
 "Sometimes you're not in the mood to ding, and you don't ding." — GM.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ## Friend of the Forest
 
@@ -141,15 +141,17 @@ Roll Charisma to befriend a nearby creature as a companion. Tiered by the creatu
 
 **Mechanics for a bonded companion in play are not yet written** — this is an advancement track, not a finished ability.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ## Flow
 
-A sustained buff state. Designed to generalize across Fae as they rise through the Karmic Order (Common → Greater → Major → Majestic) — [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md) is the first character to hold it, at Common tier.
+A sustained buff state. Designed to generalize across Fae as they rise through the Karmic Order (Common → Greater → Major → Majestic) — [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) is the first character to hold it, at Lesser tier, entered through a trance.
 
 **While active:** upcast all magic one level at no cost, and roll Prowess or Instinct in place of any reactive stat.
 
-**Cost.** Every turn spent in Flow, roll Constitution, Wisdom, or Instinct against a DC that climbs with damage taken and how chaotic the scene is, GM's discretion. This is called the "Flow DC" and applies to any character using the ability, not just Robyn.
+**Lesser: the trance.** A lower rung, for a holder finding her way back into practice. She enters Flow through a few quiet minutes of trance, out of a fight, and it lasts the scene; the Flow DC applies on every turn of a fight she spends in it. At Lesser, Flow gives one benefit, not both: Prowess or Instinct in place of any reactive stat. The free upcast comes at Common. The rung grows in play: entering mid-fight, the upcast, bark skin.
+
+**Cost.** Every turn spent in Flow, roll Constitution, Wisdom, or Instinct against a DC that climbs with damage taken and how chaotic the scene is, GM's discretion. This is called the "Flow DC" and applies to any character using the ability, not just Lark.
 
 **Scaling, unwritten.** Greater/Major/Majestic Fae are meant to get a stronger version — a wider radius, advantage on the sustain check, or a higher base effect were all floated, but which upgrade belongs to which tier has not been decided. Treat this as a placeholder until a second Fae character, or a tier-up, forces the question.
 
@@ -200,7 +202,9 @@ Advantage on reactive checks to avoid damage. A lifetime of leaving rooms before
 
 **Shared with the holder's familiar.** Where the holder has a companion that mirrors them — see [The Shade](#the-shade) — that companion holds this ability too, and it upgrades for both at once along [Shade Advancement](#shade-advancement).
 
-Holder: Ember Spanner.
+**Ember's version** also lets her leave a melee zone without the Prowess check, as a rogue does.
+
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
 
 ## Shy
 
@@ -210,7 +214,7 @@ Narratively this reads as unfamiliarity, not timidity — the holder is fluent w
 
 **This is what a d20 Charisma costs her.** The stat is her magic and her camouflage; it is not a licence to talk anyone into anything. Designed jointly with the player.
 
-Holder: Ember Spanner.
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
 
 ## Tinkering
 
@@ -220,13 +224,51 @@ Given sufficient material components, the holder can build **common items** — 
 
 **Acquired, not innate.** The GM grants this after a short narrative beat of the holder remembering the workshop she grew up in — roughly five minutes at the table, and eligible to happen during Session Zero. It supersedes the narrower "Skilled at Mending" it grew out of.
 
-Intended holder: Ember Spanner, who does not hold it yet.
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md), traps only for now.
+
+## The Drowse
+
+A flaw. The holder is running on something that runs out.
+
+**Damage.** Each damage level the holder takes past Minor calls a luck check, Instinct: one at Major, one at Critical. Fail, and she goes Under.
+
+**Exhaustion.** Holding out against exhaustion — no sleep, a long march, a night on watch — calls a Constitution check. Fail, and she gains 1 Drowse, and a Determination Token with it.
+
+Pushing a power costs nothing.
+
+**3 Drowse — Drowsy:** disadvantage on anything that needs alertness; [Peripheral Sight](#peripheral-sight) is lost. **5 Drowse — Under:** she drops, incapacitated for the scene, and cannot be woken. If [The Shade](#the-shade) is knocked out, she goes Under at once.
+
+**Clearing it.** A long rest clears 2, a short rest 1. Being genuinely reached clears 1: someone using her name, meeting her eye, an honest gesture of care.
+
+**Later upgrade.** While Under, she heals one damage level per turn.
+
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
+
+## Rebellious
+
+Authority does not land on the holder the way it is supposed to. No mechanic yet; one gets written when play calls for it.
+
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
+
+## Peripheral Sight
+
+The holder perceives what is watching — presence, intent, things past the party's vision — and must describe it **while looking somewhere else.** If she turns to look directly, it is gone.
+
+For reactive perception she rolls **Charisma in place of Instinct**, but only while looking away. Lost entirely while Drowsy (see [The Drowse](#the-drowse)).
+
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
+
+## Spark
+
+A cantrip. Minor, Gifted, Evocation. A spark at the holder's fingers: no roll to light a fuse, a lamp, kindling or a charge she set. Against a person, Charisma against their Instinct, as other Gifted powers are.
+
+**Upgrades.** Lesser reaches a point she can see within one zone: it lights a set charge, or flashes in a face (disadvantage on that target's next roll). Common reaches about 120 ft, or throws a short cone of fire for one Health step. Making fire that is already there go off bigger is Greater, and comes only through her patron. See [Reach by level](../Lore/Magic%20System.md#reach-by-level).
+
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md), from her patron.
 
 ## The Shade
 
-Ember Spanner's familiar. **A lesser aspect of the Warden**, wearing the shape of the shadow it took from her. It is not a piece of Ember, and it is not the Warden in full — it is the Warden's presence scaled down to sit beside one person, granted under the pact so that she would not travel unprotected.
-
-This also explains its manner. The Warden went True Neutral to enter Gaia (see The Warden), and a True Neutral being does not hold virtues the way it used to. The Shade is protective without being kind.
+Ember Spanner's familiar.
 
 **It works by inference, not instruction.** Ember has rarely asked it for anything, so it acts on what it has seen her do and what it knows of her mother. Told only "help," it does the most Shade-like thing available. The player's model for it is No-Face from *Spirited Away*.
 
@@ -236,17 +278,17 @@ All Shade powers are Gifted magic: Charisma against the target's Instinct.
 
 **Idle:** watches from the shadows — the holder, the party, and the surrounding environment. **Visibility:** most visible in shadow; incorporeal in normal light; forced to retreat to the nearest shadow in powerful light. Advantage in darkness, vulnerable to light magic — clerics especially. **At rest:** the holder can talk to it. It is never wrong, and never kind — it will withhold or obscure the truth at its whim.
 
-**If the Shade is KO'd, the holder goes Under immediately** (see The Drowse — the reworked Drowse rules live in Lily's unmerged hand-off diff, not yet folded into Ember's sheet).
+**If the Shade is KO'd, the holder goes Under immediately** (see [The Drowse](#the-drowse)).
 
-Holder: Ember Spanner.
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
 
 ### Mirror Manifestation
 
 A shadowy mirror of the holder. Distraction, hallucination, something to spook enemies, or a scout, as long as there is ample shadow. In combat it has the holder's basic abilities, and it shares the holder's [Evasive](#evasive).
 
-**Ruling, 2026-08-17 (closes the d4-Constitution / shared-damage question on Player Sheets/Ember Spanner).** Damage sharing is intended, not a hole — it is the deliberate cost of a companion that can, at higher tiers, dodge or ghost a hit entirely. Base state: any damage done to the Shade is also done to the holder.
+**Damage sharing is intended, not a hole** — it is the deliberate cost of a companion that can, at higher tiers, dodge or ghost a hit entirely. Base state: any damage done to the Shade is also done to the holder.
 
-**Ruling, 2026-08-19 — sharing survives the Goad.** Pulling attacks onto a damage-sharing companion looks self-defeating, and it is not: the Shade is harder to hit than the holder, because it shares [Evasive](#evasive) and that shared evasion upgrades over play. The Goad trades a certain hit on a d4 Constitution for a contested one against advantage. See [Shade Advancement](#shade-advancement).
+**Sharing survives the Goad.** Pulling attacks onto a damage-sharing companion looks self-defeating, and it is not: the Shade is harder to hit than the holder, because it shares [Evasive](#evasive) and that shared evasion upgrades over play. The Goad trades a certain hit on a d4 Constitution for a contested one against advantage. See [Shade Advancement](#shade-advancement).
 
 ### Goad
 
@@ -266,13 +308,13 @@ One target cannot move or push air out to shout. Charisma against their Instinct
 
 The holder and the Shade trade positions, across zones. Escape, ambush, or getting someone else out. **Proposed:** costs the holder's action, not their move.
 
-**Note, 2026-08-19.** The Shade has already done this once, unprompted — it moved Ember into shadow to escape pursuit in [New Squishnesta](../Lore/New%20Squishnesta.md) before she had any idea it could. Treat that as a preview of this power, not a separate ability.
+**Note.** The Shade has already done this once, unprompted — it moved Ember into shadow to escape pursuit in [New Squishnesta](../Lore/New%20Squishnesta.md) before she had any idea it could. Treat that as a preview of this power, not a separate ability.
 
 ### Shade Advancement
 
-**Ruling, 2026-08-17**, revised 2026-08-19 after the Lily follow-up interview. Answers how a melee character with a d4 Constitution survives — the Shade is the mitigation, unlocked over play rather than granted all at once. Milestone-driven, same as the rest of Ember's Advancement track.
+Answers how a melee character with a d4 Constitution survives — the Shade is the mitigation, unlocked over play rather than granted all at once. Milestone-driven, same as the rest of Ember's Advancement track.
 
-**The 2026-08-19 revision moved evasion down to the base tier.** [Evasive](#evasive) is now a starting ability, shared with the Shade, so the track scales that shared evasion rather than introducing it.
+**Evasion sits at the base tier.** [Evasive](#evasive) is a starting ability, shared with the Shade, so the track scales that shared evasion rather than introducing it.
 
 - **Base (current).** The Shade shares damage 1:1 with the holder, per [Mirror Manifestation](#mirror-manifestation). It holds [Goad](#goad) and [Shade Attack](#shade-attack), and shares the holder's [Evasive](#evasive).
 - **Tier 2 — harder still.** The shared evasion improves beyond advantage — the Shade becomes genuinely difficult to land a hit on, cutting how often shared damage triggers at all, without changing what happens when it does land.
@@ -280,9 +322,9 @@ The holder and the Shade trade positions, across zones. Escape, ambush, or getti
 
 Exact trigger conditions for each tier (which story beat, which milestone) are not yet pinned down — treat as a placeholder track until a session forces the question, matching [Flow](#flow)'s scaling note.
 
-**Still owed:** the relationship mechanic. Lily's stated arc is that the bond should be **debilitating or rewarding** depending on whether Ember builds a healthy relationship with the Shade — "if she sticks to the shadows, then she becomes nothing." The GM approved the direction on 2026-08-19 because relationship maintenance is what Gifted magic already is. Undesigned as of this writing.
+**Still owed:** the relationship mechanic. The bond should be **debilitating or rewarding** depending on whether Ember builds a healthy relationship with the Shade: if she sticks to the shadows, she becomes nothing. It fits, because relationship maintenance is what Gifted magic already is. Not yet designed.
 
-Holder: Ember Spanner.
+Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
 
 ## Beginner's Luck
 
@@ -354,11 +396,11 @@ Grants casting access to Innate magic, and opens the innate progression the way 
 
 The difference is where the access comes from. A Sorcerer casts innately because of what they practise. A holder of this ability casts innately because of **what they are**: their rank on the [Karmic Order](../Lore/Magic%20System.md#the-karmic-order), named in the parenthetical. It is not learned and cannot be taught.
 
-A character may hold this alongside a learned channel, and one is not a cover for the other. [Snarfa](../NPC%20Sheets/Snarfa.md) holds both this and [Wizardry](#wizardry): he studied abjuration properly, and his innate Celestial casting is the stronger hand by a wide margin.
+A character may hold this alongside a learned channel, and one is not a cover for the other.
 
 **Every Celestial has two faces** — a person's shape in the Celestial Sphere, a heavenly body in the material world (see [The Immaterial Planes](../Lore/Magic%20System.md#the-immaterial-planes)). This block describes the manifested, material-world body, and that body can be killed.
 
-**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. [Snarfa](../NPC%20Sheets/Snarfa.md) is a Greater Celestial manifesting in a real way: "if he dies in the real world, he dies in real life." Ra, a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
+**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. Ra, a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
 
 **The killer takes a karmic consequence too**, keyed to the relationship: amplificatory if the two were enemies, diminishing if they were allies. Killing an allied Celestial is a betrayal in the karmic sense even when it is also a tactical necessity.
 
@@ -406,19 +448,19 @@ Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 
 - **Source**: Gifted.
 - **School**: Transmutation (Illusion). Misaligned for Gifted — this is a real contested roll, not an easy win, which matches the affinity table. See [Schools of Magic](../Lore/Magic%20System.md#schools-of-magic).
-- **Components**: Material — gas charges, three to start. Charges are consumed on use; refilled through foraging (a Charisma check, trivial for common reagents within the forest domain — see [Robyn's](../Player%20Sheets/Lark%20Myca%20Roux.md) attunement notes).
+- **Components**: Material — gas charges, three to start. Charges are consumed on use; refilled through foraging (a Charisma check, trivial for common reagents within the forest domain — see [Lark's](../Player%20Sheets/Lark%20Myca%20Roux.md) attunement notes).
 - **Action**: Not yet pinned down — treat as Action only until a session forces the reaction question, matching [Healing Spore Cloud](#healing-spore-cloud).
 - **Range**: Cone, two zones. See [Ranged Combat](../Mechanics/Questing%20Time!%20Mechanics.md#ranged-combat).
 - **Effect**: A gas cone bursts out from the caster. Each target rolls Constitution against the caster's Charisma. On a loss, the target is Tripping — hallucinating badly enough that they must pass a Wisdom or Constitution check, target's choice, before any action that depends on perceiving the world correctly. Tripping targets roll disadvantage against Persuasion or Deception checks.
 - **Upcast**: Not yet decided — likely advances the effect (duration of Tripping, or a wider cone) rather than the dice pool, matching the pattern of the other Gifted cantrips here, but the GM has not confirmed which.
 
-**Casting stat.** Charisma against the target's Constitution, as written above — Robyn casts off Charisma across the board, druid casting.
+**Casting stat.** Charisma against the target's Constitution, as written above — Lark casts off Charisma across the board, druid casting.
 
-**Crafting, generalised 2026-08-27.** The material-component-plus-foraging model here is how Robyn's whole gas-and-powder kit works. From day one she can make the level-one version of any such ability she has access to — potentially all of them — but she carries none pre-made. Making one costs a story beat: she says what she is making, sources the parts in the fiction (the GM is lax — usually a quick stat roll and a short scene, a few charges out), and justifies how she knows the recipe. Common recipes she just knows; stronger ones may need a book, practice, or a conversation. Rarer components gate the stronger versions, keyed to how affiliated she is with the region. She starts Session Zero with zero finished consumables. See [Lark Myca Roux](../Player%20Sheets/Lark%20Myca%20Roux.md).
+**Crafting.** The material-component-plus-foraging model here is how Lark's whole gas-and-powder kit works. From day one she can make the level-one version of any such ability she has access to — potentially all of them — but she carries none pre-made. Making one costs a story beat: she says what she is making, sources the parts in the fiction (the GM is lax — usually a quick stat roll and a short scene, a few charges out), and justifies how she knows the recipe. Common recipes she just knows; stronger ones may need a book, practice, or a conversation. Rarer components gate the stronger versions, keyed to how affiliated she is with the region. She starts Session Zero with zero finished consumables. See [Lark Myca Roux](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
-**Casting medium, loosened.** The delivery of these gases and powders runs on ordinary materials, and the bar is low — many common items work as a medium (a spirit like vodka, fragrant moss, a rag, a bottle). Robyn is rarely stopped for lack of a medium; treat it as flavour for how a cast looks, not a resource gate.
+**Casting medium, loosened.** The delivery of these gases and powders runs on ordinary materials, and the bar is low — many common items work as a medium (a spirit like vodka, fragrant moss, a rag, a bottle). Lark is rarely stopped for lack of a medium; treat it as flavour for how a cast looks, not a resource gate.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ### Endless Threat of Distraction
 
@@ -430,9 +472,9 @@ Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
 - **Effect**: A fog bursts from the caster. Each target rolls Constitution against the caster's Charisma. On a loss the target **loses its current objective** — its thoughts cascade into unrelated things and it cannot hold a purpose ("I must be running, running, running…"). The target is also **Tripping**, exactly as [Hallucination Gas](#hallucination-gas) defines it (Wisdom or Constitution check, target's choice, before any action that depends on perceiving correctly; disadvantage against Persuasion or Deception). Duration one turn at entry level; it lingers on a target nobody snaps out of it.
 - **Upcast**: Advances the effect — longer duration, or a wider fog — not the dice pool, matching the other cantrips here.
 
-The overlap with Hallucination Gas's Tripping is deliberate: this spell adds the objective-loss on top of it. Selected from Robyn's proposed mind-magic list and cast twice at Session Zero. *Intrusive Thoughts* and the reworked "dark vapor" from the same list are still unselected.
+The overlap with Hallucination Gas's Tripping is deliberate: this spell adds the objective-loss on top of it. Selected from Lark's mind-magic list and cast twice at Session Zero. *Intrusive Thoughts* and the reworked "dark vapor" from the same list are still unselected.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ### Commune with Ancestors
 
@@ -441,10 +483,10 @@ Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
 - **Components**: Material and Somatic — a mushroom-trip ritual that carries the caster into the [Feywild](../Lore/Magic%20System.md#the-feywild), where Fae dead go. Forces a Planned Action; this is not something cast mid-fight.
 - **Action**: Ritual (Planned Action).
 - **Range**: Self.
-- **Effect**: The caster communes with ancestors — and, per the 2026-08-14 interview, potentially a wider range of beings tied to the same matter/karmic lineage — for knowledge, advice, or perspective. Treat consulted ancestors as advisors the GM can voice, not as a mechanical bonus in its own right.
+- **Effect**: The caster communes with ancestors — and potentially a wider range of beings tied to the same matter/karmic lineage — for knowledge, advice, or perspective. Treat consulted ancestors as advisors the GM can voice, not as a mechanical bonus in its own right.
 - **Upcast**: Not yet decided.
 
-Holder: [Robyn](../Player%20Sheets/Lark%20Myca%20Roux.md).
+Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ### Alistrassa's cantrips
 

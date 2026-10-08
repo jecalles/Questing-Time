@@ -63,3 +63,14 @@ Sent Finnegan off to pick a flower so the party could talk, and lost him to thre
 - Caught Snarfa when he stumbled, kissed him, and left with him. Calliope saw, and turned away; only Iter noticed.
 
 **State at close:** Health Minor · Tokens 5 · Gold 20 (+20 in the group fund).
+
+## Session Six (2026-10-07)
+
+- Took the parasol canvas from Penny, runed against physical harm, and sewed it in.
+- Her mushroom brought Pudge and Seamus out of the Brightwater when the bridge dropped.
+- Face-planted in the chase (Prowess 1) and took a scratch for it.
+- Asked the thief if she was hurt. It landed; Ember cried, and the fight was over.
+- Healed everyone with her spores in the library.
+- Talked with the Red Lady off screen. The conversation is owed, one-on-one.
+
+**State at close:** Health Normal · Tokens 4 · Gold 20 (+20 in the group fund).
