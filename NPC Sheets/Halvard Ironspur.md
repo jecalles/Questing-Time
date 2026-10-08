@@ -1,7 +1,7 @@
 ---
-description: Halvard Ironspur, the Bootleggers' dwarf rune hand, knocked out by Pudge at the depot.
+description: Halvard Ironspur, a dwarf with twin curved swords who fought the party at the depot, knocked out by Pudge.
 tags: [npc]
 ---
 
-Halvard Ironspur, the Bootleggers' dwarf rune hand, knocked out by [Pudge](../Player%20Sheets/Pudge.md) at [the depot](../Lore/Places/The%20Red%20Line%20Depot.md).
+Halvard Ironspur, a dwarf with twin curved swords who fought the party at [the depot](../Lore/Places/The%20Red%20Line%20Depot.md), knocked out by [Pudge](../Player%20Sheets/Pudge.md).
 

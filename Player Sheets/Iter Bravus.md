@@ -40,9 +40,9 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 **[Night Vision](../Mechanics/Abilities.md#night-vision)** — racial. Sees perfectly in the dark. In bright light, before any check that depends on seeing, she rolls Constitution first; on a failure the check is at disadvantage. Her sunglasses cancel the penalty.
 
-**[Healing Spore Cloud](../Mechanics/Abilities.md#healing-spore-cloud)** — cantrip. Gifted [Restoration](../Lore/Places/Restoration.md). A burst of spores heals every friendly target in the radius by one step on the Health track. Ranged. Action only, once per turn.
+**[Healing Spore Cloud](../Mechanics/Abilities.md#healing-spore-cloud)** — cantrip. Gifted Restoration. A burst of spores heals every friendly target in the radius by one step on the Health track. Ranged. Action only, once per turn.
 
-**[Fungal Shield](../Mechanics/Abilities.md#fungal-shield)** — Gifted [Abjuration](../Lore/Places/Abjuration.md). A large mushroom springs up and takes the blow, reducing incoming damage by one step. Blocks physical attacks and [Evocation](../Lore/Places/Evocation.md) only. Reaction or action, up to twice a round.
+**[Fungal Shield](../Mechanics/Abilities.md#fungal-shield)** — Gifted Abjuration. A large mushroom springs up and takes the blow, reducing incoming damage by one step. Blocks physical attacks and Evocation only. Reaction or action, up to twice a round.
 
 ---
 

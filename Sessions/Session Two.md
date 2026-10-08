@@ -25,7 +25,7 @@ pirates and [Finnegan](../NPC%20Sheets/Seamus.md).
 
 Over dinner they talked the rune over. Alistrassa did not look at it —
 reading an assassination rune is what had nearly killed Pudge, and she
-has no armour — but she knew the shape of them. [Transmutation](../Lore/Places/Transmutation.md), the kind
+has no armour — but she knew the shape of them. Transmutation, the kind
 that kills. On paper that small it was either the work of a monster of
 a wizard or a bare, simple spell with every safeguard stripped off,
 which would explain why Pudge was hit though he was never the target. A

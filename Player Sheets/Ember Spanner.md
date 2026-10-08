@@ -42,7 +42,7 @@ A fifteen-year-old human, underfed and pale from seven years asleep, in a one-pi
 
 **Tinkering** — traps only, for now. Given the parts, she builds simple traps to type: smoke, explosive. Planned Actions only. See [Tinkering](../Mechanics/Abilities.md#tinkering).
 
-**Spark** — Minor, Gifted, [Evocation](../Lore/Places/Evocation.md). A spark at her fingers: no roll to light a fuse, a lamp, kindling or a charge she set. Against a person, Charisma against their Instinct. See [Spark](../Mechanics/Abilities.md#spark).
+**Spark** — Minor, Gifted, Evocation. A spark at her fingers: no roll to light a fuse, a lamp, kindling or a charge she set. Against a person, Charisma against their Instinct. See [Spark](../Mechanics/Abilities.md#spark).
 
 **Peripheral Sight** — she perceives what is watching — presence, intent, things past the party's vision — and must describe it **while looking somewhere else.** If she turns to look directly, it's gone. For reactive perception she rolls **Charisma in place of Instinct**, but only while looking away. _Lost entirely while Drowsy._ See [Peripheral Sight](../Mechanics/Abilities.md#peripheral-sight).
 
