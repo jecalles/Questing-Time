@@ -5,8 +5,8 @@ tags: [session-log]
 
 # Session Three — the depot firefight, and the karmic list
 
-*Played 2026-09-16. Previously: Session Two, the depot heist and
-Alistrassa joins.*
+*Played 2026-09-16. Previously: Session Two, [the depot](../Lore/Places/The%20Red%20Line%20Depot.md) heist and
+[Alistrassa](../Player%20Sheets/Alistrassa.md) joins.*
 
 Dawn at the depot, and the shooting had already started. Bob was inside
 the third container, invisible, next to a bound and gagged Munchkin who
@@ -16,11 +16,11 @@ with blunderbusses work out where the noise had come from. Nobody was
 wearing armour that meant anything. Leather does not stop shot, and the
 party found that out in the order you would expect.
 
-The train began to pull away with Finnegan on it. Iter put an
+The train began to pull away with [Finnegan](../NPC%20Sheets/Seamus.md) on it. [Iter](../Player%20Sheets/Iter%20Bravus.md) put an
 eight-foot mushroom up through the undercarriage and turned the whole
 thing over. Alistrassa took a blunderbuss to the jaw at close range,
 which was the moment the fight stopped being a robbery, and asked
-Snarfa — reasonably, given the circumstances — to put her somewhere
+[Snarfa](../NPC%20Sheets/Snarfa.md) — reasonably, given the circumstances — to put her somewhere
 else. He teleported her four hundred feet straight up. She spent the
 remainder of the morning falling, entirely out of range, calling
 observations down at the others as the ground came up at her by
@@ -46,22 +46,22 @@ together on the ground where she had fallen, and after that he had
 nothing left — no portals, no feather fall, no sleep, and none of the
 psychic business he had been doing all morning, which he called a
 vicious moonwalk and which nobody asked him to explain. He mentioned,
-in passing and apropos of nothing, that his friend Ra had once burned a
-thirty-foot cone into the floor of the Abjuration College. This was
+in passing and apropos of nothing, that his friend [Ra](../NPC%20Sheets/Ra.md) had once burned a
+thirty-foot cone into the floor of the [Abjuration](../Lore/Places/Abjuration.md) College. This was
 offered as reassurance.
 
 Finnegan got a hand loose once and had to be re-grappled and re-tied by
-Pudge, which is the most reliable thing that happened all session.
-Munge turned up late, fully healed, picked up one of the dead pirates'
+[Pudge](../Player%20Sheets/Pudge.md), which is the most reliable thing that happened all session.
+[Munge](../NPC%20Sheets/Munge.md) turned up late, fully healed, picked up one of the dead pirates'
 blunderbusses, and immediately shot himself with it.
 
 Somewhere in the middle of it a College insect familiar found Pudge and
-delivered a chit from Mark Thornbush. It asked two questions: did he
+delivered a chit from [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md). It asked two questions: did he
 have Finnegan, and had he received the envelope. Pudge wrote *yes and
 yes* on it and let it go, and it fell on the floor, because Pudge is
 not magical and never has been and the chit had no way of going
 anywhere. It lay there. Iter and Alistrassa both read it. Nobody from
-the College has heard a word.
+[the College](../Lore/The%20College%20of%20Mages.md) has heard a word.
 
 They took Finnegan, took two blunderbusses off the dead, and went to
 the College. There Alistrassa put real effort into her lens and turned
@@ -83,24 +83,24 @@ could say what it meant.
   there the second time and did not appear to know why.
 - Bob survived a third fall and has a broken spine. He was covered in
   sand afterwards. It looked like the sand from the crate.
-- Iter was decapitated and brought back on the spot. Snarfa has no spell
+- [Iter](../Player%20Sheets/Iter%20Bravus.md) was decapitated and brought back on the spot. [Snarfa](../NPC%20Sheets/Snarfa.md) has no spell
   slots left and will not have them back immediately.
-- Snarfa's friend Ra once melted a thirty-foot cone into the Abjuration
+- Snarfa's friend [Ra](../NPC%20Sheets/Ra.md) once melted a thirty-foot cone into the [Abjuration](../Lore/Places/Abjuration.md)
   College floor. Snarfa can apparently call on him.
-- **Bob's name is on Alistrassa's karmic wasting list.** Everyone else on
+- **Bob's name is on [Alistrassa](../Player%20Sheets/Alistrassa.md)'s karmic wasting list.** Everyone else on
   it is dead. Neither of them knows why it is there, and Bob does not
   remember it being written.
-- Mark Thornbush wrote asking whether Pudge has Finnegan and whether he
+- [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md) wrote asking whether [Pudge](../Player%20Sheets/Pudge.md) has [Finnegan](../NPC%20Sheets/Seamus.md) and whether he
   received the envelope. **Pudge's reply never went anywhere** — he is
-  not magical, and the chit dropped on the floor. The College still has
+  not magical, and the chit dropped on the floor. [The College](../Lore/The%20College%20of%20Mages.md) still has
   no answer. Iter and Alistrassa read it where it landed.
 - You have Finnegan, alive and tied, and two looted blunderbusses.
-- Munge shot himself with one of them and is banged up but walking.
+- [Munge](../NPC%20Sheets/Munge.md) shot himself with one of them and is banged up but walking.
 - You are at the College.
 
 ## State at close
 
-Iter Normal · Pudge Normal · Bob minor damage, broken spine · Alistrassa
-minor damage, karma unchanged. Munge minor damage. Determination tokens:
+[Iter](../Player%20Sheets/Iter%20Bravus.md) Normal · [Pudge](../Player%20Sheets/Pudge.md) Normal · Bob minor damage, broken spine · [Alistrassa](../Player%20Sheets/Alistrassa.md)
+minor damage, karma unchanged. [Munge](../NPC%20Sheets/Munge.md) minor damage. Determination tokens:
 Iter 9 · Pudge 7 · Bob 3 · Alistrassa 2. Gold unchanged — 20 each,
 Alistrassa 0, 20 in the fund.

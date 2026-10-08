@@ -7,20 +7,20 @@ tags: [session-log]
 
 *Played 2026-10-07. Previously: Session Five, the party and the sunbeam.*
 
-Snarfa's party was dying the way good parties do, slowly and with
-casualties. Transmutation had poured sand into Ra's hole and turned it
+[Snarfa](../NPC%20Sheets/Snarfa.md)'s party was dying the way good parties do, slowly and with
+casualties. [Transmutation](../Lore/Places/Transmutation.md) had poured sand into [Ra](../NPC%20Sheets/Ra.md)'s hole and turned it
 to concrete. Snarfa had taken three points of something and gone to
-sleep it off. Bob's other half still stood in the quad, legs and bare
-skeleton, and Bob had decided he was not going to do that again. Ada
+sleep it off. Bob's other half still stood in [the quad](../Lore/Places/The%20Quad.md), legs and bare
+skeleton, and Bob had decided he was not going to do that again. [Ada](../NPC%20Sheets/Ada%20Crane.md)
 Crane had been gone about twenty minutes, to her office, for her books.
-The party started up the stairs to Abjuration to see how Penny was
+The party started up the stairs to [Abjuration](../Lore/Places/Abjuration.md) to see how [Penny](../NPC%20Sheets/Penny.md) was
 getting on.
 
 They felt it before they heard it: a shudder through the stone, then a
 sonic boom. Out of the windows a column of smoke went up fifty feet, on
-the most direct line between the College and the Castle. That was the
-road Ada had taken. Alistrassa's nose bled a little, for no reason
-anyone could find. Iter went for her parasol and Alistrassa for her
+the most direct line between [the College](../Lore/The%20College%20of%20Mages.md) and [the Castle](../Lore/Places/The%20Castle.md). That was the
+road Ada had taken. [Alistrassa](../Player%20Sheets/Alistrassa.md)'s nose bled a little, for no reason
+anyone could find. [Iter](../Player%20Sheets/Iter%20Bravus.md) went for her parasol and Alistrassa for her
 cloak, on the principle that they were united in not dying again, and
 then everybody went to the blast.
 
@@ -32,7 +32,7 @@ been watching Ada for some time. She gathered up the books and went
 into the alleys.
 
 On the College steps, at that moment, a hooded figure crouched at the
-boom and checked that nobody had seen her get scared. Lark was back. She
+boom and checked that nobody had seen her get scared. [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) was back. She
 was covered from head to foot now: a cloak over her head, a leather top,
 long sleeves, gloves, trousers, her usual boots, her squirrels round her
 neck and a rucksack in one arm, and not a gas tank in sight. Out of the
@@ -55,19 +55,19 @@ and Penny brightened. Iter introduced Lark to Alistrassa. Lark asked
 about her satchel. Alistrassa said the sand inside was somehow tied up
 with karma; Bob kept coming back covered in it.
 
-Outside, Evocation wizards were pouring water from their hands onto the
+Outside, [Evocation](../Lore/Places/Evocation.md) wizards were pouring water from their hands onto the
 burning townhouses. Alistrassa read the scorch marks: a device, planted
 at a choke point on the direct road, in a narrow alley that no longer
 existed. Someone had meant to stop someone on the way from the College
-to the Castle. Pudge lifted the beam off Ada. She had heard a loud
+to the Castle. [Pudge](../Player%20Sheets/Pudge.md) lifted the beam off Ada. She had heard a loud
 noise and dropped her papers, and the girl had got away with them:
 five foot seven, dark hair in a fat ponytail, coveralls, heading for the
 Red Line. Ada wanted to give chase. Alistrassa asked Pudge to walk
 twenty feet ahead.
 
 He found the next one with his feet. A stone gave on a small bridge
-over the Brightwater, and Pudge went ten feet down into the river with
-Seamus held clear, and both of them were swept downstream. Iter threw a
+over the [Brightwater](../Lore/Places/The%20River%20Squish.md), and Pudge went ten feet down into the river with
+[Seamus](../NPC%20Sheets/Seamus.md) held clear, and both of them were swept downstream. Iter threw a
 mushroom out across the water. Pudge caught it with one hand and
 Seamus's rope with the other, and Seamus, who cannot scream, did not.
 They climbed out on the near side. The bridge had a fifteen-foot gap in
@@ -151,7 +151,7 @@ she watched.
 Iter went off to a quiet nook with her mushrooms to talk to the Red
 Lady. Pudge was scared to stay in the College, having lied in it. The
 girl said she knew a safe place. She knew the way in, and the owners,
-and they would not report anybody. Her name was Ember.
+and they would not report anybody. Her name was [Ember](../Player%20Sheets/Ember%20Spanner.md).
 
 Over the river, past an inn, in a quieter part of town, stood an old
 two-storey schoolhouse with a red tin roof: children's desks, a
@@ -159,7 +159,7 @@ chalkboard, beanbags, and no class for some years. Upstairs, rows of
 musty shelves: the history of the people who lived here before, the
 forest nearby, land taken, the books other people had tried to burn.
 Lark pitched her tent in the middle of the floor. It was bigger inside.
-Ember told her that her mother had worked in the Sharp Forest a couple
+Ember told her that her mother had worked in [the Sharp Forest](../Lore/Sharp%20Forest.md) a couple
 of decades ago, protecting it. They looked at each other awkwardly,
 with no animosity and no connection yet.
 
@@ -167,7 +167,7 @@ Then Alistrassa put her lens to the ledgers. It finds what she is
 looking for, and what she is looking for is whatever is killing her.
 The brightest thing in the room, by a mile, was her own bag of sand. But
 the papers glowed too, faintly, in some letters and not others: mostly
-numbers, scattered across the schools, in Abjuration, Restoration,
+numbers, scattered across the schools, in Abjuration, [Restoration](../Lore/Places/Restoration.md),
 Evocation and Conjuration and not the other two. On some pages it was
 the name of the item that had changed, not the price. On Haldane &
 Daughters' card, every item name had been changed. And the glow was not the blue
@@ -203,22 +203,22 @@ Before dawn, everyone rested.
 
 ## What your characters know
 
-- Someone blew the road between the College and the Castle, at a choke
-  point, and dropped a bridge over the Brightwater the same night. Two
+- Someone blew the road between [the College](../Lore/The%20College%20of%20Mages.md) and [the Castle](../Lore/Places/The%20Castle.md), at a choke
+  point, and dropped a bridge over the [Brightwater](../Lore/Places/The%20River%20Squish.md) the same night. Two
   charges: somebody who knew what they were doing.
-- The thief was Ember, a girl of about fifteen. Something in her shadow
+- The thief was [Ember](../Player%20Sheets/Ember%20Spanner.md), a girl of about fifteen. Something in her shadow
   takes her shape, screams, and moves her out of reach. She cried when
-  Iter asked if she was hurt. She is with you now, and you are on
-  neutral terms with her. Lark and she are more than that.
+  [Iter](../Player%20Sheets/Iter%20Bravus.md) asked if she was hurt. She is with you now, and you are on
+  neutral terms with her. [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) and she are more than that.
 - Lark is back. Her squirrels are Larry, Curly, The Bald One I Think, Yes
   and No.
 - Bob's moth is Mothra. When the Moon answers, it can go through a crack
   in time and space, and Bob can see through its eyes.
-- Penny's runes hold off physical harm: Iter's parasol from the side she
-  holds it open toward, Alistrassa's cloak always. Penny is tired. It is
+- [Penny](../NPC%20Sheets/Penny.md)'s runes hold off physical harm: Iter's parasol from the side she
+  holds it open toward, [Alistrassa](../Player%20Sheets/Alistrassa.md)'s cloak always. Penny is tired. It is
   midterms.
-- Snarfa broke his leg clean in half. He is in a cast at his desk.
-- Ada's line was two bat wings at four hundred gold bars: the Western
+- [Snarfa](../NPC%20Sheets/Snarfa.md) broke his leg clean in half. He is in a cast at his desk.
+- [Ada](../NPC%20Sheets/Ada%20Crane.md)'s line was two bat wings at four hundred gold bars: the Western
   Garrison for about eight months. The next day her notes said four gold
   eighteen silver, and the words she wrote it out in had changed too.
   Her supervisor napped all day with access to her desk.
@@ -228,7 +228,7 @@ Before dawn, everyone rested.
 - The books say the celestial and infernal realms lie opposite each
   other, the Feywild between, the world in the middle. *Karmic Topology*
   says the shape of it may shape karma.
-- Lark's people once did missionary work in New Squishnesta. The trust
+- Lark's people once did missionary work in [New Squishnesta](../Lore/New%20Squishnesta.md). The trust
   broke, and Lark does not know how.
 - You are in an old schoolhouse library across the river, red tin roof,
   full of books people tried to burn. Ember knows the owners.
@@ -237,7 +237,7 @@ Before dawn, everyone rested.
 
 ## State at close
 
-Everyone Normal, healed by Iter's spores. Bob, three deaths. Determination
-tokens: Iter 4 · Pudge 4. Not given at the table: Bob (8 at Session Five)
-· Alistrassa (4 at Session Five) · Lark (2) · Ember. Gold unchanged.
-Snarfa is in a cast.
+Everyone Normal, healed by [Iter](../Player%20Sheets/Iter%20Bravus.md)'s spores. Bob, three deaths. Determination
+tokens: Iter 4 · [Pudge](../Player%20Sheets/Pudge.md) 4. Not given at the table: Bob (8 at Session Five)
+· [Alistrassa](../Player%20Sheets/Alistrassa.md) (4 at Session Five) · [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) (2) · [Ember](../Player%20Sheets/Ember%20Spanner.md). Gold unchanged.
+[Snarfa](../NPC%20Sheets/Snarfa.md) is in a cast.

@@ -7,7 +7,7 @@ tags: [player-reference, magic-system, ability]
 
 **Player:** Alyssa
 
-A half-giant in a journeyman's leather armour the College gave him, carrying a two-handed hammer made from the tusk or femur of something large and magical. Big, quiet and hard to rattle — pleas and threats slide off him the way spells do. He is the College's Warden, sent along with the party to make sure their quest succeeds, and he says so. Magic near him fails: the runes in his armour dampen every spell cast in his zone, friend or enemy, unless he has attuned to the caster first. He watches more than he talks, and the party has learned that when he does talk it is a practical question. He opened the envelope in Hamlet himself, and his armour ate a death rune that would have killed anyone else.
+A half-giant in a journeyman's leather armour [the College](../Lore/The%20College%20of%20Mages.md) gave him, carrying a two-handed hammer made from the tusk or femur of something large and magical. Big, quiet and hard to rattle — pleas and threats slide off him the way spells do. He is the College's Warden, sent along with the party to make sure their quest succeeds, and he says so. Magic near him fails: the runes in his armour dampen every spell cast in his zone, friend or enemy, unless he has attuned to the caster first. He watches more than he talks, and the party has learned that when he does talk it is a practical question. He opened the envelope in [Hamlet](../Lore/Places/Hamlet.md) himself, and his armour ate a death rune that would have killed anyone else.
 
 **Now:** Health **Normal** · Tokens **4** · Gold **20** (+20 in the group fund) · as of Session Six (2026-10-07). Log: [Pudge](../Character%20Logs/Pudge.md).
 
@@ -42,7 +42,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **Pudge's Hammer** — two-handed, a plain Prowess attack. Made from the tusk (possibly the femur) of a large magical creature, with an unknown magical ability currently suppressed by his own Magical Dampening.
 
-**Pudge's Leather Armor** — a journeyman's set, gift of the College. Reduces incoming Health-track clicks by one step. Carries the abjurative runes that grant Magical Dampening; taking it off is one of the two ways to let magic heal him outside combat.
+**Pudge's Leather Armor** — a journeyman's set, gift of [the College](../Lore/The%20College%20of%20Mages.md). Reduces incoming Health-track clicks by one step. Carries the abjurative runes that grant Magical Dampening; taking it off is one of the two ways to let magic heal him outside combat.
 
 ---
 
@@ -60,13 +60,13 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## FACTION
 
-**The [College of Mages](../Lore/Factions.md#the-college-of-mages)**, as a Warden — their magic-suppressing enforcer. He was briefed in a College basement before Session Zero and ordered to shadow the party and see their quest succeed; "the College is deeply interested in the results."
+**The [College of Mages](../Lore/Factions.md#the-college-of-mages)**, as a Warden — their magic-suppressing enforcer. He was briefed in a College basement before Session Zero and ordered to shadow the party and see their quest succeed; "[the College](../Lore/The%20College%20of%20Mages.md) is deeply interested in the results."
 
 ---
 
 ## LAST BEAT
 
-Session Six: lifted the beam off Ada; went into the Brightwater with Seamus when the bridge dropped, and Iter's mushroom brought them out. His armour held off the Shade's scream. Pulled a tree out of the ground with Bob.
+Session Six: lifted the beam off [Ada](../NPC%20Sheets/Ada%20Crane.md); went into the [Brightwater](../Lore/Places/The%20River%20Squish.md) with [Seamus](../NPC%20Sheets/Seamus.md) when the bridge dropped, and [Iter](../Player%20Sheets/Iter%20Bravus.md)'s mushroom brought them out. His armour held off the Shade's scream. Pulled a tree out of the ground with Bob.
 
 ---
 

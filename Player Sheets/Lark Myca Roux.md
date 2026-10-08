@@ -66,7 +66,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **Greater truth serum** — **2/4 charges.** One charge drunk: truth for an encounter; all four: a week, bypassing alignment; one charge vaporised through the rig: common serum, target Constitution DC 8. See [Greater Truth Serum](../Mechanics/Items%20and%20Equipment.md#greater-truth-serum).
 
-**Reagents** — common and uncommon foraged stock (roughly 3 common + 1 uncommon at Session Zero: a glowing green toadstool); **morning dew**, three drops; **cinnamon**, a few chunks from Slo Mo's spice bag; a tooth from a Gary Busey.
+**Reagents** — common and uncommon foraged stock (roughly 3 common + 1 uncommon at Session Zero: a glowing green toadstool); **morning dew**, three drops; **cinnamon**, a few chunks from [Slo Mo](../NPC%20Sheets/Slo%20Mo.md)'s spice bag; a tooth from a Gary Busey.
 
 **Tent.** Magically larger on the inside — one small room for now; packs like an ordinary tent into the bottom of the rig. Safe-room use only where a tent could reasonably be pitched. See [Lark's Tent](../Mechanics/Items%20and%20Equipment.md#larks-tent).
 
@@ -74,9 +74,9 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **Cloak, outfit, boots** — as described above; no mechanical effect.
 
-**Library** — a flora notebook and books on Sharp Forest geography; borrowed references on New Squishnesta; a maker's journal she reads from to build toward new abilities; an old leather-bound family grimoire on mushrooms and potions that reveals more of itself as her practice deepens; and a scratch book with a truth-serum recipe on a loose sheet. — and a **mycology field notebook**, "a poke deck for mushrooms," one page per species she has met or means to.
+**Library** — a flora notebook and books on [Sharp Forest](../Lore/Sharp%20Forest.md) geography; borrowed references on [New Squishnesta](../Lore/New%20Squishnesta.md); a maker's journal she reads from to build toward new abilities; an old leather-bound family grimoire on mushrooms and potions that reveals more of itself as her practice deepens; and a scratch book with a truth-serum recipe on a loose sheet. — and a **mycology field notebook**, "a poke deck for mushrooms," one page per species she has met or means to.
 
-**Sleeping mat**, clipped to the rucksack. **The moth cage**, borrowed from Bob, lately Finnegan's.
+**Sleeping mat**, clipped to the rucksack. **The moth cage**, borrowed from Bob, lately [Finnegan](../NPC%20Sheets/Seamus.md)'s.
 
 *The rucksack is extensible; new gear clicks on as she acquires it.*
 
@@ -111,7 +111,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Six: came back to the College in a long black cloak, squirrels round her neck. Catapulted a squirrel at Ember and missed. Read karma in the library ("karma's bent because karma's mushrooms"), and was given Ember's mother's account of the Sharp Forest. Before that: two weeks away on her own quest, the Sour Patch mushroom. See [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
+Session Six: came back to [the College](../Lore/The%20College%20of%20Mages.md) in a long black cloak, squirrels round her neck. Catapulted a squirrel at [Ember](../Player%20Sheets/Ember%20Spanner.md) and missed. Read karma in the library ("karma's bent because karma's mushrooms"), and was given Ember's mother's account of [the Sharp Forest](../Lore/Sharp%20Forest.md). Before that: two weeks away on her own quest, the Sour Patch mushroom. See [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
 
 ---
 

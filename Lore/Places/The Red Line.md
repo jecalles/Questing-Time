@@ -1,0 +1,10 @@
+---
+description: "The Red Line: the Munchkin district, ringed in red brick, where the candy is a drug and five families run the trade."
+tags: [geography]
+---
+
+# The Red Line
+
+**The Red Line**: the Munchkin district, ringed by a road paved in red brick. A redlined ghetto in function if not in name — the name is a deliberate nod to historical redlining, crossed with the yellow brick road. The population is predominantly Munchkins, plus lesser and minor fey. Publicly, it's known only as a seedy district with illicit business behind its doors — the families themselves are not common knowledge. Densely populated and rough: the first thing that hits you is the smell of putrefying candy and sugar rotting in the streets, and the drug trade is out in the open — Munchkins mainlining lit "taffy" on the sidewalk. Official cartographers don't map it in any detail; to [the College](../../Lore/The%20College%20of%20Mages.md)'s mapmakers it's just a ghetto of no interest. It holds a tavern-equivalent of its own, and an enterprising group of Munchkins runs an **anarchist's library** there, doing small amounts of community organizing — not yet enough to be a threatening faction, but one the players can interact with. See [The Five Families](../../Lore/Factions.md#the-five-families) and [Substances](../../Mechanics/Items%20and%20Equipment.md#substances).
+
+**Walking the Red Line.** The district has **no hard walls** — the red brick is a road, not a barrier, and anyone may walk it. From [the Don](../../NPC%20Sheets/Don%20Aldo%20Zuccaro.md)'s home to Bill's block is a plain walk through the ghetto, the scenery shifting, corner kids somewhere on the way; there are only streets in between. Bill's shop, **Bambi the Baker's** bakery next door and **Kathy the Candlestick Maker** are one block. [The depot](../../Lore/Places/The%20Red%20Line%20Depot.md) sits at the far edge, opposite [the Castle](../../Lore/Places/The%20Castle.md); Millbank Manor at the inner one. The corner kids are diffuse and sprawl over every street; Ruby is not usually among them, being posted somewhere secluded, doing the numbers.

@@ -20,11 +20,11 @@ first day and went straight for a dean, which is not how it is done.
 
 The College is a hexagon: six schools, a spire each, small rooms, a
 shared quad, thirty-odd academics, books on every shelf and an IOU
-economy of chits to get at them. She met [Tim](../Player%20Materials/People%20You've%20Met.md#tim-aboul)
-at the Restoration clinic, who explained that humans practise none of
-it. She met [Martha](../Player%20Materials/People%20You've%20Met.md#martha-woolsworth) in procurement. She
+economy of chits to get at them. She met [Tim](../NPC%20Sheets/Tim%20Aboul.md)
+at the [Restoration](../Lore/Places/Restoration.md) clinic, who explained that humans practise none of
+it. She met [Martha](../NPC%20Sheets/Martha%20Woolsworth.md) in procurement. She
 got past a blunt fairy receptionist to [Dean
-Alistair](../Player%20Materials/People%20You've%20Met.md#dean-alistair) of Restoration, an old elf in white, who had a funded post
+[[NPC Sheets/Dean Alistair|Alistair](../Player%20Materials/People%20You've%20Met.md#dean-alistair)]] of Restoration, an old elf in white, who had a funded post
 that nobody wanted: karmic restoration. As he put it, the only people
 who care are the people who are currently dying. The last holder of the
 post had died at his desk of the same disease Alistrassa has. She took
@@ -35,18 +35,18 @@ A two-week research project ran to four months. She wanted a lens that
 would carry a spell so she would not have to cast it. To get one she
 assembled most of a faculty: [Snarfa](../Player%20Materials/People%20You've%20Met.md#snarfa), fifty years
 a super senior, flip-flops and fleece, better than some of the
-professors and paid to teach; [Penny](../Player%20Materials/People%20You've%20Met.md#penny), nineteen, on
+professors and paid to teach; [Penny](../NPC%20Sheets/Penny.md), nineteen, on
 her second coffee, who could not get the calligraphic flick and then
-could; [Ellis](../Player%20Materials/People%20You've%20Met.md#ellis), a Munchkin glassmaker from the south
-end of town who grinds bifocals; [Jeff](../Player%20Materials/People%20You've%20Met.md#jeff) of Evocation,
-whose answer to most problems is more fire; and [Eustace](../Player%20Materials/People%20You've%20Met.md#eustace)
-and [Muriel](../Player%20Materials/People%20You've%20Met.md#muriel) of Transmutation, arguing about
+could; [Ellis](../NPC%20Sheets/Ellis.md), a Munchkin glassmaker from the south
+end of town who grinds bifocals; [Jeff](../NPC%20Sheets/Jeff.md) of [Evocation](../Lore/Places/Evocation.md),
+whose answer to most problems is more fire; and [Eustace](../NPC%20Sheets/Eustace.md)
+and [Muriel](../NPC%20Sheets/Muriel.md) of [Transmutation](../Lore/Places/Transmutation.md), arguing about
 conservation laws over a transmittative ink.
 
 The rig projects a rune through inked paper into glass, and it needs a
-light that nobody at the College can supply. So Snarfa phoned the sun
-god. [Ra](../Player%20Materials/People%20You've%20Met.md#ra) came through a portal eagle-faced and golden,
-made his heartbeat the bass line of a party in the Abjuration hall, and
+light that nobody at the College can supply. So [Snarfa](../NPC%20Sheets/Snarfa.md) phoned the sun
+god. [Ra](../NPC%20Sheets/Ra.md) came through a portal eagle-faced and golden,
+made his heartbeat the bass line of a party in the [Abjuration](../Lore/Places/Abjuration.md) hall, and
 etched fifty-one lenses in a row without a miss. It was an assembly
 line, and it worked.
 
@@ -63,11 +63,11 @@ track of time, and the disease is why. See
 
 ## What your characters know
 
-- Alistrassa has been inside the College for four months. She knows the
+- [Alistrassa](../Player%20Sheets/Alistrassa.md) has been inside [the College](../Lore/The%20College%20of%20Mages.md) for four months. She knows the
   building, its six schools, and a dozen of its people by name.
 - Her clock is real and it is short. She is looking for a cure, and she
   has reason to think the College is where it is.
-- Martha, the Munchkin clerk whose sealed envelopes Finnegan was
+- [Martha](../NPC%20Sheets/Martha%20Woolsworth.md), the Munchkin clerk whose sealed envelopes [Finnegan](../NPC%20Sheets/Seamus.md) was
   carrying to Bill the Butcher, works a few doors from people Alistrassa
   now knows by name.
 - Anything at a common casting level she can compose from the set she

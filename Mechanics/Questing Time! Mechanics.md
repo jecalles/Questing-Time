@@ -105,7 +105,7 @@ This is deliberate. The default is not Neutral. Neutral is earned.
 
 **Shared racial identity with a faction raises alignment by one tier.** Apply this before any other modifier.
 
-A Drau meeting the Drau of the City starts at Neutral, not Misaligned.
+A Drau meeting the Drau of [the City](../Lore/New%20Squishnesta.md) starts at Neutral, not Misaligned.
 
 This is a starting position, not a fixed one. A character can be an Enemy of a faction of their own race.
 
@@ -115,7 +115,7 @@ Plot points move alignment. A faction's [Current Move](../Lore/Factions.md) is t
 
 ## Regional Familiarity
 
-Knowledge keyed to a place runs on the same track, from **unfamiliar to familiar**. A character keys off the region they are from — "the UKs" for the current party — and gains familiarity with a new region by spending time in it. It gates what a Wisdom or knowledge roll can turn up: a stranger to a city knows nothing a local would; a character who has spent real time there knows what an ordinary street person knows, and more through their own faction and social ties under the normal alignment rules. After Sessions Zero–Two all four PCs are at least **Neutrally familiar with New Squishnesta**.
+Knowledge keyed to a place runs on the same track, from **unfamiliar to familiar**. A character keys off the region they are from — "the UKs" for the current party — and gains familiarity with a new region by spending time in it. It gates what a Wisdom or knowledge roll can turn up: a stranger to a city knows nothing a local would; a character who has spent real time there knows what an ordinary street person knows, and more through their own faction and social ties under the normal alignment rules. After Sessions Zero–Two all four PCs are at least **Neutrally familiar with [New Squishnesta](../Lore/New%20Squishnesta.md)**.
 
 # Abilities
 
@@ -127,7 +127,7 @@ Your character may start with a set of these abilities and acquire new ones thro
 
 # Items and Equipment
 
-Moved to its own file: [Items and Equipment](../Mechanics/Items%20and%20Equipment.md). Key Items, Weapons, Consumables, and the Red Line substances all live there now.
+Moved to its own file: [Items and Equipment](../Mechanics/Items%20and%20Equipment.md). Key Items, Weapons, Consumables, and [the Red Line](../Lore/Places/The%20Red%20Line.md) substances all live there now.
 
 # Initiative
 

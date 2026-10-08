@@ -9,9 +9,9 @@ tags: [player-reference, magic-system, ability]
 
 > _It has to be something, because it can't be nothing. We are not doing nothing anymore._
 
-A fifteen-year-old human, underfed and pale from seven years asleep, in a one-piece worker's coverall, the trousers baggy and cinched at the ankle over boots, a white tee under it, and a thigh holster for her weapon, tools and reagents, everything oversized, workwear cut the Japanese way; her hair grown to her ankles and worn in one long braid. Undercover, she wears whatever uniform the job needs. A work hammer too big for her, a multi-tool on her belt, a bag of tools with a manifesto in it. She slips out of rooms as a first instinct and camouflages into any company as a second. Something follows her that is most visible in shadow. The night she ran with Ada's books, forest-green fatigues.
+A fifteen-year-old human, underfed and pale from seven years asleep, in a one-piece worker's coverall, the trousers baggy and cinched at the ankle over boots, a white tee under it, and a thigh holster for her weapon, tools and reagents, everything oversized, workwear cut the Japanese way; her hair grown to her ankles and worn in one long braid. Undercover, she wears whatever uniform the job needs. A work hammer too big for her, a multi-tool on her belt, a bag of tools with a manifesto in it. She slips out of rooms as a first instinct and camouflages into any company as a second. Something follows her that is most visible in shadow. The night she ran with [Ada](../NPC%20Sheets/Ada%20Crane.md)'s books, forest-green fatigues.
 
-**Now:** Health **Normal** · Tokens not given at Session Six · with the party in the schoolhouse library, before dawn · as of Session Six (2026-10-07). Log: [Ember Spanner](../Character%20Logs/Ember%20Spanner.md).
+**Now:** Health **Normal** · Tokens not given at Session Six · with the party in [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md), before dawn · as of Session Six (2026-10-07). Log: [Ember Spanner](../Character%20Logs/Ember%20Spanner.md).
 
 ---
 
@@ -42,7 +42,7 @@ A fifteen-year-old human, underfed and pale from seven years asleep, in a one-pi
 
 **Tinkering** — traps only, for now. Given the parts, she builds simple traps to type: smoke, explosive. Planned Actions only. See [Tinkering](../Mechanics/Abilities.md#tinkering).
 
-**Spark** — Minor, Gifted, Evocation. A spark at her fingers: no roll to light a fuse, a lamp, kindling or a charge she set. Against a person, Charisma against their Instinct. See [Spark](../Mechanics/Abilities.md#spark).
+**Spark** — Minor, Gifted, [Evocation](../Lore/Places/Evocation.md). A spark at her fingers: no roll to light a fuse, a lamp, kindling or a charge she set. Against a person, Charisma against their Instinct. See [Spark](../Mechanics/Abilities.md#spark).
 
 **Peripheral Sight** — she perceives what is watching — presence, intent, things past the party's vision — and must describe it **while looking somewhere else.** If she turns to look directly, it's gone. For reactive perception she rolls **Charisma in place of Instinct**, but only while looking away. _Lost entirely while Drowsy._ See [Peripheral Sight](../Mechanics/Abilities.md#peripheral-sight).
 
@@ -113,7 +113,7 @@ Full entries: [The Shade](../Mechanics/Abilities.md#the-shade).
 
 ## LAST BEAT
 
-Session Six: blew the road outside the College and took Ada Crane's ledgers. Led six of them on a chase over the river, dropped a bridge and a lintel, and lost, up a tree that Pudge and Bob pulled out of the ground. Bob held her; Iter asked if she was hurt, and she cried. Took them to the schoolhouse library. Log: [Ember Spanner](../Character%20Logs/Ember%20Spanner.md).
+Session Six: blew the road outside [the College](../Lore/The%20College%20of%20Mages.md) and took [Ada Crane](../NPC%20Sheets/Ada%20Crane.md)'s ledgers. Led six of them on a chase over the river, dropped a bridge and a lintel, and lost, up a tree that [Pudge](../Player%20Sheets/Pudge.md) and Bob pulled out of the ground. Bob held her; [Iter](../Player%20Sheets/Iter%20Bravus.md) asked if she was hurt, and she cried. Took them to [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md). Log: [Ember Spanner](../Character%20Logs/Ember%20Spanner.md).
 
 ---
 

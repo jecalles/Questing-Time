@@ -79,7 +79,7 @@ Holders: [City Dwellers](../Mechanics/Stat%20Blocks.md#city-dwellers).
 
 Roll advantage for social checks involving people the character may know.
 
-Holders: Bob (name TBD).
+Holders: [Bob (name TBD)](../NPC%20Sheets/Robert.md).
 
 ## Reckless
 
@@ -89,7 +89,7 @@ Roll **proactive checks with advantage** — and every proactive check made **ag
 
 Roll 2x dice for checks performed on familiar territory. Sum the dice, and let each of them explode.
 
-Holders: [Slo Mo](../Player%20Materials/People%20You've%20Met.md#slo-mo), Bill the Butcher, [Ellis](../Player%20Materials/People%20You've%20Met.md#ellis).
+Holders: [Slo Mo](../NPC%20Sheets/Slo%20Mo.md), Bill the Butcher, [Ellis](../NPC%20Sheets/Ellis.md).
 
 ## Magical Dampening
 
@@ -137,7 +137,7 @@ Roll Charisma to befriend a nearby creature as a companion. Tiered by the creatu
 
 - **Minor** (small doves, sentient toadstools) and **Lesser** — trivially available given a high Charisma die.
 - **Common** and **Greater** — require a narrative beat to unlock.
-- **Major** — forest-scale companionship (the Sharp Forest itself is a Major Aspect of Gaia). Requires regional attunement plus a developed narrative arc, not a single beat.
+- **Major** — forest-scale companionship ([the Sharp Forest](../Lore/Sharp%20Forest.md) itself is a Major Aspect of Gaia). Requires regional attunement plus a developed narrative arc, not a single beat.
 
 **Mechanics for a bonded companion in play are not yet written** — this is an advancement track, not a finished ability.
 
@@ -400,7 +400,7 @@ A character may hold this alongside a learned channel, and one is not a cover fo
 
 **Every Celestial has two faces** — a person's shape in the Celestial Sphere, a heavenly body in the material world (see [The Immaterial Planes](../Lore/Magic%20System.md#the-immaterial-planes)). This block describes the manifested, material-world body, and that body can be killed.
 
-**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. Ra, a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
+**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. [Ra](../NPC%20Sheets/Ra.md), a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
 
 **The killer takes a karmic consequence too**, keyed to the relationship: amplificatory if the two were enemies, diminishing if they were allies. Killing an allied Celestial is a betrayal in the karmic sense even when it is also a tactical necessity.
 
@@ -521,7 +521,7 @@ Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 - **Speaking ends the concealment** for as long as the target keeps it up, and anyone nearby may roll to perceive them.
 - **Does not end on the target attacking or casting** — unlike ordinary invisibility, it holds through aggressive action.
 
-Demonstrated by: [Snarfa](../NPC%20Sheets/Snarfa.md) (cast on Bob for the depot climb, where the climb into the car still took its Prowess roll).
+Demonstrated by: [Snarfa](../NPC%20Sheets/Snarfa.md) (cast on Bob for [the depot](../Lore/Places/The%20Red%20Line%20Depot.md) climb, where the climb into the car still took its Prowess roll).
 
 # Open Rulings
 

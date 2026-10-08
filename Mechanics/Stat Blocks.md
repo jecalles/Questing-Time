@@ -106,7 +106,7 @@ High constitution, relatively high prowess and wisdom, and intelligence a little
 
 ### Dwarves (Artificer) — variant
 
-For a dwarf shaped by the Guild's workshops rather than the depot floor: raise Intelligence to the top. D20 Intelligence; D12 Constitution; D10 Wisdom; D8 Prowess; D6 Charisma; D4 Instinct.
+For a dwarf shaped by the Guild's workshops rather than [the depot](../Lore/Places/The%20Red%20Line%20Depot.md) floor: raise Intelligence to the top. D20 Intelligence; D12 Constitution; D10 Wisdom; D8 Prowess; D6 Charisma; D4 Instinct.
 
 Caster skews — Derived: Wis D20 · Int D12 · Con D10 · Pro D8 · Cha D6 · Ins D4 · Innate: Con D20 · Pro D12 · Wis D10 · Int D8 · Cha D6 · Ins D4 · Gifted: Cha D20 · Ins D12 · Con D10 · Pro D8 · Wis D6 · Int D4. See [Skews](#skews).
 
@@ -138,7 +138,7 @@ Some traits key to where a character was raised, not to their race. Any race can
 
 Holders:
 - Some characters of [New Squishnesta](../Lore/New%20Squishnesta.md), case by case.
-- **The Drau ancestral cave city's metropolitan center** — confirmed. It's a genuine metropolis, so its Drau count as city-dwellers the same as any other. See [The UKaves](../Lore/Questing%20Time!%20Geography.md#the-ukaves).
+- **The Drau ancestral cave city's metropolitan center** — confirmed. It's a genuine metropolis, so its Drau count as city-dwellers the same as any other. See [The UKaves](../Lore/Places/The%20UKaves.md).
 
 It does **not** hold for cave-dwelling Drau scattered through the periphery caves — the smaller settlements ringing the ancestral city and elsewhere. They aren't metropolitan, so they don't qualify. This is the same ruling as above, not a separate exception.
 

@@ -5,27 +5,27 @@ tags: [session-log]
 
 # Session Two — the depot heist, and Alistrassa joins
 
-*Played 2026-09-09. Previously: Session One, the Red Line and the Don.*
+*Played 2026-09-09. Previously: Session One, [the Red Line](../Lore/Places/The%20Red%20Line.md) and [the Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md).*
 
-Morning at the Don's. Nonna was cooking peppermint pasta and the Don
-was asleep in it. Lark was gone: a note on her bed — *Off. Mage?
+Morning at the Don's. [Nonna](../NPC%20Sheets/Nonna.md) was cooking peppermint pasta and the Don
+was asleep in it. [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) was gone: a note on her bed — *Off. Mage?
 Mushroom. That sounds cool. Love you. Bye.* — and the party's tent
-gone with her. Then a knock. Slo Mo showed in a six-foot high elf in
+gone with her. Then a knock. [Slo Mo](../NPC%20Sheets/Slo%20Mo.md) showed in a six-foot high elf in
 College robes, winded from the walk across the city, who introduced
-herself to everyone at once as Alistrassa — "Alice for short." She had
+herself to everyone at once as [Alistrassa](../Player%20Sheets/Alistrassa.md) — "Alice for short." She had
 come for a party said to be carrying a College rune, and for someone
-named Pudge. Pudge, looking at the robes and not the face: "It is I
-whom you are looking for." The Dean of Restoration had sent her on a
-rumour from Martha in Procurement, and Martha had found the address.
+named [Pudge](../Player%20Sheets/Pudge.md). Pudge, looking at the robes and not the face: "It is I
+whom you are looking for." The Dean of [Restoration](../Lore/Places/Restoration.md) had sent her on a
+rumour from [Martha](../NPC%20Sheets/Martha%20Woolsworth.md) in [Procurement](../Lore/Places/Procurement.md), and Martha had found the address.
 The party stepped aside and Pudge read her as frazzled, fixed on
-something that was not the College's usual business, and not
+something that was not [the College](../Lore/The%20College%20of%20Mages.md)'s usual business, and not
 nefarious. The deal was hers: "I will help you with this if you will
 help me with that." Her runecraft for the rune; their help with the
-pirates and Finnegan.
+pirates and [Finnegan](../NPC%20Sheets/Seamus.md).
 
 Over dinner they talked the rune over. Alistrassa did not look at it —
 reading an assassination rune is what had nearly killed Pudge, and she
-has no armour — but she knew the shape of them. Transmutation, the kind
+has no armour — but she knew the shape of them. [Transmutation](../Lore/Places/Transmutation.md), the kind
 that kills. On paper that small it was either the work of a monster of
 a wizard or a bare, simple spell with every safeguard stripped off,
 which would explain why Pudge was hit though he was never the target. A
@@ -35,18 +35,18 @@ was the one who could describe the thing itself: a quarter-folio sheet,
 a plain and simple hand, and a third detail that nagged at him and
 would not come. Alistrassa's lens, meanwhile, lit at Finnegan, brighter
 at the pirate, and brightest at something she could not name.
-Pudge wrote a chit to his College handler, Mark Thornbush — *still
+Pudge wrote a chit to his College handler, [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md) — *still
 following Finnegan, got side-quested, please advise* — and watched it
-fly off. No reply. Alistrassa wrote one to Snarfa, the College's
+fly off. No reply. Alistrassa wrote one to [Snarfa](../NPC%20Sheets/Snarfa.md), the College's
 fifty-year super senior, asking discreetly who hands out kill-runes
 with no safeguards. The answer came back soggy, half a folio, to the
 back of her head: *Heinous. You sure? Ask if you need help.*
 
 Bob stepped into the moonlight and asked Yuhai. The moon darkened at
-the name, then a beam of it lit the way toward the depot. Iter healed
-Munge to nearly whole; he picked up a club and came. The depot was
+the name, then a beam of it lit the way toward [the depot](../Lore/Places/The%20Red%20Line%20Depot.md). [Iter](../Player%20Sheets/Iter%20Bravus.md) healed
+[Munge](../NPC%20Sheets/Munge.md) to nearly whole; he picked up a club and came. The depot was
 rusted warehouses with holes in the walls that looked made rather than
-rotted, behind the only fence in the Red Line. Bartholomew
+rotted, behind the only fence in the Red Line. [Bartholomew](../NPC%20Sheets/Bartholomew%20Groundshaker.md)
 Groundshaker, a dwarf locking the gate after ten years on the job,
 took a liking to them and showed off how the trains float: paired
 white sigils on car and rail that push each other apart. Then Snarfa
@@ -83,34 +83,34 @@ one, boys."
 
 ## What your characters know
 
-- Alistrassa is with you: a College professor with a wasting disease,
+- [Alistrassa](../Player%20Sheets/Alistrassa.md) is with you: a College professor with a wasting disease,
   a few years left, and a lens that lights up at whatever might save
-  her. The deal is her runecraft for your help with Finnegan.
+  her. The deal is her runecraft for your help with [Finnegan](../NPC%20Sheets/Seamus.md).
 - The death rune: talked over, not read — a kill-rune reads back at
   whoever looks. It is transmutation, and on paper that small it is
   either a prodigious caster's work or a simple spell with the
-  safeguards stripped. Pudge, who has already survived it, can picture
+  safeguards stripped. [Pudge](../Player%20Sheets/Pudge.md), who has already survived it, can picture
   the sheet — a quarter-folio, a plain hand — and a third detail he
   cannot place. A countersign is possible but needs a Dispel line and
   research.
-- Pudge's College handler is a mage named Mark Thornbush. Pudge's
-  report to him went unanswered, and nobody from the College has
+- Pudge's College handler is a mage named [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md). Pudge's
+  report to him went unanswered, and nobody from [the College](../Lore/The%20College%20of%20Mages.md) has
   checked in on him at all.
-- Snarfa is with you, some of the time. He can stop the moon, drop a
+- [Snarfa](../NPC%20Sheets/Snarfa.md) is with you, some of the time. He can stop the moon, drop a
   man through the floor into somewhere else, and make you near-silent
-  without making you invisible. Bartholomew is wherever Snarfa put him.
+  without making you invisible. [Bartholomew](../NPC%20Sheets/Bartholomew%20Groundshaker.md) is wherever Snarfa put him.
 - You carry a bag of glowing sand and a small sample of it. Nobody
   knows what it is. Alistrassa's lens burns at it. A plain Identify
   would speed her disease; a safe one needs the College.
 - The velvet pouch held a strong assassination rune. Snarfa drew it
   out. You keep the empty pouch.
-- Finnegan is in the third train container at the depot with six short
+- Finnegan is in the third train container at [the depot](../Lore/Places/The%20Red%20Line%20Depot.md) with six short
   guards. Bob is in there with him. The shooting has started.
 - It is October and the moon is waxing. When Bob says Yuhai's name,
   the moon darkens.
-- Lark is at the College. She left a note and took the tent.
+- [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) is at the College. She left a note and took the tent.
 
 ## Determination tokens at close
 
-Pudge 6 · Iter 12 · Alistrassa 3 · Bob 0. Bob: minor damage, two
+[Pudge](../Player%20Sheets/Pudge.md) 6 · [Iter](../Player%20Sheets/Iter%20Bravus.md) 12 · [Alistrassa](../Player%20Sheets/Alistrassa.md) 3 · Bob 0. Bob: minor damage, two
 broken fingers. Gold: 20 each, Alistrassa 0, 20 in the fund.

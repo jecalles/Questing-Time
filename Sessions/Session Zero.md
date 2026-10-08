@@ -6,26 +6,26 @@ tags: [session-log]
 # Session Zero — the envelope run
 
 *Played 2026-08-29. The campaign's first session. Next: Session One,
-the Red Line and the Don.*
+[the Red Line](../Lore/Places/The%20Red%20Line.md) and [the Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md).*
 
-Four roads into the City. Iter Bravus led a blind man through the caves
+Four roads into [the City](../Lore/New%20Squishnesta.md). [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md) led a blind man through the caves
 under New Squishnesta for days, following a vision from the Red Lady —
-find a man stumbling out of the depths — while the man, Baeon "Bob"
+find a man stumbling out of the depths — while the man, [Baeon](../Player%20Sheets/Baeon%20"Bob"%20Oberoni.md) "Bob"
 Oberoni, prayed to Yuhai and trusted a divining rock. Both came up into
 daylight caked in cave and, in Bob's case, in the ash of his dead
-priest, which he refuses to wash off. Lark Myca Roux floated out of the
-Sharp Forest on the far edge of the Shire with five squirrels who had
+priest, which he refuses to wash off. [Lark Myca Roux](../Player%20Sheets/Lark%20Myca%20Roux.md) floated out of the
+[Sharp Forest](../Lore/Sharp%20Forest.md) on the far edge of [the Shire](../Lore/Places/Squishnestashire.md) with five squirrels who had
 fallen out of the trees under her aura, developed a drug problem, and
-drunk her gas charges dry. Pudge sat in a College basement while a
-nervous old wizard told him the College was "deeply interested in the
+drunk her gas charges dry. [Pudge](../Player%20Sheets/Pudge.md) sat in a College basement while a
+nervous old wizard told him [the College](../Lore/The%20College%20of%20Mages.md) was "deeply interested in the
 results" of a quest some strangers were about to take, and that his job
 was to shadow them and see it succeed. The wizard was hiding something.
-Pudge then sat in the Battered Drum for a day and a half, waiting.
+Pudge then sat in [the Battered Drum](../Lore/Places/The%20Tavern.md) for a day and a half, waiting.
 
-They met at the Drum. So did Finnegan Bramblebush, a Munchkin already
+They met at the Drum. So did [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md), a Munchkin already
 high on Lark's gases from the road in — "Finnegan, you're one of us" —
 who had a job: fetch a wax-sealed College envelope from the tavern in
-Hamlet, a long day's walk northwest, and bring it back. The deed to his
+[Hamlet](../Lore/Places/Hamlet.md), a long day's walk northwest, and bring it back. The deed to his
 new farmstead, he said. No fee was named. Nobody asked.
 
 Nobody rested either. The party drank through the night, Bob and Iter
@@ -88,11 +88,11 @@ weaker.
 ## What your characters know
 
 - The envelope is a College of Mages death rune: one-shot, kills the
- reader, only the reader. Its seal is the College's own. Pudge read it
+ reader, only the reader. Its seal is [the College](../Lore/The%20College%20of%20Mages.md)'s own. [Pudge](../Player%20Sheets/Pudge.md) read it
  and lived because of his armour; nobody else could have.
-- The College handed it to Finnegan as the deed to his farmstead. They
+- The College handed it to [Finnegan](../NPC%20Sheets/Seamus.md) as the deed to his farmstead. They
  meant him dead.
-- Finnegan smuggles enchanted candy into the Red Line for the College,
+- Finnegan smuggles enchanted candy into [the Red Line](../Lore/Places/The%20Red%20Line.md) for the College,
  on the promise of land. He knows who moves what.
 - Bill the Butcher: eastern Red Line, butterbeer and butter-rum.
  Bramblebeard Thramplesnatch: butterscotch, and a pirate.
@@ -100,10 +100,10 @@ weaker.
  everything Finnegan said in the tavern and left. Bob knew him alive.
 - Pudge was sent by the College to see this quest succeed. The wizard
  who sent him was agitated and hiding something.
-- The Red Lady's guidance to Iter is "it's about a place," not a man.
+- The Red Lady's guidance to [Iter](../Player%20Sheets/Iter%20Bravus.md) is "it's about a place," not a man.
  Yuhai charged Bob to lead the Bobs in the light of the moon. The two
  seem to be pushing the same way.
-- Hamlet sits under a shiny mist and, for Iter, bad lute music. Nobody
+- [Hamlet](../Lore/Places/Hamlet.md) sits under a shiny mist and, for Iter, bad lute music. Nobody
  knows why.
 - Alignment runs between characters as well as with factions, and it is
  not mutual. Misaligned with someone means disadvantage to persuade or
@@ -113,4 +113,4 @@ weaker.
 
 ## Determination tokens at close
 
-Pudge 3 · Lark 4 · Iter 6 · Bob 5. No gold changed hands.
+[Pudge](../Player%20Sheets/Pudge.md) 3 · [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) 4 · [Iter](../Player%20Sheets/Iter%20Bravus.md) 6 · Bob 5. No gold changed hands.

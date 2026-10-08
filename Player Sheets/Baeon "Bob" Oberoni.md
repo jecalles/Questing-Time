@@ -56,9 +56,9 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **Chopsticks** — short-ranged melee weapon, piercing.
 
-**Rusted Hilt of a Sword** — short-ranged melee weapon, bludgeoning. Picked up in Hamlet, in a scabbard.
+**Rusted Hilt of a Sword** — short-ranged melee weapon, bludgeoning. Picked up in [Hamlet](../Lore/Places/Hamlet.md), in a scabbard.
 
-**Mothra** (the Moth) — formerly in a very small cage; released at Session Zero, it follows him now. Treated as a familiar; its reverberation stun works **once per encounter**. See [The Moth (formerly "A Very Small Moth in a Very Small Cage")](../Mechanics/Items%20and%20Equipment.md#the-moth-formerly-a-very-small-moth-in-a-very-small-cage). The cage held Finnegan for a while. On the Moon's answer it blinked through a crack in time and space into Ember's face, and Bob rode its senses.
+**Mothra** (the Moth) — formerly in a very small cage; released at Session Zero, it follows him now. Treated as a familiar; its reverberation stun works **once per encounter**. See [The Moth (formerly "A Very Small Moth in a Very Small Cage")](../Mechanics/Items%20and%20Equipment.md#the-moth-formerly-a-very-small-moth-in-a-very-small-cage). The cage held [Finnegan](../NPC%20Sheets/Seamus.md) for a while. On the Moon's answer it blinked through a crack in time and space into [Ember](../Player%20Sheets/Ember%20Spanner.md)'s face, and Bob rode its senses.
 
 **A leather pouch of his own sand**, brushed off after his third death. **Clothes from a lost-and-found**, too small.
 
@@ -66,7 +66,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 **The sacred cowbell** — the Yuhai cult reveres cowbell as a sacred instrument. Rung at Session One to cover a dosing.
 
-**Two unopened scrolls** — wax seals intact, a different seal from the College's. A hook, not a spell source.
+**Two unopened scrolls** — wax seals intact, a different seal from [the College](../Lore/The%20College%20of%20Mages.md)'s. A hook, not a spell source.
 
 **A half-filled spittoon.**
 
@@ -88,7 +88,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Six: cast Speak with Animals and the Moon answered on a 93: Mothra blinked into Ember's face. Pulled a tree out of the ground with Pudge and held Ember. Read the planes in the schoolhouse library and found *Karmic Topology*.
+Session Six: cast Speak with Animals and the Moon answered on a 93: Mothra blinked into [Ember](../Player%20Sheets/Ember%20Spanner.md)'s face. Pulled a tree out of the ground with [Pudge](../Player%20Sheets/Pudge.md) and held Ember. Read the planes in [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md) and found *Karmic Topology*.
 
 ---
 

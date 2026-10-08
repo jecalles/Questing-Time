@@ -5,18 +5,18 @@ tags: [npc]
 
 **Half Munchkin, half human · he/him · Seamus, once Finnegan Bramblebush**
 
-The Red Line's go-between: he knows the heads of all five families, and none of them like him. He ran candy for the College with Bill the Butcher, for the promise of a homestead that never existed, and handed the party the envelope run at the Tavern. Since Session Four he has a glamoured face, blonde and flat-nosed with every feature turned to its opposite, and no voice at all. He tells you what he believes and is often wrong. He brightens the moment anyone is kind to him.
+[The Red Line](../Lore/Places/The%20Red%20Line.md)'s go-between: he knows the heads of all five families, and none of them like him. He ran candy for [the College](../Lore/The%20College%20of%20Mages.md) with Bill the Butcher, for the promise of a homestead that never existed, and handed the party the envelope run at [the Tavern](../Lore/Places/The%20Tavern.md). Since Session Four he has a glamoured face, blonde and flat-nosed with every feature turned to its opposite, and no voice at all. He tells you what he believes and is often wrong. He brightens the moment anyone is kind to him.
 
-**Now:** Major damage · mute · on a rope in Pudge's hand · as of Session Five (2026-09-30).
+**Now:** Major damage · mute · on a rope in [Pudge](../Player%20Sheets/Pudge.md)'s hand · as of Session Five (2026-09-30).
 
 ## WHAT THE PARTY KNOWS
 
-- The College promised him land for moving its candy into the Red Line. The deed was his only pay.
+- [The College](../Lore/The%20College%20of%20Mages.md) promised him land for moving its candy into [the Red Line](../Lore/Places/The%20Red%20Line.md). The deed was his only pay.
 - The envelope he gave them held a death rune, meant for him.
-- Under truth serum: he has never had money; Bill the Butcher owes him a gold and change in wages; Bramblebeard trusts only Bill; he carried Martha's sealed envelopes to Bill without reading them.
-- The party sold him to the Don. He was taken from the Don's back room, found bound in a train car at the depot, and recovered there.
-- The sand is bought legally by the College through Procurement, collected by a Munchkin with a long moustache and a goatee, and brought in on Bramblebeard's trains from Seaside. The Don's people do the Red Line's killing; he listed about a hundred of the dead.
-- He is mute until Snarfa lifts the spell.
+- Under truth serum: he has never had money; Bill the Butcher owes him a gold and change in wages; Bramblebeard trusts only Bill; he carried [Martha](../NPC%20Sheets/Martha%20Woolsworth.md)'s sealed envelopes to Bill without reading them.
+- The party sold him to [the Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md). He was taken from the Don's back room, found bound in a train car at [the depot](../Lore/Places/The%20Red%20Line%20Depot.md), and recovered there.
+- The sand is bought legally by the College through [Procurement](../Lore/Places/Procurement.md), collected by a Munchkin with a long moustache and a goatee, and brought in on Bramblebeard's trains from Seaside. The Don's people do the Red Line's killing; he listed about a hundred of the dead.
+- He is mute until [Snarfa](../NPC%20Sheets/Snarfa.md) lifts the spell.
 - The plan: his arm, a death for the Don, and a raising from the arm. On hold since Session Five; nothing cut.
 
 ## ALIGNMENT
@@ -31,5 +31,5 @@ The Red Line's go-between: he knows the heads of all five families, and none of 
 
 ## LAST BEAT
 
-Session Five: carried through Snarfa's party on a rope, like a handbag; nobody asked. The arm plan is on hold.
+Session Five: carried through [Snarfa](../NPC%20Sheets/Snarfa.md)'s party on a rope, like a handbag; nobody asked. The arm plan is on hold.
 

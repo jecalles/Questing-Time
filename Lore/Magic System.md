@@ -27,9 +27,9 @@ The written art of magic is Inscription. The world is suffused with magic the wa
 
 **Runes grow.** Geometry carries magic whoever draws it, and mushrooms and plants grow it. A mycelium's pattern is inscription: it projects into the immaterial planes and ties the two together. Seen from the far side, any mushroom space is fractal.
 
-**Sizes.** A chit fetches a book. A quarto carries a serious working — the Hamlet death rune was written on one, which was sloppy. A full folio, countersigned, has ceded countries. See [Ways-and-Means chits](../Mechanics/Items%20and%20Equipment.md#ways-and-means-chits).
+**Sizes.** A chit fetches a book. A quarto carries a serious working — the [Hamlet](../Lore/Places/Hamlet.md) death rune was written on one, which was sloppy. A full folio, countersigned, has ceded countries. See [Ways-and-Means chits](../Mechanics/Items%20and%20Equipment.md#ways-and-means-chits).
 
-**A rune in glass.** A rune etched into a lens filters what passes through it; light is a flow like any other. Alistrassa's lens is the first ([Alistrassa's Lenses](../Mechanics/Items%20and%20Equipment.md#alistrassas-lenses)).
+**A rune in glass.** A rune etched into a lens filters what passes through it; light is a flow like any other. [Alistrassa](../Player%20Sheets/Alistrassa.md)'s lens is the first ([Alistrassa's Lenses](../Mechanics/Items%20and%20Equipment.md#alistrassas-lenses)).
 
 **Conjuration by rune.** A conjuration rune lets an immaterial spirit project into a space and move matter there: a wind spirit shelving a library's books. The projection is held in the space, and knows it. Some wizards do that to the unwilling. Some spirits want the visit, and a friend on the far side can cast the summons back the other way. Many conjurers skip the rune and hold the spirit with their own concentration.
 
@@ -63,7 +63,7 @@ A caster must flavor a cast as coming from their own source. The school stays th
 
 **Intent sets the school, not the visual.** For Gifted magic, the patron's intent decides which school a spell sits in. Two casts that look alike can land in different schools, and a spell that looks like mushrooms is not Restoration on that basis.
 
-**Gifted study is prayer.** Abjuration is Neutral for Gifted — the practice differs, the mechanics do not (see [Casting](../Mechanics/Questing%20Time!%20Mechanics.md#casting)). A Gifted caster still studies, but not the way the College does. The College of Mages works at whiteboards; the Druids sit and pray to the forest for ten hours a day. What a druid maintains is the relationship — see [Gifted Magic](#gifted-magic).
+**Gifted study is prayer.** Abjuration is Neutral for Gifted — the practice differs, the mechanics do not (see [Casting](../Mechanics/Questing%20Time!%20Mechanics.md#casting)). A Gifted caster still studies, but not the way [the College](../Lore/The%20College%20of%20Mages.md) does. The College of Mages works at whiteboards; the Druids sit and pray to the forest for ten hours a day. What a druid maintains is the relationship — see [Gifted Magic](#gifted-magic).
 
 Wizards of [the College](../Lore/Factions.md#the-college-of-mages) find this incomprehensible. They cannot see how a caster who has never studied the arcane physics of a spell can abjure it anyway. Expect that friction when a party reaches the College.
 
@@ -109,7 +109,7 @@ Any Order above Common is rare. A being rises through these ranks slowly, over m
 
 **Rising in Order adds dice.** Greater adds one extra die on one stat. Major adds two extra dice, one stat each (or two on one). Majestic adds three. Which stat gets the die is decided narratively, by how the elevation happened — a Fey who fought her way to Greater status might add to Prowess; one who talked her way there might add to Charisma instead. A fall in Order works the same way, in reverse — dice are removed, not stepped down. Die-step bumps (a D12 becoming a D20 outright) are a different thing, granted by abilities and other in-world advancement, not by Order., superseding the die-step reading of this paragraph.
 
-Extra dice are summed, not chosen from: a Greater character with an extra Wisdom die rolls two Wisdom dice and adds them, rather than rolling the better of two sizes. See [Ra](../Player%20Materials/People%20You've%20Met.md#ra) (a Major Aspect, `Pro D20 ×3` — a base die plus two Major-rank extras) for a worked example.
+Extra dice are summed, not chosen from: a Greater character with an extra Wisdom die rolls two Wisdom dice and adds them, rather than rolling the better of two sizes. See [Ra](../NPC%20Sheets/Ra.md) (a Major Aspect, `Pro D20 ×3` — a base die plus two Major-rank extras) for a worked example.
 
 **Faction** carries a being's political standing into the next life. A being's Faction on rebirth is set by their actions in the life just ended.
 
@@ -173,7 +173,7 @@ Fey broadly eschew worldly hierarchy altogether: to a Fey, the Karmic Order is t
 
 **The Moon** - a Majestic Celestial, the third named. Referred to as "her." Her will, as Yuhai's doctrine frames it, is **transformation** — "we must transform ourselves in a search for her." She has no proper name yet; "the Moon" is a title. Threads that touch her: the crescent on Yuhai's amulet and in the Cult of Bobs' greeting; the Red Lady's monthly, moon-tied visitation of menstruating human and elven women; [Iter](../Player%20Sheets/Iter%20Bravus.md)'s power waxing and waning with the moon; the "temple of the moon" from Bob's vision and the castle seen under a full moon. There is **one moon**. Whether "the Moon" is on the Earth axis at all, and whether she holds aspects, are open. Since Session Five her magic runs through Bob: he asks, nicely, and she answers. How the roll works is still open.
 
-**The Sun** - a Majestic Celestial, the fourth named. It manifests in the world through its Major Aspect and enforcer, **Ra, the sun god**: eagle-headed, golden, Egyptian, a relatively chill god who parties, comes through a portal when Snarfa phones, and once set the College library on fire. He etched Alistrassa's lenses at an Abjuration party, in time with his own heartbeat. As an aspect he is off the Order (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)); whether the Sun holds other aspects, and where it sits against Earth, Gaia and the Moon, is open. He and the Moon used to date. It went badly. They are still friends, by his account.
+**The Sun** - a Majestic Celestial, the fourth named. It manifests in the world through its Major Aspect and enforcer, **[Ra](../NPC%20Sheets/Ra.md), the sun god**: eagle-headed, golden, Egyptian, a relatively chill god who parties, comes through a portal when [Snarfa](../NPC%20Sheets/Snarfa.md) phones, and once set [the College](../Lore/The%20College%20of%20Mages.md) library on fire. He etched [Alistrassa](../Player%20Sheets/Alistrassa.md)'s lenses at an Abjuration party, in time with his own heartbeat. As an aspect he is off the Order (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)); whether the Sun holds other aspects, and where it sits against Earth, Gaia and the Moon, is open. He and the Moon used to date. It went badly. They are still friends, by his account.
 
 ## The Moon and the Zodiac
 

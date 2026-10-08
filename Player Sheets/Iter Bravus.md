@@ -40,9 +40,9 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 **[Night Vision](../Mechanics/Abilities.md#night-vision)** — racial. Sees perfectly in the dark. In bright light, before any check that depends on seeing, she rolls Constitution first; on a failure the check is at disadvantage. Her sunglasses cancel the penalty.
 
-**[Healing Spore Cloud](../Mechanics/Abilities.md#healing-spore-cloud)** — cantrip. Gifted Restoration. A burst of spores heals every friendly target in the radius by one step on the Health track. Ranged. Action only, once per turn.
+**[Healing Spore Cloud](../Mechanics/Abilities.md#healing-spore-cloud)** — cantrip. Gifted [Restoration](../Lore/Places/Restoration.md). A burst of spores heals every friendly target in the radius by one step on the Health track. Ranged. Action only, once per turn.
 
-**[Fungal Shield](../Mechanics/Abilities.md#fungal-shield)** — Gifted Abjuration. A large mushroom springs up and takes the blow, reducing incoming damage by one step. Blocks physical attacks and Evocation only. Reaction or action, up to twice a round.
+**[Fungal Shield](../Mechanics/Abilities.md#fungal-shield)** — Gifted [Abjuration](../Lore/Places/Abjuration.md). A large mushroom springs up and takes the blow, reducing incoming damage by one step. Blocks physical attacks and [Evocation](../Lore/Places/Evocation.md) only. Reaction or action, up to twice a round.
 
 ---
 
@@ -52,9 +52,9 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 **The dress** — long, white, Edwardian lace; loose-cut and made for summer, ripped now and mould-spotted. No mechanical effect. It is the visual thesis of the character.
 
-**Parasol** — long, black, always dripping. A weapon: a plain one-handed **Prowess** attack, piercing. See [Iter Bravus's Parasol](../Mechanics/Items%20and%20Equipment.md#iter-bravuss-parasol). Warded by Penny with common abjuration runes against physical harm, sewn into new canvas. Held open toward a hit from that side, it drops the hit one Health step, as armour does. No roll.
+**Parasol** — long, black, always dripping. A weapon: a plain one-handed **Prowess** attack, piercing. See [Iter Bravus's Parasol](../Mechanics/Items%20and%20Equipment.md#iter-bravuss-parasol). Warded by [Penny](../NPC%20Sheets/Penny.md) with common abjuration runes against physical harm, sewn into new canvas. Held open toward a hit from that side, it drops the hit one Health step, as armour does. No roll.
 
-**Blunderbuss** — one of two looted from the train pirates at the depot. She carried both in her skirt and gave the other to Alistrassa. Abjuration's wards push against it.
+**Blunderbuss** — one of two looted from the train pirates at [the depot](../Lore/Places/The%20Red%20Line%20Depot.md). She carried both in her skirt and gave the other to [Alistrassa](../Player%20Sheets/Alistrassa.md). [Abjuration](../Lore/Places/Abjuration.md)'s wards push against it.
 
 ---
 
@@ -82,7 +82,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 ## LAST BEAT
 
-Session Six: face-planted in the chase, then asked Ember if she was hurt, and she cried. Healed everyone with her spores. Owes the Red Lady a conversation, off screen.
+Session Six: face-planted in the chase, then asked [Ember](../Player%20Sheets/Ember%20Spanner.md) if she was hurt, and she cried. Healed everyone with her spores. Owes the Red Lady a conversation, off screen.
 
 ---
 

@@ -21,7 +21,7 @@ Items and equipment for [Questing Time!](../Lore/Questing%20Time!%20A%20Primer.m
 
 ## Currency and charges
 
-**Currency.** Copper for an ale, silver for rope and a tent, gold for anything worth haggling over. 1 gold = 10 silver = 1,000 copper, loosely: ten silver to the gold, a hundred copper to the silver. Each coin is worth about its own metal, and the rate drifts a little by place and season: a gold piece fetches 10 to 12 silver, a silver piece 80 to 120 copper. Walking-around money is silver; gold buys expensive things; a house is bought on account, not in coin. A job for four adventurers runs 8–12 gold. The Don's 100 gold at Session One was five times the going rate, on purpose.
+**Currency.** Copper for an ale, silver for rope and a tent, gold for anything worth haggling over. 1 gold = 10 silver = 1,000 copper, loosely: ten silver to the gold, a hundred copper to the silver. Each coin is worth about its own metal, and the rate drifts a little by place and season: a gold piece fetches 10 to 12 silver, a silver piece 80 to 120 copper. Walking-around money is silver; gold buys expensive things; a house is bought on account, not in coin. A job for four adventurers runs 8–12 gold. [The Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md)'s 100 gold at Session One was five times the going rate, on purpose.
 
 **Charges.** Every material object that can run out declares its charges; the default is **1**. A partial dose shortens the effect's duration, not its strength. A sheet shows charges as **n/max** on the item.
 
@@ -83,7 +83,7 @@ Holder: [Pudge](../Player%20Sheets/Pudge.md).
 
 Wore a bell. Bob carried it caged and did not know why it mattered, only that it did.
 
-**Released at Session Zero.** In the Finnegan fight Bob smashed the cage and let the moth out. It filled the room with a reverberation ("Sh, sh, sh") that stupefied Finnegan — dropped him convulsing, no save.
+**Released at Session Zero.** In the [Finnegan](../NPC%20Sheets/Seamus.md) fight Bob smashed the cage and let the moth out. It filled the room with a reverberation ("Sh, sh, sh") that stupefied Finnegan — dropped him convulsing, no save.
 
 **Treat the Moth as a familiar.** Its reverberation stun is **usable once per encounter**. It **follows Bob**, drifting behind him. The empty cage was repurposed to hold the captured Finnegan.
 
@@ -93,15 +93,15 @@ Holder: [Baeon "Bob" Oberoni](../Player%20Sheets/Baeon%20"Bob"%20Oberoni.md).
 
 ## Ways-and-Means chits
 
-The College's favour economy runs on paper. A chit is a magical IOU: whatever is written on it gets executed, narratively — not a mechanical free roll.
+[The College](../Lore/The%20College%20of%20Mages.md)'s favour economy runs on paper. A chit is a magical IOU: whatever is written on it gets executed, narratively — not a mechanical free roll.
 
-**A chit is any IOU, magically executed.** The library checkout system and the City's monetary policy run on the same mechanic, at different scales.
+**A chit is any IOU, magically executed.** The library checkout system and [the City](../Lore/New%20Squishnesta.md)'s monetary policy run on the same mechanic, at different scales.
 
 **A chit always executes.** It is mechanical and automatic, and the burden is entirely on the inscriber to understand what they wrote; more than one wizard has bankrupted a village by signing away the wrong thing. Long, dull legal reconciliation is a permanent feature of the economy, and across a continent the errors roughly cancel.
 
-**Gold bars.** The Castle casts gold in bars of about 12 kg, each worth about 1,600 gold coins. Sums that size are counted in bars, never in coin.
+**Gold bars.** [The Castle](../Lore/Places/The%20Castle.md) casts gold in bars of about 12 kg, each worth about 1,600 gold coins. Sums that size are counted in bars, never in coin.
 
-**Who handles them.** Chits pass mostly between wizards, or between government officials countersigned by their court wizards. Things being what they are in the Red Line, some have found their way into Munchkin hands. **The Don avoids them** — in his experience the last person holding one ends up in jail or dead, sometimes literally burned and usually figuratively. **The Millbanks take them happily**, and many are addressed to them by name, on the strength of their friendliness with the College and the government.
+**Who handles them.** Chits pass mostly between wizards, or between government officials countersigned by their court wizards. Things being what they are in [the Red Line](../Lore/Places/The%20Red%20Line.md), some have found their way into Munchkin hands. **[The Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md) avoids them** — in his experience the last person holding one ends up in jail or dead, sometimes literally burned and usually figuratively. **The Millbanks take them happily**, and many are addressed to them by name, on the strength of their friendliness with the College and the government.
 
 **Writing one.** A chit that is mechanically hard to compose or draw — greater or above — takes rolls. Below that the GM may set a low DC, and a Planned Action will usually do.
 
@@ -109,19 +109,19 @@ The College's favour economy runs on paper. A chit is a magical IOU: whatever is
 - **Runic verification.** A verification elaboration is written into the paper; a copy does not tally and blanks.
 - **Terms govern transfer.** Not all chits are bearer paper. A cheap chit is simple paper; an important one is a small contract-shaped spell, with clauses on transfer and verification that cost the drafter time and skill.
 - **Redemption and provenance.** On call, a cheap chit's ink pools in a corner and smudges your hands. Fine ink apparates back to its original inkwell — the same ink, a different elaboration that costs page space or a finer hand — so a talented investigator can trace a fine chit's provenance, and only ostentatious or reckless wizards use it.
-- **The message chit.** A chit can carry a one-time **message** instead of an obligation: written in the sender's own ink, addressed to a specific book or a specific mage, who must fulfil it. It levitates and flies to the addressee. A recipient who is retiring for the night can set a **forwarding address** — a night-watchman relay — so a chit sent while they sleep still lands. Same mechanic as any chit, smaller scale. Session Two: Pudge sent one to **Mark Thornbush**, his College handler, and got no reply; Alistrassa sent one to Snarfa and got a soggy half-folio back to the head.
+- **The message chit.** A chit can carry a one-time **message** instead of an obligation: written in the sender's own ink, addressed to a specific book or a specific mage, who must fulfil it. It levitates and flies to the addressee. A recipient who is retiring for the night can set a **forwarding address** — a night-watchman relay — so a chit sent while they sleep still lands. Same mechanic as any chit, smaller scale. Session Two: Pudge sent one to **[Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md)**, his College handler, and got no reply; Alistrassa sent one to [Snarfa](../NPC%20Sheets/Snarfa.md) and got a soggy half-folio back to the head.
 
 Typical chits, octavo unless noted: "One reading-room key, after hours. No lamp, no questions." — "Three drams of blue, the good vintage." — "One examination, re-marked by a sympathetic eye." — "One apprentice, reassigned without comment." — "A quarter hour with the Bursar, this week." — "One name left off one list." — "One evening's silence." — "One citation, warm, in committee." — "One introduction, properly made." — "Passage: one crate, unopened, through the east gate." (quarto) — "One inquiry, pre-closed." (quarto) — "One warrant, unserved, until asked for twice." (quarto) — "One examination board, favorably composed." (quarto) — "Storage: one cellar, one season, no inventory." (quarto) — "The seat at Convocation. Once." (folio).
 
 ## Alistrassa's Lenses
 
-Spectacles with slide-in lenses, cut by Ellis and etched by the sun god. **One lens carries her identify rune**: looking through it filters what is relevant to her and renders it legible — not comprehensible, legible — at no karmic cost, because the rune does the casting and she does not. **Fifty etched lenses** are the rest of the run, and they are not failures: the run was an assembly line, fifty-one lenses in a row without a miss. Each is a geometric basis function. None encodes a spell alone; two or more set at angles to one another in a light path make the illumination itself inscribe a pattern. Between them the fifty span the common runes: anything at a common casting level can be composed from the set the way words are set from a case of type. Greater runic spells may lie outside it, and need new basis lenses cut. It is a rune alphabet waiting for a light. With them travel the **projector notes** — Penny's primitives, Muriel's ink, the pipe stage, the folio slate — the theory of a reprogrammable rune projector, not the device.
+Spectacles with slide-in lenses, cut by [Ellis](../NPC%20Sheets/Ellis.md) and etched by [the sun god](../NPC%20Sheets/Ra.md). **One lens carries her identify rune**: looking through it filters what is relevant to her and renders it legible — not comprehensible, legible — at no karmic cost, because the rune does the casting and she does not. **Fifty etched lenses** are the rest of the run, and they are not failures: the run was an assembly line, fifty-one lenses in a row without a miss. Each is a geometric basis function. None encodes a spell alone; two or more set at angles to one another in a light path make the illumination itself inscribe a pattern. Between them the fifty span the common runes: anything at a common casting level can be composed from the set the way words are set from a case of type. Greater runic spells may lie outside it, and need new basis lenses cut. It is a rune alphabet waiting for a light. With them travel the **projector notes** — [Penny](../NPC%20Sheets/Penny.md)'s primitives, [Muriel](../NPC%20Sheets/Muriel.md)'s ink, the pipe stage, the folio slate — the theory of a reprogrammable rune projector, not the device.
 
-**Rule.** Her work now is discovery: the inscription of a rune, and the geometry of basis lenses that projects it. That is played, not bought. Anything at a common casting level is within the set she carries. Burning a worked-out rune into a single lens, so it runs by itself the way identify does, still needs a light and a stage that wants more work; the rest of the chain, glass, ink, paper and hands, is already hers. Greater runic spells may need new basis lenses cut, and that is Ellis, the furnace and the sun again. Both chains are hooks into the College's paper economy.
+**Rule.** Her work now is discovery: the inscription of a rune, and the geometry of basis lenses that projects it. That is played, not bought. Anything at a common casting level is within the set she carries. Burning a worked-out rune into a single lens, so it runs by itself the way identify does, still needs a light and a stage that wants more work; the rest of the chain, glass, ink, paper and hands, is already hers. Greater runic spells may need new basis lenses cut, and that is Ellis, the furnace and the sun again. Both chains are hooks into [the College](../Lore/The%20College%20of%20Mages.md)'s paper economy.
 
 # Substances
 
-Three substances circulate through [The Red Line](../Lore/New%20Squishnesta.md#key-locations). street names vary by dealer and family, invented at the table as needed.
+Three substances circulate through [The Red Line](../Lore/Places/The%20Red%20Line.md). street names vary by dealer and family, invented at the table as needed.
 
 **Who these affect.** All three substances only have an effect on a character carrying Munchkin blood — one or more parents or grandparents Munchkin. See [Sweet Blood](../Mechanics/Abilities.md#sweet-blood). A Fey character may perceive these substances differently, but takes no mechanical effect. No current playable character carries Munchkin blood, which makes all three NPC-facing content for now.
 
@@ -147,19 +147,19 @@ Runic seals go into the wood itself, in blue ink or pressed with a brand. The pr
 
 Rail cars are held to the car in front by ligating runes that pull toward each other like a spring, weaker the further apart they are, and by abjurative runes of opposite charge between car and rail. A **third rune slipped between two cars** briefly severs that link.
 
-A **common rune**, made by the College, usually engraved on small wooden panels for foremen and depot hands to use mechanically. Bootleg panels exist, and are exactly as useful as they sound. It works on paper at full strength if it is inscribed correctly on **both faces** of the sheet, so that it can speak to both cars; paper is simply flimsier than board. The material matters the way it always does in runic practice — glass is prized because light passes through it.
+A **common rune**, made by [the College](../Lore/The%20College%20of%20Mages.md), usually engraved on small wooden panels for foremen and depot hands to use mechanically. Bootleg panels exist, and are exactly as useful as they sound. It works on paper at full strength if it is inscribed correctly on **both faces** of the sheet, so that it can speak to both cars; paper is simply flimsier than board. The material matters the way it always does in runic practice — glass is prized because light passes through it.
 
 Doing this at speed is a daring feat. Doing it in a depot is routine.
 
 ## The depot sand — recovered Session Two
 
-A thin layer of glittering **sand** lined the bottom of a buried Bootlegger crate, under a load of contraband confections. The party bagged it and kept a small separate sample. Blinding to look at; almost none of it spilled. **Alistrassa's lens burns brighter at it than at anything else** — brighter than at Bramblebeard, brighter than at Finnegan.
+A thin layer of glittering **sand** lined the bottom of a buried Bootlegger crate, under a load of contraband confections. The party bagged it and kept a small separate sample. Blinding to look at; almost none of it spilled. **[Alistrassa](../Player%20Sheets/Alistrassa.md)'s lens burns brighter at it than at anything else** — brighter than at Bramblebeard, brighter than at [Finnegan](../NPC%20Sheets/Seamus.md).
 
-The party does not know what it is. Casting a plain Identify would tell her, and **speed her wasting disease**; she is holding out for a safe version built at the College.
+The party does not know what it is. Casting a plain Identify would tell her, and **speed her wasting disease**; she is holding out for a safe version built at [the College](../Lore/The%20College%20of%20Mages.md).
 
 ## The velvet pouch — recovered Session Two
 
-A small purple pouch with a gold tassel, from the same crate. Its inner surface was inscribed with an **assassination rune** wrapped in elaborations. **Snarfa picked it up first and drew the ink out** — blood-red, running down his fur — before it reached Alistrassa: "that would have killed you." The party keeps the drawn, inert pouch.
+A small purple pouch with a gold tassel, from the same crate. Its inner surface was inscribed with an **assassination rune** wrapped in elaborations. **[Snarfa](../NPC%20Sheets/Snarfa.md) picked it up first and drew the ink out** — blood-red, running down his fur — before it reached [Alistrassa](../Player%20Sheets/Alistrassa.md): "that would have killed you." The party keeps the drawn, inert pouch.
 
 ## Giggle Juice
 
@@ -201,7 +201,7 @@ Drunk and the Nappy Taffy disadvantage are the vault's first status conditions o
 
 ## Greater Truth Serum
 
-Lark's brew, Session One (2026-09-02) — an exploded 27 on the craft roll turned a common truth serum into a greater one. Reagents: sweat of the yellow-bellied frog, a sprig of young yew, cinnamon. **4 charges** to a vial; **2 left**. Affects anyone, not only Munchkin blood.
+[Lark](../Player%20Sheets/Lark%20Myca%20Roux.md)'s brew, Session One (2026-09-02) — an exploded 27 on the craft roll turned a common truth serum into a greater one. Reagents: sweat of the yellow-bellied frog, a sprig of young yew, cinnamon. **4 charges** to a vial; **2 left**. Affects anyone, not only Munchkin blood.
 
 - **1 charge, drunk:** the target answers truthfully for one encounter.
 - **4 charges, drunk:** truthful in every interaction for a week, and the effect **bypasses alignment**. Side effect: pallid and feeble for days.
@@ -211,7 +211,7 @@ Truthful is not helpful: a disciplined target chooses every word.
 
 ## Sour Patch Mushroom
 
-A candied psychedelic mushroom, sour first and then sweet, native to somewhere in Squishnestashire and nowhere near [the Sharp Forest](../Lore/Sharp%20Forest.md)'s Razor's Edge — [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) knew it only as a story until she reached the Red Line. The corner kids do not sell it; what reaches the street with it in it is a pressed pill, the mushroom melted into candy with other things. Who supplies the pill is open.
+A candied psychedelic mushroom, sour first and then sweet, native to somewhere in [Squishnestashire](../Lore/Places/Squishnestashire.md) and nowhere near [the Sharp Forest](../Lore/Sharp%20Forest.md)'s Razor's Edge — [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) knew it only as a story until she reached [the Red Line](../Lore/Places/The%20Red%20Line.md). The corner kids do not sell it; what reaches the street with it in it is a pressed pill, the mushroom melted into candy with other things. Who supplies the pill is open.
 
 **A greater agent**. Common foraged reagents give advantage or an extra die; this is the next tier up. Spend one whole mushroom to make **about three charges of a Lark consumable at greater level**, or **one cast at greater level** in a single go. The exact potency of each product is set when it is brewed, the way the greater truth serum was.
 
@@ -223,7 +223,7 @@ A candied psychedelic mushroom, sour first and then sweet, native to somewhere i
 
 ## Enchanted confections — the butter trade
 
-**New at Session Zero (2026-08-29), and distinct from the three substances above.** [Finnegan](../NPC%20Sheets/Seamus.md) smuggles "enchanted candy and syrupy confections" into [the Red Line](../Lore/New%20Squishnesta.md#key-locations) — magical product, tied somehow to the [College of Mages](../Lore/Factions.md#the-college-of-mages) (not the Munchkin-drug trade the three substances above cover). Named lines so far:
+**New at Session Zero (2026-08-29), and distinct from the three substances above.** [Finnegan](../NPC%20Sheets/Seamus.md) smuggles "enchanted candy and syrupy confections" into [the Red Line](../Lore/Places/The%20Red%20Line.md) — magical product, tied somehow to the [College of Mages](../Lore/Factions.md#the-college-of-mages) (not the Munchkin-drug trade the three substances above cover). Named lines so far:
 
 - **Butterbeer** and **butter-rum** — run by [Bill the Butcher](../Lore/Factions.md#the-butcher) out of the eastern Red Line.
 - **Butterscotch** — cornered by [Bramblebeard Thramplesnatch](../Lore/Factions.md#the-bootleggers), the Bootlegger boss.
