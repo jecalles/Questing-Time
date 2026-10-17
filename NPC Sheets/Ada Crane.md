@@ -7,7 +7,7 @@ tags: [npc]
 
 Birdlike and curious; long, scrawny and wry. Five foot eleven, with a real moustache coiled at both ends and a monocle. Out of disguise she dresses like a gentleman of another age: bowler hat, waistcoat, pocket watch. Earnest, well meaning and bumbling, now and then brilliant, and lucky more often than that. She works for [the Castle](../Lore/Places/The%20Castle.md), not [the College](../Lore/The%20College%20of%20Mages.md). She is bad at disguises and worse at names: at [Snarfa](../NPC%20Sheets/Snarfa.md)'s party she was a student called Studentsson, in a Hawaiian shirt and a fake moustache over her real one, and stuck out like a sore thumb. She walks fast, hips going, elbows bent.
 
-**Now:** With the party in [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md) across the river, limping from the beam, before dawn · as of Session Six (2026-10-07).
+**Now:** With the party at [the College](../Lore/The%20College%20of%20Mages.md), having followed them from [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md) · as of Session Seven (2026-10-15).
 
 ## WHAT THE PARTY KNOWS
 
@@ -28,5 +28,5 @@ Toward [Ember](../Player%20Sheets/Ember%20Spanner.md): Neutral. Toward the party
 
 ## LAST BEAT
 
-Session Six: buried under a beam when [Ember](../Player%20Sheets/Ember%20Spanner.md) blew the road; dug out by [Pudge](../Player%20Sheets/Pudge.md). Went with the party to [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md) and told them her story over her own books.
+Session Seven: watched the glowing sand lift the ink off her ledgers and show "Bardo material, one crate, two gold bars" pressed into the page, again and again. She reads them as self-adjusting books, "cooking" themselves. Followed the party to [the College](../Lore/The%20College%20of%20Mages.md).
 

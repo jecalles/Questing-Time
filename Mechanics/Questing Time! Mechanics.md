@@ -47,6 +47,13 @@ Failure by 5 or more should have nonserious short term side effects.
 
 Failure by 10 or more should have serious short term side effects, and potentially long lasting ones.
 
+## Roll Till You Sum
+
+For a job too big for one roll. The GM names a target number. Each roll adds to a running total, and the job is done when the total reaches the target. Dice explode as usual, and every explosion counts toward the total.
+
+- **Long projects.** One free roll at the start of each session, for the time between sessions. One more for a session in which the character works on it at the table. [Alistrassa](../Player%20Sheets/Alistrassa.md)'s light source and ROD are the first.
+- **Wearing something down.** The count can also run off a total. Talking [Ra](../NPC%20Sheets/Ra.md) out of his beam at Session Five worked this way, round by round, until the beam was gone.
+
 # Stats
 
 Each character has six (6) stats and assigns a die size to each stat.
@@ -308,6 +315,18 @@ Each sign belongs to one element and, in this world, to one school of magic — 
 **The sign's "gives" and the school column do not stack.** They are the same effect stated twice — the school column *is* how a sign expresses itself for casters. A caster in the sign's own school gets one tier better, full stop; it is not one tier from the sign plus a second tier from the column.
 
 A reach aimed at a patron *through* the moon rolls the sign, and the patron's discernment is absent — what Bob found at Session One.
+
+# Playtest rulings
+
+Provisional. Tried at the table; any of it may change.
+
+**Exhausted.** A character who has gone days without rest is Exhausted: disadvantage on proactive checks until they rest. For an elf, resting is trancing. Coffee or tea relieves it for a while.
+
+**Free runes.** A rune costs no roll if the character knows how to draw it and can reasonably inscribe it in that medium. Alistrassa draws runes up to Lesser with no roll, and Common runes if she takes her time.
+
+**Dice pools.** A player may add a die from a second skill to a pool if they can justify it, and the opponent may roll a pool back.
+
+**Close of session.** Health and tokens are spoken aloud at the end and written to the sheets.
 
 # Open Rulings
 

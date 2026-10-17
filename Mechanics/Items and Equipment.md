@@ -115,9 +115,24 @@ Typical chits, octavo unless noted: "One reading-room key, after hours. No lamp,
 
 ## Alistrassa's Lenses
 
-Spectacles with slide-in lenses, cut by [Ellis](../NPC%20Sheets/Ellis.md) and etched by [the sun god](../NPC%20Sheets/Ra.md). **One lens carries her identify rune**: looking through it filters what is relevant to her and renders it legible — not comprehensible, legible — at no karmic cost, because the rune does the casting and she does not. **Fifty etched lenses** are the rest of the run, and they are not failures: the run was an assembly line, fifty-one lenses in a row without a miss. Each is a geometric basis function. None encodes a spell alone; two or more set at angles to one another in a light path make the illumination itself inscribe a pattern. Between them the fifty span the common runes: anything at a common casting level can be composed from the set the way words are set from a case of type. Greater runic spells may lie outside it, and need new basis lenses cut. It is a rune alphabet waiting for a light. With them travel the **projector notes** — [Penny](../NPC%20Sheets/Penny.md)'s primitives, [Muriel](../NPC%20Sheets/Muriel.md)'s ink, the pipe stage, the folio slate — the theory of a reprogrammable rune projector, not the device.
+Spectacles with slide-in lenses, cut by [Ellis](../NPC%20Sheets/Ellis.md) and etched by [the sun god](../NPC%20Sheets/Ra.md). **One lens carries her identify rune**: looking through it filters what is relevant to her and renders it legible — not comprehensible, legible — at no karmic cost, because the rune does the casting and she does not. **Fifty etched lenses** are the rest of the run, and they are not failures: the run was an assembly line, fifty-one lenses in a row without a miss. Each is a geometric basis function. None encodes a spell alone; two or more set at angles to one another in a light path make the illumination itself inscribe a pattern. Between them the fifty span the common runes: anything at a common casting level can be composed from the set the way words are set from a case of type. Greater runic spells may lie outside it, and need new basis lenses cut. It is a rune alphabet waiting for a light. The theory that grew out of them is [the ROD](#alistrassas-rod).
 
 **Rule.** Her work now is discovery: the inscription of a rune, and the geometry of basis lenses that projects it. That is played, not bought. Anything at a common casting level is within the set she carries. Burning a worked-out rune into a single lens, so it runs by itself the way identify does, still needs a light and a stage that wants more work; the rest of the chain, glass, ink, paper and hands, is already hers. Greater runic spells may need new basis lenses cut, and that is Ellis, the furnace and the sun again. Both chains are hooks into [the College](../Lore/The%20College%20of%20Mages.md)'s paper economy.
+
+**With a steady light** she casts through the set: Intelligence, the target resisting with Wisdom, at no karmic cost unless the light is her own casting. A composition she has not yet worked out is worked out first. The set can also cut new lenses.
+
+## Alistrassa's ROD
+
+The Reconfigurable Optical Drive: a brass staff that casts by light, built round [her lenses](#alistrassas-lenses). Light goes in, runes in the shaft shape it, an end cap sends it out. Brass cylinders, a shaded lantern, a spike. Designed, not built.
+
+- **Shaft.** Removable segments of lens arrays and mirrors. Each turns and locks with a simple control, choosing which runes the beam passes. Segments in or out change the primitives inside, and with them the spell, its metamagic and its delivery. Four layers: housings for the glass; a shaft grooved in runes; a second alloy laid in the grooves, warding the staff against damage and impact, and adding power if a rune for it exists; a sleeve hard against force and good in the hand. Built right, it carries spells both ways along the shaft, side by side.
+- **Top cap: the shield.** A shaded lantern of mirrors turns the beam down in a ring round the staff. Planted, it casts round her. First spell: the light shell, 23 runes to repel, attract, defuse, infuse and enlarge. Eleven cut in [Ra](../NPC%20Sheets/Ra.md)'s beam; twelve need a divine beam.
+- **Bottom cap: the gun.** A spike to plant, walk on or hit with. In the last segment, a focusing lens set for distance, so a rune resolves on a surface far off.
+- **Light.** A housing for a source she does not have: a small celestial, a gem runed to hold light and let it go, or a way in for her own casting. The source is a search of its own, and the hard part. Any steady light works her lenses before the ROD exists.
+
+Behind it, the projector notes: [Penny](../NPC%20Sheets/Penny.md)'s primitives, [Muriel](../NPC%20Sheets/Muriel.md)'s ink, the pipe stage, the folio slate.
+
+**Rule.** Two sums, both on Intelligence, [rolled till they are reached](../Mechanics/Questing%20Time!%20Mechanics.md#roll-till-you-sum): **30 for a steady light source**, and **30 for the rest of the ROD**. One free roll at the start of each session, on either; one more for a session in which she works on one at the table. The ROD can be broken into smaller parts, each with its own sum. What the light turns out to be is played at the table.
 
 # Substances
 
@@ -155,7 +170,7 @@ Doing this at speed is a daring feat. Doing it in a depot is routine.
 
 A thin layer of glittering **sand** lined the bottom of a buried Bootlegger crate, under a load of contraband confections. The party bagged it and kept a small separate sample. Blinding to look at; almost none of it spilled. **[Alistrassa](../Player%20Sheets/Alistrassa.md)'s lens burns brighter at it than at anything else** — brighter than at Bramblebeard, brighter than at [Finnegan](../NPC%20Sheets/Seamus.md).
 
-The party does not know what it is. Casting a plain Identify would tell her, and **speed her wasting disease**; she is holding out for a safe version built at [the College](../Lore/The%20College%20of%20Mages.md).
+The party knows only its ledger name, Bardo material (Session Seven). Casting a plain Identify would tell her, and **speed her wasting disease**; she is holding out for a safe version built at [the College](../Lore/The%20College%20of%20Mages.md).
 
 ## The velvet pouch — recovered Session Two
 

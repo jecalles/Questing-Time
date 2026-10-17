@@ -9,7 +9,7 @@ tags: [player-reference, magic-system, ability]
 
 A small, slender fae, four and a half feet, with skin that runs from obsidian to mahogany with a tree-like undertone, and purplish tattoos over all of it, each ringed by a soft aura a few centimetres deep. The tattoos shift colour and pattern with what each one does; she did not choose them. The Sharp Forest itself is her patron: it chose her tattoos, and her gas-and-powder magic is its gift. She flies. She wears a cropped top and shorts to keep the tattoos visible, grey palladium boots that roll up or down, a hooded cloak of living mushroom leather, and a modular gas rig on her back with two hoses and a nozzle she can point. Five squirrels with a drug problem travel with her. She is the one who talks the party out of fights and into deals, and the one who brews things; she is broke, cheerful, and refuses to call on her diplomat family because she will not hear "I told you so."
 
-**Now:** Health **Normal** · Tokens **2** (on her return; not given at Session Six) · Gold **2** (+20 in the group fund) · Truth serum **2/4** · Gas **3** charges · as of Session Six (2026-10-07). Log: [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
+**Now:** Health **Normal** · Tokens **3** · Gold **2** (+20 in the group fund) · Truth serum **2/4** · Gas **3** charges · as of Session Seven (2026-10-15). Log: [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
 
 ---
 
@@ -111,7 +111,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Six: came back to [the College](../Lore/The%20College%20of%20Mages.md) in a long black cloak, squirrels round her neck. Catapulted a squirrel at [Ember](../Player%20Sheets/Ember%20Spanner.md) and missed. Read karma in the library ("karma's bent because karma's mushrooms"), and was given Ember's mother's account of [the Sharp Forest](../Lore/Sharp%20Forest.md). Before that: two weeks away on her own quest, the Sour Patch mushroom. See [Lark Myca Roux](../Character%20Logs/Lark%20Myca%20Roux.md).
+Session Seven: spoke to Bob's moth (DC 5 to speak at all, then pooled tokens and dice for more) and read its signs: wind to the northeast, violence, "enormous munchkins". Gave the bald squirrel to Pudge. Spotted [Iter](../Player%20Sheets/Iter%20Bravus.md)'s sleeping potions and believes they are tea.
 
 ---
 

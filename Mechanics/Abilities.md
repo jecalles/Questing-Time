@@ -431,6 +431,7 @@ General to every Gifted caster, not Iter-specific — [Lark](../Player%20Sheets/
 - **Range**: Two zones. See [Ranged Combat](../Mechanics/Questing%20Time!%20Mechanics.md#ranged-combat).
 - **Effect**: A cloud of spores bursts from the caster in a **cone**. Every friendly target in the cone heals one step on the Health track. Duration is one turn of combat at entry level.
 - **Upcast**: Advances the effect, not the dice pool. Duration grows first — more turns of combat, and eventually permanent. A later add-on deals 1 damage per step to enemies in the cone, which makes the spell AoE damage as well as healing.
+- **Dual option**: The cloud now heals friends and hurts enemies in the cone. To do both at once the caster rolls Charisma against DC 10. On a failure the GM rolls and both sides are healed or both are hurt. Later upgrades make the split automatic. The same cantrip, not a second spell. The caster's head can also glow, on command, as a lesser light.
 
 The spell costs no spell slot. Treat it as a cantrip for now.
 

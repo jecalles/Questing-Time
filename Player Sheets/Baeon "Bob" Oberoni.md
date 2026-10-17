@@ -9,7 +9,7 @@ tags: [player-reference]
 
 A human, six and a half feet of brick outhouse under a ragged, floppy cultist's robe that hides it — he is usually hunched, and the party has seen him stand up only once. Covered in the ash of his dead prophet, Yuhai, which he refuses to wash off and now also carries in a vial at his neck. Carries a moth in a very small cage (the moth is out now, and follows him), a pair of chopsticks, a rusted sword hilt, a sacred cowbell, and two wax-sealed scrolls he has not opened. A paladin who thinks he draws his power from a dead false prophet, and who has no magic at all. His luck is decided by a die he never sees. "I just want to save my kids." Prays to the moon; reaches, so far, someone else.
 
-**Now:** Health **Normal** · Tokens **8** (Session Five; not given at Session Six) · Deaths **3** · Gold **20** (+20 in the group fund) · as of Session Six (2026-10-07). Log: [Baeon Bob Oberoni](../Character%20Logs/Baeon%20Bob%20Oberoni.md).
+**Now:** Health **Normal** · Tokens **8** (Session Five; not given at Session Six) · Deaths **3** · Gold **20** (+20 in the group fund) · as of Session Seven (2026-10-15). Log: [Baeon Bob Oberoni](../Character%20Logs/Baeon%20Bob%20Oberoni.md).
 
 ---
 
@@ -88,7 +88,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Six: cast Speak with Animals and the Moon answered on a 93: Mothra blinked into [Ember](../Player%20Sheets/Ember%20Spanner.md)'s face. Pulled a tree out of the ground with [Pudge](../Player%20Sheets/Pudge.md) and held Ember. Read the planes in [the schoolhouse library](../Lore/Places/The%20Schoolhouse%20Library.md) and found *Karmic Topology*.
+Session Seven (Ash absent): left the library in the night and walked northeast. The party found him asleep and naked under [the squirrel tree](../Lore/Places/The%20Squirrel%20Tree.md), with a little sand beside him, and carried him back to [the College](../Lore/The%20College%20of%20Mages.md). He did not die.
 
 ---
 

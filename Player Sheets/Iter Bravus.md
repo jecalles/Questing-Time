@@ -9,9 +9,9 @@ tags: [player-reference, magic-system, ability]
 
 > "Oh, darling, that's ridiculous. Can't you give us a moment of your time to explain?"
 
-A dark elf of about fifty, which is young, in a long white Edwardian dress, lace and loose-cut, torn in places and spotted with black mould that matches her hair — and never without her sunglasses or a long black parasol that always looks like it is dripping. She carries herself like nobility, and talks like a pretentious high elf on purpose, to people who least expect a rebel to sound that way. She is the party's healer, and heals the way other people pick fights: it is her rebellion. Fragile as glass up close, so she stays at range and sends mushrooms in. Prays to someone she calls the Red Lady, whom she reaches through fungus and long conversation. Her name means "bad trip," and she is in on the joke.
+A dark elf of about fifty, which is young, in a long white Edwardian dress, lace and loose-cut, torn in places and spotted with black mould that matches her hair — and never without her sunglasses or a long black parasol that always looks like it is dripping. She carries herself like nobility, and talks like a pretentious high elf on purpose, to people who least expect a rebel to sound that way. She is the party's healer, and heals the way other people pick fights: it is her rebellion. Fragile as glass up close, so she stays at range and sends mushrooms in. Prays to someone she calls [the Red Lady](../NPC%20Sheets/Red%20Lady.md), whom she reaches through fungus and long conversation. Her name means "bad trip," and she is in on the joke.
 
-**Now:** Health **Normal** · Tokens **4** · Gold **20** (+20 in the group fund) · as of Session Six (2026-10-07). Log: [Iter Bravus](../Character%20Logs/Iter%20Bravus.md).
+**Now:** Health **Normal** · Tokens **1** · Gold **20** (+20 in the group fund) · as of Session Seven (2026-10-15). Log: [Iter Bravus](../Character%20Logs/Iter%20Bravus.md).
 
 ---
 
@@ -36,11 +36,11 @@ Casting: Gifted — roll Charisma; targets resist with Instinct. Auto-succeeds P
 
 See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Casting](../Mechanics/Questing%20Time!%20Mechanics.md#casting).
 
-**[Gifted Channel](../Mechanics/Abilities.md#gifted-channel)** — her casting access. Roll Charisma to cast; targets resist with Instinct. A Gifted caster doesn't analyze a spell, she asks her patron for it: "Red Lady, give me strength."
+**[Gifted Channel](../Mechanics/Abilities.md#gifted-channel)** — her casting access. Roll Charisma to cast; targets resist with Instinct. A Gifted caster doesn't analyze a spell, she asks her patron for it: "[Red Lady](../NPC%20Sheets/Red%20Lady.md), give me strength."
 
 **[Night Vision](../Mechanics/Abilities.md#night-vision)** — racial. Sees perfectly in the dark. In bright light, before any check that depends on seeing, she rolls Constitution first; on a failure the check is at disadvantage. Her sunglasses cancel the penalty.
 
-**[Healing Spore Cloud](../Mechanics/Abilities.md#healing-spore-cloud)** — cantrip. Gifted Restoration. A burst of spores heals every friendly target in the radius by one step on the Health track. Ranged. Action only, once per turn.
+**[Healing Spore Cloud](../Mechanics/Abilities.md#healing-spore-cloud)** — cantrip. Gifted Restoration. A burst of spores heals every friendly target in the radius by one step on the Health track, and hurts enemies in it. To do both at once she rolls Charisma against DC 10; on a failure the GM rolls and both sides are healed or both are hurt. Ranged. Action only, once per turn. Her head can glow, on command, as a lesser light.
 
 **[Fungal Shield](../Mechanics/Abilities.md#fungal-shield)** — Gifted Abjuration. A large mushroom springs up and takes the blow, reducing incoming damage by one step. Blocks physical attacks and Evocation only. Reaction or action, up to twice a round.
 
@@ -72,7 +72,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 ## PATRON
 
-**The Red Lady.** Iter's patron, and the source of her Gifted magic. "The Red Lady" is a name Iter invented — the entity has never given its own, and Iter has never asked, because why would she care. She reaches her through mushrooms, through meditation, and through long stretches of prayer and conversation. At Session Zero the Red Lady told her only to *find* the man coming out of the caves, never to follow him: "It's about a place, darling. It's about a place."
+**[The Red Lady](../NPC%20Sheets/Red%20Lady.md).** Iter's patron, and the source of her Gifted magic. "The Red Lady" is a name Iter invented — the entity has never given its own, and Iter has never asked, because why would she care. She reaches her through mushrooms, through meditation, and through long stretches of prayer and conversation. At Session Zero the Red Lady told her only to *find* the man coming out of the caves, never to follow him: "It's about a place, darling. It's about a place."
 
 **What she looks like, and how she is.** Red hair, and a red aura around her. Kind, sweet, and talented — warm rather than grand, and easy to talk to. Nothing about her has ever announced itself as a god, which suits Iter, who does not believe in gods she has not met.
 
@@ -82,7 +82,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 ## LAST BEAT
 
-Session Six: face-planted in the chase, then asked [Ember](../Player%20Sheets/Ember%20Spanner.md) if she was hurt, and she cried. Healed everyone with her spores. Owes the Red Lady a conversation, off screen.
+Session Seven: met [the Red Lady](../NPC%20Sheets/Red%20Lady.md) in a mushroom trance. She is low and worried about the Moon, gave Iter a glowing head and upgraded her spore cloud to hurt enemies too, and asked Iter to keep an eye on it and pry. Swaddled Bob in her tent. Wants [Alistrassa](../Player%20Sheets/Alistrassa.md) to trance, with two Greater sleeping potions from the clinic.
 
 ---
 

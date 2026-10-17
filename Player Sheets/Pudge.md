@@ -9,7 +9,7 @@ tags: [player-reference, magic-system, ability]
 
 A half-giant in a journeyman's leather armour [the College](../Lore/The%20College%20of%20Mages.md) gave him, carrying a two-handed hammer made from the tusk or femur of something large and magical. Big, quiet and hard to rattle — pleas and threats slide off him the way spells do. He is the College's Warden, sent along with the party to make sure their quest succeeds, and he says so. Magic near him fails: the runes in his armour dampen every spell cast in his zone, friend or enemy, unless he has attuned to the caster first. He watches more than he talks, and the party has learned that when he does talk it is a practical question. He opened the envelope in [Hamlet](../Lore/Places/Hamlet.md) himself, and his armour ate a death rune that would have killed anyone else.
 
-**Now:** Health **Normal** · Tokens **4** · Gold **20** (+20 in the group fund) · as of Session Six (2026-10-07). Log: [Pudge](../Character%20Logs/Pudge.md).
+**Now:** Health **Normal** · Tokens **3** · Gold **20** (+20 in the group fund) · as of Session Seven (2026-10-15). Log: [Pudge](../Character%20Logs/Pudge.md).
 
 ---
 
@@ -66,7 +66,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## LAST BEAT
 
-Session Six: lifted the beam off [Ada](../NPC%20Sheets/Ada%20Crane.md); went into the [Brightwater](../Lore/Places/The%20River%20Squish.md) with [Seamus](../NPC%20Sheets/Seamus.md) when the bridge dropped, and [Iter](../Player%20Sheets/Iter%20Bravus.md)'s mushroom brought them out. His armour held off the Shade's scream. Pulled a tree out of the ground with Bob.
+Session Seven: up before the others, trimming his nails; had put [Seamus](../NPC%20Sheets/Seamus.md) in the cage with the moth to sleep. Noticed Bob's large footprints in the dust of the library. Carried Bob back to [the College](../Lore/The%20College%20of%20Mages.md). Recalled the death rune as a hurried professional job on a quarter folio, not in the draftsman's own ink, perhaps with no countersign and no report back to the caster. Faces a black inkwell in a College reception.
 
 ---
 

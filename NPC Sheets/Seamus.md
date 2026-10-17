@@ -1,5 +1,5 @@
 ---
-description: Seamus, once Finnegan Bramblebush — the Red Line's go-between, whom everyone wants dead, now glamoured, mute, and carried on a rope.
+description: Seamus, once Finnegan Bramblebush — the Red Line's go-between, whom everyone wants dead, now glamoured, mute, and gone.
 tags: [npc]
 ---
 
@@ -7,7 +7,7 @@ tags: [npc]
 
 [The Red Line](../Lore/Places/The%20Red%20Line.md)'s go-between: he knows the heads of all five families, and none of them like him. He ran candy for [the College](../Lore/The%20College%20of%20Mages.md) with Bill the Butcher, for the promise of a homestead that never existed, and handed the party the envelope run at [the Tavern](../Lore/Places/The%20Tavern.md). Since Session Four he has a glamoured face, blonde and flat-nosed with every feature turned to its opposite, and no voice at all. He tells you what he believes and is often wrong. He brightens the moment anyone is kind to him.
 
-**Now:** Major damage · mute · on a rope in [Pudge](../Player%20Sheets/Pudge.md)'s hand · as of Session Five (2026-09-30).
+**Now:** Gone from the library in the night after Session Six; the moth saw "enormous munchkins" and violence · Major damage · mute · as of Session Seven (2026-10-15).
 
 ## WHAT THE PARTY KNOWS
 
@@ -18,6 +18,7 @@ tags: [npc]
 - The sand is bought legally by the College through [Procurement](../Lore/Places/Procurement.md), collected by a Munchkin with a long moustache and a goatee, and brought in on Bramblebeard's trains from Seaside. The Don's people do the Red Line's killing; he listed about a hundred of the dead.
 - He is mute until [Snarfa](../NPC%20Sheets/Snarfa.md) lifts the spell.
 - The plan: his arm, a death for the Don, and a raising from the arm. On hold since Session Five; nothing cut.
+- Session Seven: he was gone from the cage at dawn. The moth's signs: a hot day in cold rain at his name; violence, then flight; "enormous munchkins"; two directions, one toward Bob, one toward the Red Line. The party is not chasing him.
 
 ## ALIGNMENT
 
@@ -31,5 +32,5 @@ tags: [npc]
 
 ## LAST BEAT
 
-Session Five: carried through [Snarfa](../NPC%20Sheets/Snarfa.md)'s party on a rope, like a handbag; nobody asked. The arm plan is on hold.
+Session Seven: gone from the library in the night, taken while the party slept. The party is not chasing him.
 

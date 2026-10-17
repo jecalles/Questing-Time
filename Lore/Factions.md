@@ -137,7 +137,7 @@ The Don owns everything that does not move:
 - **Fronts**: the parlour; a safe house a few doors down that the party now uses.
 - **Assets**: [Don Aldo Zuccaro](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md), [Ziggy](../NPC%20Sheets/Ziggy.md), [Slo Mo](../NPC%20Sheets/Slo%20Mo.md), [Tommy Two Cheeks](../NPC%20Sheets/Tommy%20Two%20Cheeks.md), [Munge](../NPC%20Sheets/Munge.md); four more armed Munchkins in the front room; the archive. Retainer pay for people who do steady work.
 - **Clues**: the archive.
-- **Current Move**: get Finnegan back. The Don blames the pirates and has lent the party Tommy. He has hinted at work at city hall for the College's "construction."
+- **Current Move**: waiting on Finnegan. The party has him and sent word by Munge: they will bring him once healed. The Don blames the pirates for the raid and has lent the party Tommy. He has hinted at work at city hall for the College's "construction."
 
 ### The Corner Crew
 

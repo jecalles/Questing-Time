@@ -6,3 +6,5 @@ tags: [geography]
 # The Schoolhouse Library
 
 **The schoolhouse library**: an old schoolhouse across the river, past the inn. Red tin roof. Children's desks downstairs, no class in years; upstairs, the books other people burned.
+
+Large bare footprints in the dust of the floor lead out the door.
