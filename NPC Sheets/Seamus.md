@@ -25,9 +25,9 @@ tags: [npc]
 | Between | Tier | Since |
 | --- | --- | --- |
 | Seamus toward the party | Enemy | Session One, the sale |
-| Lark toward Seamus | Aligned ("you're one of us") | Session Zero |
-| Pudge toward Seamus | Aligned | Session Zero |
-| Iter toward Seamus | Aligned | Session Zero |
+| [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) toward Seamus | Aligned ("you're one of us") | Session Zero |
+| [Pudge](../Player%20Sheets/Pudge.md) toward Seamus | Aligned | Session Zero |
+| [Iter](../Player%20Sheets/Iter%20Bravus.md) toward Seamus | Aligned | Session Zero |
 | Bob toward Seamus | Aligned-ish (protected him in the fight) | Session Zero |
 
 ## LAST BEAT

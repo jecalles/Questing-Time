@@ -127,7 +127,7 @@ Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 A minor, optional flourish — a small shower of sparkle, a faint chime, or both, at the holder's discretion. Cosmetic only, no mechanical effect.
 
-"Sometimes you're not in the mood to ding, and you don't ding." — GM.
+"Sometimes you're not in the mood to ding, and you don't ding."
 
 Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
@@ -196,136 +196,6 @@ Narratively your character finds money in unexpected places. After finding money
 
 Removes the disadvantage an unarmed attack otherwise rolls with (see [Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat)) — the holder rolls Prowess normally when fighting bare-handed. Granted only where the character is narratively expected to fight well unarmed: a trained brawler, a martial artist, someone raised to it. Not a default; most characters stay at disadvantage unarmed.
 
-## Evasive
-
-Advantage on reactive checks to avoid damage. A lifetime of leaving rooms before anyone noticed, turned into a habit the body keeps.
-
-**Shared with the holder's familiar.** Where the holder has a companion that mirrors them — see [The Shade](#the-shade) — that companion holds this ability too, and it upgrades for both at once along [Shade Advancement](#shade-advancement).
-
-**Ember's version** also lets her leave a melee zone without the Prowess check, as a rogue does.
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
-## Shy
-
-Disadvantage on Charisma checks against anyone the holder is **Misaligned** with (see [Alignment](../Mechanics/Questing%20Time!%20Mechanics.md#alignment)).
-
-Narratively this reads as unfamiliarity, not timidity — the holder is fluent with her own people and lost with everyone else. Mechanically it keys off Alignment, which means it lifts as standing is earned rather than at the GM's discretion, and it starts near-total: every character begins Misaligned with every faction.
-
-**This is what a d20 Charisma costs her.** The stat is her magic and her camouflage; it is not a licence to talk anyone into anything. Designed jointly with the player.
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
-## Tinkering
-
-Given sufficient material components, the holder can build **common items** — simple traps, simple weapons, and comparable workshop goods. Planned Actions only; this needs hands, tools, and time.
-
-**Traps may be built to type** — smoke, explosive, frost, poison — where the holder has the components for it. **Magical traps carry a higher DC** than mundane ones. Those DCs ease as the holder's tinkering improves.
-
-**Acquired, not innate.** The GM grants this after a short narrative beat of the holder remembering the workshop she grew up in — roughly five minutes at the table, and eligible to happen during Session Zero. It supersedes the narrower "Skilled at Mending" it grew out of.
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md), traps only for now.
-
-## The Drowse
-
-A flaw. The holder is running on something that runs out.
-
-**Damage.** Each damage level the holder takes past Minor calls a luck check, Instinct: one at Major, one at Critical. Fail, and she goes Under.
-
-**Exhaustion.** Holding out against exhaustion — no sleep, a long march, a night on watch — calls a Constitution check. Fail, and she gains 1 Drowse, and a Determination Token with it.
-
-Pushing a power costs nothing.
-
-**3 Drowse — Drowsy:** disadvantage on anything that needs alertness; [Peripheral Sight](#peripheral-sight) is lost. **5 Drowse — Under:** she drops, incapacitated for the scene, and cannot be woken. If [The Shade](#the-shade) is knocked out, she goes Under at once.
-
-**Clearing it.** A long rest clears 2, a short rest 1. Being genuinely reached clears 1: someone using her name, meeting her eye, an honest gesture of care.
-
-**Later upgrade.** While Under, she heals one damage level per turn.
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
-## Rebellious
-
-Authority does not land on the holder the way it is supposed to. No mechanic yet; one gets written when play calls for it.
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
-## Peripheral Sight
-
-The holder perceives what is watching — presence, intent, things past the party's vision — and must describe it **while looking somewhere else.** If she turns to look directly, it is gone.
-
-For reactive perception she rolls **Charisma in place of Instinct**, but only while looking away. Lost entirely while Drowsy (see [The Drowse](#the-drowse)).
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
-## Spark
-
-A cantrip. Minor, Gifted, Evocation. A spark at the holder's fingers: no roll to light a fuse, a lamp, kindling or a charge she set. Against a person, Charisma against their Instinct, as other Gifted powers are.
-
-**Upgrades.** Lesser reaches a point she can see within one zone: it lights a set charge, or flashes in a face (disadvantage on that target's next roll). Common reaches about 120 ft, or throws a short cone of fire for one Health step. Making fire that is already there go off bigger is Greater, and comes only through her patron. See [Reach by level](../Lore/Magic%20System.md#reach-by-level).
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md), from her patron.
-
-## The Shade
-
-Ember Spanner's familiar.
-
-**It works by inference, not instruction.** Ember has rarely asked it for anything, so it acts on what it has seen her do and what it knows of her mother. Told only "help," it does the most Shade-like thing available. The player's model for it is No-Face from *Spirited Away*.
-
-All Shade powers are Gifted magic: Charisma against the target's Instinct.
-
-**Stat block.** **The Shade shares the holder's stat block** rather than carrying its own. When the Shade rolls, it rolls the holder's die for that stat. Revisit if it ever needs to diverge.
-
-**Idle:** watches from the shadows — the holder, the party, and the surrounding environment. **Visibility:** most visible in shadow; incorporeal in normal light; forced to retreat to the nearest shadow in powerful light. Advantage in darkness, vulnerable to light magic — clerics especially. **At rest:** the holder can talk to it. It is never wrong, and never kind — it will withhold or obscure the truth at its whim.
-
-**If the Shade is KO'd, the holder goes Under immediately** (see [The Drowse](#the-drowse)).
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
-### Mirror Manifestation
-
-A shadowy mirror of the holder. Distraction, hallucination, something to spook enemies, or a scout, as long as there is ample shadow. In combat it has the holder's basic abilities, and it shares the holder's [Evasive](#evasive).
-
-**Damage sharing is intended, not a hole** — it is the deliberate cost of a companion that can, at higher tiers, dodge or ghost a hit entirely. Base state: any damage done to the Shade is also done to the holder.
-
-**Sharing survives the Goad.** Pulling attacks onto a damage-sharing companion looks self-defeating, and it is not: the Shade is harder to hit than the holder, because it shares [Evasive](#evasive) and that shared evasion upgrades over play. The Goad trades a certain hit on a d4 Constitution for a contested one against advantage. See [Shade Advancement](#shade-advancement).
-
-### Goad
-
-The Shade makes itself the obvious threat. Charisma against the target's Instinct; on a success, the target directs its next attack at the Shade instead of its intended target.
-
-This is the holder's aggro tool, and the reason a d4-Constitution character can hold a front line at all.
-
-### Shade Attack
-
-The Shade attacks in its own right, rolling the holder's Prowess (see **Stat block**, above).
-
-### Paralysis
-
-One target cannot move or push air out to shout. Charisma against their Instinct. Brief.
-
-### Transposition / Switch Places
-
-The holder and the Shade trade positions, across zones. Escape, ambush, or getting someone else out. **Proposed:** costs the holder's action, not their move.
-
-**Note.** The Shade has already done this once, unprompted — it moved Ember into shadow to escape pursuit in [New Squishnesta](../Lore/New%20Squishnesta.md) before she had any idea it could. Treat that as a preview of this power, not a separate ability.
-
-### Shade Advancement
-
-Answers how a melee character with a d4 Constitution survives — the Shade is the mitigation, unlocked over play rather than granted all at once. Milestone-driven, same as the rest of Ember's Advancement track.
-
-**Evasion sits at the base tier.** [Evasive](#evasive) is a starting ability, shared with the Shade, so the track scales that shared evasion rather than introducing it.
-
-- **Base (current).** The Shade shares damage 1:1 with the holder, per [Mirror Manifestation](#mirror-manifestation). It holds [Goad](#goad) and [Shade Attack](#shade-attack), and shares the holder's [Evasive](#evasive).
-- **Tier 2 — harder still.** The shared evasion improves beyond advantage — the Shade becomes genuinely difficult to land a hit on, cutting how often shared damage triggers at all, without changing what happens when it does land.
-- **Tier 3 — ethereal.** The Shade gains a number of Ethereal charges per encounter (count TBD). Spending one on an incoming hit fully negates the damage — the attack ghosts through, no shared damage — while the Shade keeps its evasion. High ceiling, deliberately: GM intent is a well-designed ability that scales, not a one-time fix.
-
-Exact trigger conditions for each tier (which story beat, which milestone) are not yet pinned down — treat as a placeholder track until a session forces the question, matching [Flow](#flow)'s scaling note.
-
-**Still owed:** the relationship mechanic. The bond should be **debilitating or rewarding** depending on whether Ember builds a healthy relationship with the Shade: if she sticks to the shadows, she becomes nothing. It fits, because relationship maintenance is what Gifted magic already is. Not yet designed.
-
-Holder: [Ember Spanner](../Player%20Sheets/Ember%20Spanner.md).
-
 ## Beginner's Luck
 
 Once per session, after seeing the result, the holder may reroll one failed check and take the second result. The holder never knows this is happening: to her, and to everyone watching, it reads as an improbable break.
@@ -337,6 +207,18 @@ The holder may use reactions as actions and actions as reactions, gets **two rea
 ## Wise like the Devil
 
 Roll Wisdom in place of Intelligence or Instinct on any check. The holder does not out-think anyone or out-feel them. He simply already knows.
+
+## Held
+
+The creature exists while its hold lasts: the conjurer's concentration, or the rune. Break the hold and it ends.
+
+## Team Tactics
+
+You may move on another character's initiative as a unit of two (see [Units](../Mechanics/Questing%20Time!%20Mechanics.md#units)). Greater versions raise the cap: three, then four. Monsters use it too: `@PIRATE ×4, two units of two`.
+
+## Targeted Attack
+
+Your attack may target one member of a unit. That member defends alone, with its own dice, and takes all the clicks.
 
 # Divine Abilities
 
@@ -356,7 +238,7 @@ Use proactive stats for defensive checks.
 
 ## Improviser
 
-Use reactive stats for proactive checks.
+Use reactive stats for proactive checks. This includes casting: a caster may roll a reactive stat in place of the casting stat.
 
 ## Quick
 
@@ -400,7 +282,7 @@ A character may hold this alongside a learned channel, and one is not a cover fo
 
 **Every Celestial has two faces** — a person's shape in the Celestial Sphere, a heavenly body in the material world (see [The Immaterial Planes](../Lore/Magic%20System.md#the-immaterial-planes)). This block describes the manifested, material-world body, and that body can be killed.
 
-**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. A Common Celestial's manifestation *is* the whole of it — kill it, and it is dead. A Major or Majestic Celestial's manifestation is one small piece of something much larger — killing it does not end the Celestial, but **diminishes its Order** by a meaningful, karmic amount. [Ra](../NPC%20Sheets/Ra.md), a Major Aspect of the Sun, would not end the Sun if killed — the Sun would be diminished.
+**Manifestation clause.** Killing a Celestial's manifestation actually harms the Celestial, scaled to its Order. Harm runs one level up, scaled to the piece. A being of small Order dies when its manifestation is killed. A larger piece, killed, **diminishes** the Celestial's Order by a karmic amount. Killing a Greater aspect of Ra may diminish Ra. Killing Ra, a Major aspect, may put the Sun in peril.
 
 **The killer takes a karmic consequence too**, keyed to the relationship: amplificatory if the two were enemies, diminishing if they were allies. Killing an allied Celestial is a betrayal in the karmic sense even when it is also a tactical necessity.
 
@@ -452,8 +334,8 @@ Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 - **Components**: Material — gas charges, three to start. Charges are consumed on use; refilled through foraging (a Charisma check, trivial for common reagents within the forest domain — see [Lark's](../Player%20Sheets/Lark%20Myca%20Roux.md) attunement notes).
 - **Action**: Not yet pinned down — treat as Action only until a session forces the reaction question, matching [Healing Spore Cloud](#healing-spore-cloud).
 - **Range**: Cone, two zones. See [Ranged Combat](../Mechanics/Questing%20Time!%20Mechanics.md#ranged-combat).
-- **Effect**: A gas cone bursts out from the caster. Each target rolls Constitution against the caster's Charisma. On a loss, the target is Tripping — hallucinating badly enough that they must pass a Wisdom or Constitution check, target's choice, before any action that depends on perceiving the world correctly. Tripping targets roll disadvantage against Persuasion or Deception checks.
-- **Upcast**: Not yet decided — likely advances the effect (duration of Tripping, or a wider cone) rather than the dice pool, matching the pattern of the other Gifted cantrips here, but the GM has not confirmed which.
+- **Effect**: A gas cone bursts out from the caster. Each target rolls Constitution against the caster's Charisma. On a loss, the target is [Tripping](../Mechanics/Questing%20Time!%20Mechanics.md#conditions).
+- **Upcast**: Not yet decided — likely advances the effect (duration of Tripping, or a wider cone) rather than the dice pool, matching the pattern of the other Gifted cantrips here.
 
 **Casting stat.** Charisma against the target's Constitution, as written above — Lark casts off Charisma across the board, druid casting.
 
@@ -470,7 +352,7 @@ Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 - **Components**: Material — a prepared gas/powder charge from her kit, on the same crafting-and-foraging model as [Hallucination Gas](#hallucination-gas) (see the Crafting note there, and the loosened casting-medium note).
 - **Action**: Action. Used pre-initiative in play against a fleeing target — treat that as GM latitude on a reaction against someone leaving the scene, not a standing reaction option, until a session forces the question.
 - **Range**: Cone / drifting fog, two zones.
-- **Effect**: A fog bursts from the caster. Each target rolls Constitution against the caster's Charisma. On a loss the target **loses its current objective** — its thoughts cascade into unrelated things and it cannot hold a purpose ("I must be running, running, running…"). The target is also **Tripping**, exactly as [Hallucination Gas](#hallucination-gas) defines it (Wisdom or Constitution check, target's choice, before any action that depends on perceiving correctly; disadvantage against Persuasion or Deception). Duration one turn at entry level; it lingers on a target nobody snaps out of it.
+- **Effect**: A fog bursts from the caster. Each target rolls Constitution against the caster's Charisma. On a loss the target is [Distracted](../Mechanics/Questing%20Time!%20Mechanics.md#conditions) and Tripping. Duration one turn at entry level; it lingers on a target nobody snaps out of it.
 - **Upcast**: Advances the effect — longer duration, or a wider fog — not the dice pool, matching the other cantrips here.
 
 The overlap with Hallucination Gas's Tripping is deliberate: this spell adds the objective-loss on top of it. Selected from Lark's mind-magic list and cast twice at Session Zero. *Intrusive Thoughts* and the reworked "dark vapor" from the same list are still unselected.
@@ -523,7 +405,3 @@ Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 - **Does not end on the target attacking or casting** — unlike ordinary invisibility, it holds through aggressive action.
 
 Demonstrated by: [Snarfa](../NPC%20Sheets/Snarfa.md) (cast on Bob for [the depot](../Lore/Places/The%20Red%20Line%20Depot.md) climb, where the climb into the car still took its Prowess roll).
-
-# Open Rulings
-
-Tracked in Rules.

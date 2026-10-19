@@ -20,10 +20,11 @@ Opposed roll: attacker's relevant stat vs. defender's. Read the margin (attacker
 | Margin | Result |
 | --- | --- |
 | +0 or lower | Defender uninjured, narrates outcome. |
-| +1 to +3 | Defender narrates the hit; hurt superficially/temporarily (stunned). |
-| +4 to +6 | Attacker narrates, defender narrates defense, attacker explains overcoming it; hurt moderately (concussed, cracked rib). |
-| +7 to +9 | Attacker narrates and can alter details of the defense; badly hurt (unconscious, bleeding, broken bones). |
-| +10 or more | Defender dead or nearly; permanent issues even if saved. |
+| +1 to +4 | Defender narrates the hit; hurt superficially/temporarily (stunned). |
+| +5 to +9 | Attacker narrates, defender narrates defense, attacker explains overcoming it; hurt moderately (concussed, cracked rib). |
+| +10 to +14 | Attacker narrates and can alter details of the defense; badly hurt (unconscious, bleeding, broken bones). |
+| +15 to +19 | Defender dead or nearly; permanent issues even if saved. |
+| Each further +5 | One more click. |
 
 A spell/weapon can jump multiple steps at once if its own text says so — no upper limit.
 
@@ -164,4 +165,3 @@ Precomputed adjusted DC, base DC 1–20 (do not recompute at the table):
 
 - [Questing Time! Mechanics](../Mechanics/Questing%20Time!%20Mechanics.md) — full rules text.
 - [Dice Probability Reference](../Mechanics/Dice%20Probability%20Reference.md) — full probability math: per-die distributions, DC lookups, degrees of success, opposed-roll odds, and methodology.
-- The session's **crib** — where the party is, who is in front of them, and what is live tonight. It lives in `tmp/crib/`, outside the link graph.

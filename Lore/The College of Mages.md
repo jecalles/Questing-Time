@@ -13,10 +13,10 @@ Six schools, a spire each, small rooms off every spire, one shared quad in the m
 
 | School | What you find there | Who |
 | --- | --- | --- |
-| **Restoration** | The clinic: bumps and bruises below, surgery above. The dean's study up the spire. A karmic-restoration desk stacked with a dead man's case files. Under the spire, a fey wellspring. | Dean Alistair; Tim Aboul at the clinic; Dartha at the dean's door |
-| **Abjuration** | The calmest room in the College. Rune-stone couches, tea, a writing room with ink and quills, intro texts, a seminar on the board. If the College is ever attacked, everyone falls back here. | Snarfa at the clerk's desk; Penny in the writing room |
-| **Transmutation** | Laboratories. Reaction chambers, cauldrons, glass furnaces, glass boxes with something changing inside, a tool shop, a dark room behind black curtains. Lab coats on humans, an elf and a gnome. "We helped build the train lines." | Lartha at the desk; Eustace and Muriel at the bench |
-| **Evocation** | An amphitheatre of charred cobblestone panels where the fire wizards practise. A cold plunge for afterwards. | Victoria Ashburne, the dean; Jeff |
+| **[Restoration](../Lore/Places/Restoration.md)** | The clinic: bumps and bruises below, surgery above. The dean's study up the spire. A karmic-restoration desk stacked with a dead man's case files. Under the spire, a fey wellspring. | [Dean Alistair](../NPC%20Sheets/Dean%20Alistair.md); [Tim Aboul](../NPC%20Sheets/Tim%20Aboul.md) at the clinic; [Dartha](../NPC%20Sheets/Dartha.md) at the dean's door |
+| **[Abjuration](../Lore/Places/Abjuration.md)** | The calmest room in the College. Rune-stone couches, tea, a writing room with ink and quills, intro texts, a seminar on the board. If the College is ever attacked, everyone falls back here. | [Snarfa](../NPC%20Sheets/Snarfa.md) at the clerk's desk; [Penny](../NPC%20Sheets/Penny.md) in the writing room |
+| **[Transmutation](../Lore/Places/Transmutation.md)** | Laboratories. Reaction chambers, cauldrons, glass furnaces, glass boxes with something changing inside, a tool shop, a dark room behind black curtains. Lab coats on humans, an elf and a gnome. "We helped build the train lines." | [Lartha](../NPC%20Sheets/Lartha.md) at the desk; [Eustace](../NPC%20Sheets/Eustace.md) and [Muriel](../NPC%20Sheets/Muriel.md) at the bench |
+| **[Evocation](../Lore/Places/Evocation.md)** | An amphitheatre of charred cobblestone panels where the fire wizards practise. A cold plunge for afterwards. | Victoria Ashburne, the dean; [Jeff](../NPC%20Sheets/Jeff.md) |
 | **Divination** | The College's archaeology: the obsidian, the digs. Not yet walked. | — |
 | **Conjuration** | Not yet walked. Dungeons underneath: trapped creatures, demons. When something gets out, Conjuration feeds the deep — a Kraken comes down through a portal, upside down, and takes it. | — |
 
@@ -68,21 +68,21 @@ Who you meet, and where they are. Blocks in Named Characters.
 
 | Who | Where |
 | --- | --- |
-| Dean Alistair, Restoration | the study up the spire |
-| Tim Aboul, the clinic | Restoration, ground floor |
-| Dartha, the dean's fairy receptionist | Restoration |
-| Snarfa, the super senior | the Abjuration desk, the quad |
-| Penny, first-year abjuration | the writing room |
-| Lartha, Transmutation's clerk | Transmutation |
-| Eustace, transmuter | the bench |
-| Muriel, transmuter | the bench |
-| Victoria Ashburne, Dean of Evocation | the Evocation spire |
-| Jeff, fire | the amphitheatre |
-| Martha Woolsworth | Procurement |
-| Mark Thornbush, Pudge's handler | the basement |
-| Ada Crane, Castle inspector (not College) | upstairs in Abjuration, with her books |
-| Ellis, glassmaker (not College) | the south end of town, by the Red Line |
-| Ra, the sun god (not College) | wherever Snarfa's party is |
+| [Dean Alistair](../NPC%20Sheets/Dean%20Alistair.md), [Restoration](../Lore/Places/Restoration.md) | the study up the spire |
+| [Tim Aboul](../NPC%20Sheets/Tim%20Aboul.md), the clinic | Restoration, ground floor |
+| [Dartha](../NPC%20Sheets/Dartha.md), the dean's fairy receptionist | Restoration |
+| [Snarfa](../NPC%20Sheets/Snarfa.md), the super senior | the [Abjuration](../Lore/Places/Abjuration.md) desk, [the quad](../Lore/Places/The%20Quad.md) |
+| [Penny](../NPC%20Sheets/Penny.md), first-year abjuration | the writing room |
+| [Lartha](../NPC%20Sheets/Lartha.md), [Transmutation](../Lore/Places/Transmutation.md)'s clerk | Transmutation |
+| [Eustace](../NPC%20Sheets/Eustace.md), transmuter | the bench |
+| [Muriel](../NPC%20Sheets/Muriel.md), transmuter | the bench |
+| Victoria Ashburne, Dean of [Evocation](../Lore/Places/Evocation.md) | the Evocation spire |
+| [Jeff](../NPC%20Sheets/Jeff.md), fire | the amphitheatre |
+| [Martha Woolsworth](../NPC%20Sheets/Martha%20Woolsworth.md) | [Procurement](../Lore/Places/Procurement.md) |
+| [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md), [Pudge](../Player%20Sheets/Pudge.md)'s handler | the basement |
+| [Ada Crane](../NPC%20Sheets/Ada%20Crane.md), Castle inspector (not College) | upstairs in Abjuration, with her books |
+| [Ellis](../NPC%20Sheets/Ellis.md), glassmaker (not College) | the south end of town, by [the Red Line](../Lore/Places/The%20Red%20Line.md) |
+| [Ra](../NPC%20Sheets/Ra.md), the sun god (not College) | wherever Snarfa's party is |
 
 # Outside the Walls
 

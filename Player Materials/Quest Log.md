@@ -6,7 +6,7 @@ tags: [player-reference]
 # Quest Log
 
 The jobs you've taken on, and where each one stands. Current to Session
-Seven (2026-10-15); rewritten after every session.
+Seven; rewritten after every session.
 
 ## Open
 

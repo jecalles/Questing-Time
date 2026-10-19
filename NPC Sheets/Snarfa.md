@@ -30,7 +30,7 @@ Fifty years a student at [The College of Mages](../Lore/The%20College%20of%20Mag
 | Between | Tier | Since |
 | --- | --- | --- |
 | The party toward him | Aligned | after Session Four |
-| Snarfa toward Alistrassa | Aligned | the side session |
+| Snarfa toward [Alistrassa](../Player%20Sheets/Alistrassa.md) | Aligned | the side session |
 
 ## LAST BEAT
 

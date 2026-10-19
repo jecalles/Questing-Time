@@ -19,6 +19,8 @@ Core stats: Intelligence (proactive), Wisdom (resistance)
 
 The written art of magic is Inscription. The world is suffused with magic the way a room is full of heat; innate casting is that heat made into a gust. A rune is a **filter**: a minimal form that breaks the least possible symmetry to sort the possibility space, so that one flow passes and another does not. Maxwell's demon, drawn. The runes that would sort hot from cold have not been expressed, and expressing them is the whole game.
 
+A conjured thing is [Held](../Mechanics/Abilities.md#held).
+
 **Inscription is not a school, and it is not limited to one.** It is strongly *associated* with Transmutation and Abjuration in practice (a spoken ward holds for a moment; a warded room wants it written down) — most runework the party has seen leans that way — but as a Derived practice it can express any school. A caster's runecraft is not "her school"; the school lives on the individual rune being cut, not on the practice of cutting it.
 
 **The magic is in the ink.** A rune drawn in the College's ink shimmers as it goes down and spends nothing of the caster; what the spell is, is the shape of the ink in relation to itself. A non-magical being who copies a rune exactly is practising magic. What takes years is the **calligraphy** — students call it the flick — because the motion of the line is part of the shape.
@@ -76,8 +78,8 @@ What a working can do grows with its level. A zone is about 30 ft. Fire is the w
 | Minor | Touch. Utility, no harm. | A spark at the fingers: fuse, lamp, kindling. |
 | Lesser | One zone. A nuisance. | A spark flicked to a point in sight: lights a set charge; in a face, disadvantage on the next roll. |
 | Common | Three zones, or one Health step to one target. | A spark anywhere within 120 ft; a short cone of fire. |
-| Greater | Area harm across a zone, or bending energy already there. | Snarfa's Fireball; a lantern or a charge going off bigger. |
-| Major | Several zones. | Ra's beam. |
+| Greater | Area harm across a zone, or bending energy already there. | [Snarfa](../NPC%20Sheets/Snarfa.md)'s Fireball; a lantern or a charge going off bigger. |
+| Major | Several zones. | [Ra](../NPC%20Sheets/Ra.md)'s beam. |
 | Majestic | A god's act. | A meteor shower. |
 
 ## Psionic Magic
@@ -107,9 +109,7 @@ Every Illuminated being holds three properties: an Order, a Faction, and a Karma
 
 Any Order above Common is rare. A being rises through these ranks slowly, over many incarnations.
 
-**Rising in Order adds dice.** Greater adds one extra die on one stat. Major adds two extra dice, one stat each (or two on one). Majestic adds three. Which stat gets the die is decided narratively, by how the elevation happened — a Fey who fought her way to Greater status might add to Prowess; one who talked her way there might add to Charisma instead. A fall in Order works the same way, in reverse — dice are removed, not stepped down. Die-step bumps (a D12 becoming a D20 outright) are a different thing, granted by abilities and other in-world advancement, not by Order., superseding the die-step reading of this paragraph.
-
-Extra dice are summed, not chosen from: a Greater character with an extra Wisdom die rolls two Wisdom dice and adds them, rather than rolling the better of two sizes. See [Ra](../NPC%20Sheets/Ra.md) (a Major Aspect, `Pro D20 ×3` — a base die plus two Major-rank extras) for a worked example.
+**Each Order is a ladder row of dice.** A being rolls its row's dice. Die-step bumps come from abilities and in-world advancement, not Order. A named block may depart from its row.
 
 **Faction** carries a being's political standing into the next life. A being's Faction on rebirth is set by their actions in the life just ended.
 
@@ -171,9 +171,9 @@ The Illuminated perceive humans as both small, individual beings and as aspects 
 
 Fey broadly eschew worldly hierarchy altogether: to a Fey, the Karmic Order is the true hierarchy of the universe, and mortal rank is beneath consideration. They are simultaneously insecure about their own karmic placement and dismissive of every worldly structure — and yet they keep courts all the same: the Seelie Court of the High (Light) Fae, and the Unseelie Court of the Dark Fae. Not all of them keep one. The Forest Fae of the [Sharp Forest](../Lore/Sharp%20Forest.md) keep no court at all, and hold that a court is exactly the worldly structure a Fey is supposed to be above. They keep no second address either — alone among the Fae, they live wholly on Gaia, though they return to the Feywild like everyone else when they die.
 
-**The Moon** - a Majestic Celestial, the third named. Referred to as "her." Her will, as Yuhai's doctrine frames it, is **transformation** — "we must transform ourselves in a search for her." She has no proper name yet; "the Moon" is a title. Threads that touch her: the crescent on Yuhai's amulet and in the Cult of Bobs' greeting; the Red Lady's monthly, moon-tied visitation of menstruating human and elven women; [Iter](../Player%20Sheets/Iter%20Bravus.md)'s power waxing and waning with the moon; the "temple of the moon" from Bob's vision and the castle seen under a full moon. There is **one moon**. Whether "the Moon" is on the Earth axis at all, and whether she holds aspects, are open. Since Session Five her magic runs through Bob: he asks, nicely, and she answers. How the roll works is still open.
+**The Moon** - a Majestic Celestial, the third named. Referred to as "her." Her will, as Yuhai's doctrine frames it, is **transformation** — "we must transform ourselves in a search for her." She has no proper name yet; "the Moon" is a title. Threads that touch her: the crescent on Yuhai's amulet and in the Cult of Bobs' greeting; the Red Lady's monthly, moon-tied visitation of menstruating human and elven women; [Iter](../Player%20Sheets/Iter%20Bravus.md)'s power waxing and waning with the moon; the "temple of the moon" from Bob's vision and the castle seen under a full moon. There is **one moon**. Whether "the Moon" is on the Earth axis at all is open. Since Session Five her magic runs through Bob: he asks, nicely, and she answers. How the roll works is still open.
 
-**The Sun** - a Majestic Celestial, the fourth named. It manifests in the world through its Major Aspect and enforcer, **[Ra](../NPC%20Sheets/Ra.md), the sun god**: eagle-headed, golden, Egyptian, a relatively chill god who parties, comes through a portal when [Snarfa](../NPC%20Sheets/Snarfa.md) phones, and once set [the College](../Lore/The%20College%20of%20Mages.md) library on fire. He etched [Alistrassa](../Player%20Sheets/Alistrassa.md)'s lenses at an Abjuration party, in time with his own heartbeat. As an aspect he is off the Order (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)); whether the Sun holds other aspects, and where it sits against Earth, Gaia and the Moon, is open. He and the Moon used to date. It went badly. They are still friends, by his account.
+**The Sun** - a Majestic Celestial, the fourth named. It manifests in the world through its Major Aspect and enforcer, **[Ra](../NPC%20Sheets/Ra.md), the sun god**: eagle-headed, golden, Egyptian, a relatively chill god who parties, comes through a portal when [Snarfa](../NPC%20Sheets/Snarfa.md) phones, and once set [the College](../Lore/The%20College%20of%20Mages.md) library on fire. He etched [Alistrassa](../Player%20Sheets/Alistrassa.md)'s lenses at an Abjuration party, in time with his own heartbeat. At small occasions, a party among them, the Sun sends a Greater aspect of Ra. As an aspect he holds an order but does not climb on his own (see [Aspects and the Non-Illuminated](#aspects-and-the-non-illuminated)); whether the Sun holds other aspects, and where it sits against Earth, Gaia and the Moon, is open. He and the Moon used to date. It went badly. They are still friends, by his account.
 
 ## The Moon and the Zodiac
 

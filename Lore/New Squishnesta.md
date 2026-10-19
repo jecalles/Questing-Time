@@ -8,13 +8,13 @@ Colloquially "The City", a techno-magical metropolis. Fed by abjurative floating
 
 Nobody knows what happened to "Old Squishnesta". Some say it never existed. 
 
-The City is young — maybe four generations old. It has no walls: it just fades outward, less and less dense, until it's all pastoral. Population 50,000–100,000, GM leaning 50,000 (Squishnestashire as a whole holds ~300,000 — see [Questing Time! Geography](../Lore/Questing%20Time!%20Geography.md)). On its surface it looks like a near-utopia that governs itself without blood — because the society genuinely works for the people in power. Criminal behavior rarely goes through any legal system: nobody sane crosses [the College of Mages](../Lore/The%20College%20of%20Mages.md), and if a minor adept rips you to shreds for trying, that's held to be your own fault. The dynamic isn't tyranny — it's a human not caring what the ant colony next door does. If a prison exists at all, it's the rinky-dink kind you'd expect of a small hamlet (tentative, GM).
+The City is young — maybe four generations old. It has no walls: it just fades outward, less and less dense, until it's all pastoral. Population about 50,000 (Squishnestashire as a whole holds ~300,000 — see [Questing Time! Geography](../Lore/Questing%20Time!%20Geography.md)). On its surface it looks like a near-utopia that governs itself without blood — because the society genuinely works for the people in power. Criminal behavior rarely goes through any legal system: nobody sane crosses [the College of Mages](../Lore/The%20College%20of%20Mages.md), and if a minor adept rips you to shreds for trying, that's held to be your own fault. The dynamic isn't tyranny — it's a human not caring what the ant colony next door does. If a prison exists at all, it's the rinky-dink kind you'd expect of a small hamlet.
 
 # The Trains
 
 The traincars don't actually abnegate gravity — that's a common in-world misunderstanding. Abjurative runes on the underside of the cars and on the tracks repel each other, like positive and negative charges; a gentle push of evocation magic moves the cars along.
 
-**A cargo car is an open stone basin** — curved walls, no roof, and **no doors**. Freight goes in over the side and comes out the same way. So a car is a pit rather than a room: something inside it has total cover from anything shooting past, and no quick way out. Climbing in or out costs a move and an action both. The runes are easy to maintain in place, but sending a field technician out to fix or lay new ones is expensive — rune maintenance is presumed to be a large portion of the economy. The trains are set up for agriculture and goods, not people: [the College of Mages](../Lore/The%20College%20of%20Mages.md) benefits most from them politically, and mages can simply teleport via Derived conjuration. Fixed portal sites likely exist, controlled and rent-extracted (tentative, GM). Line layout and its politics: [Trains](../Lore/Questing%20Time!%20Geography.md#trains).
+**A cargo car is an open stone basin** — curved walls, no roof, and **no doors**. Freight goes in over the side and comes out the same way. So a car is a pit rather than a room: something inside it has total cover from anything shooting past, and no quick way out. Climbing in or out costs a move and an action both. The runes are easy to maintain in place, but sending a field technician out to fix or lay new ones is expensive — rune maintenance is presumed to be a large portion of the economy. The trains are set up for agriculture and goods, not people: [the College of Mages](../Lore/The%20College%20of%20Mages.md) benefits most from them politically, and mages can simply teleport via Derived conjuration. Fixed portal sites likely exist, controlled and rent-extracted. Line layout and its politics: [Trains](../Lore/Questing%20Time!%20Geography.md#trains).
 
 [The Shire](../Lore/Places/Squishnestashire.md)'s agricultural output is mostly monocropping under somewhat austere practices — the surrounding environment pushed hard to subsist — plus a small seafaring trade of minor fishing and whaling off the northern coast.
 
@@ -72,7 +72,7 @@ The story the humans tell is harmonious: they came upon Munchkins who were gener
 
 # Important Characters
 
-**Bob (name TBD)** - Not to be confused with Ash's character, a different Bob entirely. Publicly owns and runs [the Tavern](#key-locations), going by "Robert." [Stats](../NPC%20Sheets/Robert.md); [Well Connected](../Mechanics/Abilities.md#well-connected)
+**Bob (name TBD)** - Not to be confused with the party's Bob, a different Bob entirely. Publicly owns and runs [the Tavern](#key-locations), going by "Robert." [Stats](../NPC%20Sheets/Robert.md); [Well Connected](../Mechanics/Abilities.md#well-connected)
 
 **Finnegan Bramblebush** - half Munchkin, half human, works out of [the Tavern](#key-locations). Hands out the Session Zero fetch-quest contract. [Stats](../NPC%20Sheets/Seamus.md)
 

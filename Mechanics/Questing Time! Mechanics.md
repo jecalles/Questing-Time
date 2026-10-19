@@ -128,7 +128,7 @@ Knowledge keyed to a place runs on the same track, from **unfamiliar to familiar
 
 Full list: [Abilities](../Mechanics/Abilities.md). Default character blocks: [Stat Blocks](../Mechanics/Stat%20Blocks.md).
 
-Abilities are modifiers that give nuance to your character's stat block. For instance, "Prepared" may allow the user to to use proactive skills for defensive checks, whereas "Improviser" may allow the user to use reactive skills for proactive skill checks. These abilities may be permament (true growth) or temporary (to suggest a condition).
+Abilities are modifiers that give nuance to your character's stat block. For instance, "Prepared" may allow the user to to use proactive skills for defensive checks, whereas "Improviser" may allow the user to use reactive skills for proactive skill checks. These abilities may be permament (true growth) or temporary (to suggest a condition). Named conditions are listed in [Conditions](#conditions).
 
 Your character may start with a set of these abilities and acquire new ones through story beats. Character flaws and strengths SHOULD be captured as abilities.
 
@@ -146,9 +146,13 @@ You only roll initiative once per combat. That order holds for the entire fight,
 
 All actions taken during a combat are Snap Decisions by default. An ability may state otherwise.
 
-## Combos (playtest)
+## Units
 
-Two characters acting on the same turn may combine for one action: sum their dice, and both spend their turn. To join someone later in the order, cede your turn and act on theirs. Being tried at the table; it may change.
+A **unit** is characters or creatures that move on one initiative. A character with [Team Tactics](../Mechanics/Abilities.md#team-tactics) may move on another's initiative. It dissolves its own turn, and the unit has one.
+
+The unit makes one attack, its members' attack dice summed, and one defence roll, its members' defence dice summed. The unit's step is figured from its summed dice. A swarm is one creature, not a unit; see [Swarm](../Mechanics/Stat%20Blocks.md#swarm). A hit's clicks are split among the members, at the unit's choice, unless the attacker has [Targeted Attack](../Mechanics/Abilities.md#targeted-attack).
+
+At the end of the unit's turn a member may reroll initiative to go solo. It stays in the unit until the new initiative comes up. This is the one exception to rolling initiative once per combat.
 
 ## Surprise
 
@@ -179,12 +183,14 @@ All combat actions are Snap Decisions, and many are opposed checks. In the case 
 | **Attacker - Defender** | Narrative Result                                                                                                                                                                                                               | Health-Track Clicks |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
 | +0 or lower             | Defender is uninjured and narrates outcome.                                                                                                                                                                                    | 0                   |
-| +1 to +3                | Attacker narrates the attack and defender narrates the defense. Defender is hurt superficially and temporarily (e.g., stunned from a punch).                                                                                   | 1                   |
-| +4 to +6                | Attacker narrates the attack, defender narrates the defense, and attacker explains how they overcome the defense. Defender is hurt moderately (e.g., concussed, cracked rib)                                                   | 2                   |
-| +7 to +9                | Attacker narrates the attack and can alter details of the defender's narrative of the defense. The attacker then explains how the defense is overcome. Defender is badly hurt (e.g., unconscious, loosing blood, broken bones) | 3                   |
-| +10 or more             | The defender is dead or nearly. Immediate medical attention may save their life, but they will have permanent health issues (e.g., bullet between the eyes, stabbed through the chest).                                        | 4                   |
+| +1 to +4                | Attacker narrates the attack and defender narrates the defense. Defender is hurt superficially and temporarily (e.g., stunned from a punch).                                                                                   | 1                   |
+| +5 to +9                | Attacker narrates the attack, defender narrates the defense, and attacker explains how they overcome the defense. Defender is hurt moderately (e.g., concussed, cracked rib)                                                   | 2                   |
+| +10 to +14              | Attacker narrates the attack and can alter details of the defender's narrative of the defense. The attacker then explains how the defense is overcome. Defender is badly hurt (e.g., unconscious, loosing blood, broken bones) | 3                   |
+| +15 to +19              | The defender is dead or nearly. Immediate medical attention may save their life, but they will have permanent health issues (e.g., bullet between the eyes, stabbed through the chest).                                        | 4                   |
 
-**One system.** The margin table and the Health track are one system, not two: each band above steps the Health track (see below) down by the listed number of clicks. A defender starting at Normal who takes a +10-or-more hit drops the full four clicks straight to Incapacitated, matching the table's own "dead or nearly" language.
+Each further step adds one more click. Clicks = 1 + floor(margin / step) for a margin of 1 or more. The step is the defender's, set by its Order; the table above is the Common step, 5. There is no cap on clicks per hit. A tie wins the roll and deals 0 clicks.
+
+**One system.** The margin table and the Health track are one system, not two: each band above steps the Health track (see below) down by the listed number of clicks. A defender starting at Normal who takes a +15 to +19 hit drops the full four clicks straight to Incapacitated, matching the table's own "dead or nearly" language.
 
 A spell or weapon may deal multiple steps of damage at once, above and beyond what the margin table implies, if its own description says so — there's no upper limit.
 
@@ -236,7 +242,29 @@ You can shoot into a zone where an ally is fighting in melee, but you must make 
 - **Incapacitated** - character is unconscious and requires immediate medical attention. At risk of death.
 - **Dead** - character is dead. A divine magic is required to revivify them.
 
-**Incapacitated characters** do not roll saving throws. They can still roll Constitution. A finishing blow (a "coup de grace") is not a separate mechanic — it's the same margin-graded attack roll as any other: an enemy swinging on an incapacitated character rolls Prowess against their Constitution (or Intelligence against Wisdom, for a spell), and the margin steps the Health track down exactly per the table above. Because Incapacitated sits one click above Dead, even the lowest scoring band (+1 to +3, one click) is enough to kill outright. Only a total miss (+0 or lower, zero clicks) leaves them incapacitated. This is an attempt, not an automatic outcome, since the attack roll can still miss.
+**Incapacitated characters** do not roll saving throws. They can still roll Constitution. A finishing blow (a "coup de grace") is not a separate mechanic — it's the same margin-graded attack roll as any other: an enemy swinging on an incapacitated character rolls Prowess against their Constitution (or Intelligence against Wisdom, for a spell), and the margin steps the Health track down exactly per the table above. Because Incapacitated sits one click above Dead, even the lowest scoring band (+1 to +4, one click) is enough to kill outright. Only a total miss (+0 or lower, zero clicks) leaves them incapacitated. This is an attempt, not an automatic outcome, since the attack roll can still miss.
+
+# Conditions
+
+A condition is a named state a character can be in, apart from the Health track. Each entry says what it does and what ends it. Abilities, spells and items that cause one link here and do not restate it.
+
+**Exhausted.** Disadvantage on proactive checks until the character rests. Coffee or tea relieves it for a while; when it wears off, the condition returns.
+
+**Tripping.** Hallucinating badly. Before any action that depends on perceiving the world correctly, the target rolls a Wisdom or Constitution check, their choice. Disadvantage on Persuasion and Deception checks. Causes: [Hallucination Gas](../Mechanics/Abilities.md#hallucination-gas), [Endless Threat of Distraction](../Mechanics/Abilities.md#endless-threat-of-distraction).
+
+**Distracted.** The target loses its current objective. Its thoughts cascade into unrelated things and it cannot hold a purpose. Duration comes from the cause. Cause: [Endless Threat of Distraction](../Mechanics/Abilities.md#endless-threat-of-distraction) (one turn at entry level; it lingers if nobody snaps the target out of it).
+
+**Drunk.** Intoxicated. All social checks roll with Hubrisy. Lasts until a long rest. Causes include [The Bee's Needs](../Mechanics/Items%20and%20Equipment.md#the-bees-needs).
+
+**Sedated.** Dulled and slow to respond: heavy-lidded, glassy-eyed. Disadvantage on all proactive checks: Prowess, Intelligence, Charisma. Lasts until a short rest. Causes include [Nappy Taffy](../Mechanics/Items%20and%20Equipment.md#nappy-taffy).
+
+**Frightened.** Disadvantage on proactive checks while the source of the fear is in view, and the character cannot willingly move toward it. Ends when the source is out of sight, or at the end of the scene. The cause names the resisting roll: Wisdom against a spell, Instinct against a threat.
+
+**Charmed.** The character treats the charmer as a friend. Disadvantage on proactive checks against the charmer, and on checks to see through what they say. The character will not attack them. Ends when the charmer harms or betrays the character, or at the end of the scene.
+
+**Blinded.** Disadvantage on any check that needs sight, proactive or reactive, and on attacks against a target the character cannot otherwise sense. Ends when the cause is cleared (washed out, healed) or at the next short rest.
+
+**Stunned.** Reeling from a blow or shock. The character rolls Constitution or loses their whole turn. The DC is the opposing character's roll, or a fixed DC set by the cause. Until their next turn they cannot use a reaction. A hit in the +1 to +4 band of the [margin table](../Mechanics/Questing%20Time!%20Mechanics.md#combat) can leave a target Stunned.
 
 # Karmic Damage
 
@@ -250,7 +278,7 @@ A second track, beside Health, for a character whose karma is being spent or eat
 - **Healing it** has no method yet. Karmic restoration is the practice that would, and nobody alive has it — that is [Alistrassa's](../Player%20Sheets/Alistrassa.md) quest. Short of it only a divine act would serve: communing with something that outranks the Order. No mechanism exists.
 - **The clock.** A wasting character also progresses without casting, as months and years pass. The GM advances it, roughly once a session when it fits.
 
-Karmic damage is a cosmology mechanic, not a status condition: it does not impose disadvantage. What it changes is how much of you comes back.
+Karmic damage is a cosmology mechanic, not a [condition](#conditions): it does not impose disadvantage. What it changes is how much of you comes back.
 
 # Casting
 
@@ -320,17 +348,11 @@ A reach aimed at a patron *through* the moon rolls the sign, and the patron's di
 
 Provisional. Tried at the table; any of it may change.
 
-**Exhausted.** A character who has gone days without rest is Exhausted: disadvantage on proactive checks until they rest. For an elf, resting is trancing. Coffee or tea relieves it for a while.
-
 **Free runes.** A rune costs no roll if the character knows how to draw it and can reasonably inscribe it in that medium. Alistrassa draws runes up to Lesser with no roll, and Common runes if she takes her time.
 
 **Dice pools.** A player may add a die from a second skill to a pool if they can justify it, and the opponent may roll a pool back.
 
 **Close of session.** Health and tokens are spoken aloud at the end and written to the sheets.
-
-# Open Rulings
-
-Tracked in Rules.
 
 # Advancement
 

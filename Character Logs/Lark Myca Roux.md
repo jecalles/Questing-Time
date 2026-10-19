@@ -25,7 +25,7 @@ Talked the party out of a firefight and into a deal with [the Don](../NPC%20Shee
 
 - **Proposed to [the Don](../NPC%20Sheets/Don%20Aldo%20Zuccaro.md):** thanks for the trust; he has questions about [Finnegan](../NPC%20Sheets/Seamus.md)'s College connection and so does she; she'll go to [the College](../Lore/The%20College%20of%20Mages.md) and ask, if he funds the trip. A side quest for him and a side-side quest of her own.
 - **Her own quest:** the Sour Patch mushroom, a candied mushroom she knew only by story, which does not grow where she is from — through the corner kids, whom she wants to understand, and to whom she means to offer a holistic methadone and a meditation in exchange for what they know of the supply. Granted as a greater item quest. The rune study beside it is a greater information quest.
-- **Canon, ruled:** her people seed their dead into mushrooms and eat them to reach the ancestor; each mushroom reaches a different realm. Her mycology notebook is in the rig.
+- Her people seed their dead into mushrooms and eat them to reach the ancestor; each mushroom reaches a different realm. Her mycology notebook is in the rig.
 - **Left abruptly**, with a goodbye note on her bed.
 
 ## Session Six (2026-10-07)

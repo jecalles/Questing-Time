@@ -62,11 +62,11 @@ See [Abilities](../Mechanics/Abilities.md) for full entries. Casting rules: [Cas
 
 | Toward | Tier | Since |
 | --- | --- | --- |
-| The party (Pudge, Bob, Lark) | Aligned | Session Zero |
-| Finnegan Bramblebush | Aligned (his row toward the party: Enemy) | Session Zero / One |
+| The party ([Pudge](../Player%20Sheets/Pudge.md), Bob, [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md)) | Aligned | Session Zero |
+| [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md) | Aligned (his row toward the party: Enemy) | Session Zero / One |
 | The Zuccaro family | Aligned (their row toward her: Ally) | Session One |
-| Ember | Neutral | Session Six |
-| The College of Mages | Misaligned (default) | — |
+| [Ember](../Player%20Sheets/Ember%20Spanner.md) | Neutral | Session Six |
+| [The College of Mages](../Lore/The%20College%20of%20Mages.md) | Misaligned (default) | — |
 
 ---
 

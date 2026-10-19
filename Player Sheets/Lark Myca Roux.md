@@ -86,14 +86,14 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 | Toward | Tier | Since |
 | --- | --- | --- |
-| Iter Bravus | Aligned | Session Zero |
-| Pudge | Aligned | Session Zero |
+| [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md) | Aligned | Session Zero |
+| [Pudge](../Player%20Sheets/Pudge.md) | Aligned | Session Zero |
 | Bob | Neutral | Session Zero |
-| Alistrassa | Neutral | Session Six |
-| Ember | Aligned (both ways) | Session Six |
-| Finnegan Bramblebush | Aligned ("you're one of us"); his row toward the party: Enemy | Session Zero / One |
+| [Alistrassa](../Player%20Sheets/Alistrassa.md) | Neutral | Session Six |
+| [Ember](../Player%20Sheets/Ember%20Spanner.md) | Aligned (both ways) | Session Six |
+| [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md) | Aligned ("you're one of us"); his row toward the party: Enemy | Session Zero / One |
 | The Zuccaro family | Aligned (their row toward her: Ally) | Session One |
-| The College of Mages | Misaligned (default) | — |
+| [The College of Mages](../Lore/The%20College%20of%20Mages.md) | Misaligned (default) | — |
 
 ---
 

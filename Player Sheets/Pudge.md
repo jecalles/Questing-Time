@@ -50,11 +50,11 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 | Toward | Tier | Since |
 | --- | --- | --- |
-| The College of Mages | Serves them as a Warden — treat as Aligned | start |
-| The party (Iter, Bob, Lark) | Aligned | Session Zero |
-| Finnegan Bramblebush | Aligned ("smitten," natural 20); his row toward the party: Enemy | Session Zero / One |
+| [The College of Mages](../Lore/The%20College%20of%20Mages.md) | Serves them as a Warden — treat as Aligned | start |
+| The party ([Iter](../Player%20Sheets/Iter%20Bravus.md), Bob, [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md)) | Aligned | Session Zero |
+| [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md) | Aligned ("smitten," natural 20); his row toward the party: Enemy | Session Zero / One |
 | The Zuccaro family | Neutral — "still very carefully watching" (their row toward him: Aligned) | Session One |
-| Ember | Neutral | Session Six |
+| [Ember](../Player%20Sheets/Ember%20Spanner.md) | Neutral | Session Six |
 
 ---
 

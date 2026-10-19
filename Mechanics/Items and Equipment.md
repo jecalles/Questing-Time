@@ -39,7 +39,7 @@ Sunglasses do nothing for a character who does not hold Night Vision.
 
 Long, black, and always looks like it is dripping. Held over her shoulder against the sun (she is Drau — see [Sunglasses](#sunglasses)).
 
-**Weapon.** It has a sharp point. Used one-handed, it is a plain **Prowess** attack, piercing — no roll modifier. Aera asked for this.
+**Weapon.** It has a sharp point. Used one-handed, it is a plain **Prowess** attack, piercing — no roll modifier.
 
 Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 
@@ -150,7 +150,7 @@ Common, unremarkable, and not magical. A gun is a weapon with reach: **two zones
 
 **Reloading costs the object interaction.** Since a turn carries one move, one action and one object interaction, a shooter can fire every turn and spend nothing else doing it.
 
-**Leather armour gives no reduction against gunfire.** The base one-step reduction under [Pudge's Leather Armor](#pudges-leather-armor) and R-6 does not apply: leather does not stop a bullet. This is specific to leather — heavier armour classes still reduce, and no one in the party owns any yet. [Pudge](../Player%20Sheets/Pudge.md)'s armour suppresses *magic*, so against a common shooter with ordinary bullets it does nothing at all.
+**Leather armour gives no reduction against gunfire.** The base one-step reduction under [Pudge's Leather Armor](#pudges-leather-armor) does not apply: leather does not stop a bullet. This is specific to leather — heavier armour classes still reduce, and no one in the party owns any yet. [Pudge](../Player%20Sheets/Pudge.md)'s armour suppresses *magic*, so against a common shooter with ordinary bullets it does nothing at all.
 
 ## Freight crates
 
@@ -195,10 +195,7 @@ A depressant. Starts as candy, eaten whole; escalates to melting a wad on a spoo
 
 **Compound:** nutmeg. A dose that flavors a cookie is enough to sedate a Munchkin outright.
 
-**Effects, until a short rest:**
-
-- Disadvantage on all proactive checks: Prowess, Intelligence, Charisma.
-- Physical tell: heavy-lidded, glassy-eyed, slow to respond.
+Eating it leaves the target [Sedated](../Mechanics/Questing%20Time!%20Mechanics.md#conditions) until a short rest.
 
 ## The Bee's Needs
 
@@ -210,9 +207,7 @@ An alcohol substitute. Munchkins are immune to ordinary alcohol; this is what ac
 
 - One Constitution save per drink consumed.
 - Failed save: Drunk, until a long rest.
-- While Drunk: advantage on Charisma checks against another Drunk target; disadvantage on Charisma checks against a sober one.
-
-Drunk and the Nappy Taffy disadvantage are the vault's first status conditions outside the Health track. No formal conditions list exists yet to hold them — flagged as a small structural gap, not resolved here.
+- While Drunk: see [Drunk](../Mechanics/Questing%20Time!%20Mechanics.md#conditions).
 
 ## Greater Truth Serum
 

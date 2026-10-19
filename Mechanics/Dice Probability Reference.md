@@ -370,7 +370,7 @@ The tables below give the chance of each, per die, across the same DC range as D
 This covers opposed rolls — one exploding die directly against another, the resolution system for combat and most contests per [Dice and Rolls](../Mechanics/Questing%20Time!%20Mechanics.md#dice-and-rolls). Unlike a DC-based check, there's no fixed target: two dice compete directly. This covers two things:
 
 1. **Win probability** — for every pair of die sizes, the chance the attacker's total beats the defender's, and the chance of a tie.
-2. **Margin bands** — the chance the attack lands in each of the five outcome bands from [Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat)'s margin table, for a same-size fight and several mismatched ones.
+2. **Margin bands** — the chance the attack lands in each click band from [Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat)'s margin table, plus the mean number of clicks, for a same-size fight and several mismatched ones.
 
 The margin-band section exists mainly to give real numbers for the question of how the combat margin table reconciles with the Health track, since settled in [Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat). This note only supplies data; it does not propose a resolution.
 
@@ -395,47 +395,50 @@ The matrix is not symmetric cell-for-cell (a d4 row against a d20 column is a di
 
 ### Margin Bands (Combat Outcome Table)
 
-[Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat) resolves a hit by margin = attacker's total − defender's total, sorted into five bands:
+[Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat) resolves a hit by margin = attacker's total − defender's total, sorted into click bands:
 
-| Margin | Outcome |
+| Margin | Clicks |
 | --- | --- |
-| +0 or lower | Uninjured |
-| +1 to +3 | Superficial |
-| +4 to +6 | Moderate |
-| +7 to +9 | Badly hurt |
-| +10 or more | Dead or near-dead |
+| +0 or lower | 0 (uninjured) |
+| +1 to +4 | 1 |
+| +5 to +9 | 2 |
+| +10 to +14 | 3 |
+| +15 to +19 | 4 |
+| Each further +5 | One more click |
 
-Note that "+0 or lower" absorbs every tie and every case where the defender's total is actually higher — the table as written in Mechanics has no separate "defender wins" band, so a defender who out-rolls the attacker lands in the same "uninjured" bucket as a narrow miss. That collapse is part of what R-1 is asking about.
+Four clicks from Normal is Incapacitated. Five is Dead. The tables below merge every margin of +15 or more into one "4+ clicks" column.
+
+Note that "+0 or lower" absorbs every tie and every case where the defender's total is actually higher — the table as written in Mechanics has no separate "defender wins" band, so a defender who out-rolls the attacker lands in the same "uninjured" bucket as a narrow miss.
 
 Below: all six same-size matchups, plus several mismatched pairs (a 3-step gap and a max/min gap, in both attack directions) to show how the band shape shifts as the size gap grows.
 
 **Same-size matchups**
 
-| Matchup | Uninjured | Superficial | Moderate | Badly hurt | Dead/near-dead |
-| --- | --- | --- | --- | --- | --- |
-| d4 vs d4 | 60.00% | 25.00% | 10.42% | 2.92% | 1.67% |
-| d6 vs d6 | 57.14% | 27.14% | 8.57% | 4.52% | 2.62% |
-| d8 vs d8 | 55.56% | 24.40% | 11.90% | 3.77% | 4.37% |
-| d10 vs d10 | 54.55% | 21.52% | 13.33% | 5.15% | 5.45% |
-| d12 vs d12 | 53.85% | 19.06% | 13.29% | 7.52% | 6.29% |
-| d20 vs d20 | 52.38% | 12.82% | 10.68% | 8.53% | 15.59% |
+| Matchup | Uninjured (≤0) | 1 click (+1 to +4) | 2 clicks (+5 to +9) | 3 clicks (+10 to +14) | 4+ clicks (+15 or more) | Mean clicks |
+| --- | --- | --- | --- | --- | --- | --- |
+| d4 vs d4 | 60.00% | 30.00% | 8.33% | 1.38% | 0.29% | 0.52 |
+| d6 vs d6 | 57.14% | 31.43% | 8.81% | 2.00% | 0.62% | 0.58 |
+| d8 vs d8 | 55.56% | 29.76% | 10.32% | 3.35% | 1.02% | 0.65 |
+| d10 vs d10 | 54.55% | 26.87% | 13.13% | 3.60% | 1.86% | 0.72 |
+| d12 vs d12 | 53.85% | 24.13% | 15.73% | 3.56% | 2.73% | 0.79 |
+| d20 vs d20 | 52.38% | 16.62% | 15.41% | 9.46% | 6.13% | 1.06 |
 
-Every same-size matchup lands "Uninjured" a bit more than half the time (that band absorbs all ties plus all narrow defender wins). As die size grows, the distribution doesn't just spread out symmetrically — it shifts mass toward "Dead or near-dead": d4 vs d4 puts only 1.67% of fights there, but d20 vs d20 puts 15.59%. Bigger dice explode into much larger totals on their tail, and margin cares about the gap between two such totals, so big-die fights swing harder even at even odds.
+Every same-size matchup lands "Uninjured" a bit more than half the time (that band absorbs all ties plus all narrow defender wins). As die size grows, mass moves out of the 1-click band and into the higher bands: d4 vs d4 puts only 0.29% of fights at 4+ clicks, but d20 vs d20 puts 6.13%. The mean grows from 0.52 clicks to 1.06. Bigger dice explode into much larger totals on their tail, and margin cares about the gap between two such totals, so big-die fights swing harder even at even odds.
 
 **Mismatched matchups** (attacker die vs defender die)
 
-| Matchup | Uninjured | Superficial | Moderate | Badly hurt | Dead/near-dead |
-| --- | --- | --- | --- | --- | --- |
-| d4 atk vs d12 def | 80.96% | 12.22% | 4.60% | 1.40% | 0.81% |
-| d12 atk vs d4 def | 27.25% | 23.89% | 22.04% | 17.13% | 9.68% |
-| d6 atk vs d12 def | 74.25% | 16.13% | 5.34% | 2.69% | 1.60% |
-| d12 atk vs d6 def | 33.87% | 23.03% | 21.35% | 13.17% | 8.58% |
-| d8 atk vs d10 def | 62.37% | 20.33% | 10.37% | 3.22% | 3.72% |
-| d10 atk vs d8 def | 46.62% | 25.32% | 16.04% | 5.78% | 6.24% |
-| d4 atk vs d20 def | 88.35% | 7.49% | 2.81% | 0.86% | 0.49% |
-| d20 atk vs d4 def | 16.65% | 14.96% | 14.89% | 14.70% | 38.81% |
+| Matchup | Uninjured (≤0) | 1 click (+1 to +4) | 2 clicks (+5 to +9) | 3 clicks (+10 to +14) | 4+ clicks (+15 or more) | Mean clicks |
+| --- | --- | --- | --- | --- | --- | --- |
+| d4 atk vs d12 def | 80.96% | 14.28% | 3.95% | 0.67% | 0.14% | 0.25 |
+| d12 atk vs d4 def | 27.25% | 31.75% | 31.32% | 4.96% | 4.73% | 1.31 |
+| d6 atk vs d12 def | 74.25% | 18.79% | 5.36% | 1.23% | 0.38% | 0.35 |
+| d12 atk vs d6 def | 33.87% | 30.28% | 27.26% | 4.37% | 4.21% | 1.17 |
+| d8 atk vs d10 def | 62.37% | 24.89% | 9.02% | 2.85% | 0.87% | 0.55 |
+| d10 atk vs d8 def | 46.62% | 31.81% | 15.33% | 4.08% | 2.16% | 0.84 |
+| d4 atk vs d20 def | 88.35% | 8.74% | 2.42% | 0.41% | 0.08% | 0.15 |
+| d20 atk vs d4 def | 16.65% | 19.94% | 24.60% | 22.66% | 16.15% | 2.13 |
 
-The widest gap in the vault's die range, d20 attacker against d4 defender, lands "Dead or near-dead" 38.81% of the time — more than any other single band in that fight. A d4 defender essentially cannot generate enough total to keep the margin under +10 against a d20's tail. Conversely the same pair reversed (d4 attacking a d12 or d20 defender) almost never gets past "Superficial": the small attacking die rarely rolls high enough, relative to the big defending die, to open a wide margin at all.
+The widest gap in the vault's die range, d20 attacker against d4 defender, averages 2.13 clicks. It lands 4+ clicks 16.15% of the time, and only 16.65% of the time is the d4 defender unhurt. The 2-click band (24.60%) is the largest single band in that fight. Conversely the same pair reversed (d4 attacking a d12 or d20 defender) almost never gets past 1 click: the small attacking die rarely rolls high enough, relative to the big defending die, to open a wide margin at all. Mean clicks there are 0.25 and 0.15. Displayed percentages are rounded to two places, so a few rows show 99.99% or 100.01% when added by hand.
 
 ---
 
@@ -697,14 +700,14 @@ This falls out of the rule directly: a non-max roll stops the chain, and a max r
 - P(tie) = Σₜ pA(t) · pD(t)
 - P(loss) = 1 − P(win) − P(tie)
 
-**Margin bands.** For the same pair, the margin m = (attacker total) − (defender total) has probability P(m) = Σₜ pA(t) · pD(t − m), computed directly as a joint sum over both dice's pmfs (equivalent to convolving pA with the reflection of pD) rather than by simulation. Each margin value is then sorted into its band per [Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat)'s table and the band masses summed.
+**Margin bands.** For the same pair, the margin m = (attacker total) − (defender total) has probability P(m) = Σₜ pA(t) · pD(t − m), computed directly as a joint sum over both dice's pmfs (equivalent to convolving pA with the reflection of pD) rather than by simulation. Each margin value is then sorted into its click band per [Combat](../Mechanics/Questing%20Time!%20Mechanics.md#combat)'s table (uninjured at +0 or lower; 1 click at +1 to +4; 2 at +5 to +9; 3 at +10 to +14; 4 or more at +15 or higher) and the band masses summed. Mean clicks is Σ P(m) · (1 + ⌊m/5⌋) over m ≥ 1.
 
 **Verification.**
 
 - The single-die recursion was checked two independent ways: evaluated out to a cutoff where the remaining tail probability is below 1e-15 (reported mass verified to sum to 1.0000000000 for every die), and separately evaluated out to a cutoff of 40×N per die with remaining tail mass below 1e-24 for every die from d4 through d20 (also exact to float precision). Both agree.
 - Multi-die sums were checked two ways for every (die size, N) pair: the resulting pmf sums to 1.0000000000, and the pool's mean equals N times the single-die mean.
 - Every win/tie/loss triple was checked to sum to 1.0000 (float precision) for all 36 die-pair combinations, and each matchup's identity win(A,D) + tie(A,D) + win(D,A) = 1 was confirmed to hold across the full matrix.
-- Every margin-band row was checked to sum to 1.0000.
+- Every click-band row was checked to sum to 1.0000 before rounding. As a spot check, a Monte Carlo of 1,000,000 rolls of d20 attacking d4 gave 16.12% at +15 or more, against 16.15% computed.
 - As a spot check, same-die matchups come out close to an even split with a shrinking tie share as die size grows (e.g. d4 vs d4: 40.00% win / 20.00% tie / 40.00% loss; d20 vs d20: 47.62% win / 4.76% tie / 47.62% loss) — consistent with two identical exploding dice being a near-fair fight, with exact ties becoming rarer as the die's outcome space grows finer.
 
 ---

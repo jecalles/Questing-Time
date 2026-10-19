@@ -10,9 +10,9 @@ Four regions, and the ways between them. Read this first; each region has its ow
 | Region | What it is | Note |
 | --- | --- | --- |
 | **New Squishnesta** | the City: techno-magical, landlocked, young, walled by nothing | [New Squishnesta](../Lore/New%20Squishnesta.md) |
-| **Squishnestashire** | the farm country around it, out to one northern coast | below |
+| **[Squishnestashire](../Lore/Places/Squishnestashire.md)** | the farm country around it, out to one northern coast | below |
 | **The Sharp Forest** | dense forest and bog at the Shire's edge, older than the City | [Sharp Forest](../Lore/Sharp%20Forest.md) |
-| **The UKaves** | the cave system under all of it, and the way down | below |
+| **[The UKaves](../Lore/Places/The%20UKaves.md)** | the cave system under all of it, and the way down | below |
 
 Squish Nesta is the world. Nobody knows what happened to Old Squishnesta. Some say it never existed.
 

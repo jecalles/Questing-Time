@@ -76,19 +76,19 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 | Toward | Tier | Since |
 | --- | --- | --- |
-| Iter Bravus | Aligned | Session Zero |
-| Pudge | Aligned | Session Zero |
-| Lark | Neutral | Session Zero |
-| Ember | Neutral | Session Six |
-| Finnegan Bramblebush | Aligned-ish (protected him in the fight; wanted him spared); his row toward the party: Enemy | Session Zero / One |
+| [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md) | Aligned | Session Zero |
+| [Pudge](../Player%20Sheets/Pudge.md) | Aligned | Session Zero |
+| [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) | Neutral | Session Zero |
+| [Ember](../Player%20Sheets/Ember%20Spanner.md) | Neutral | Session Six |
+| [Finnegan Bramblebush](../NPC%20Sheets/Seamus.md) | Aligned-ish (protected him in the fight; wanted him spared); his row toward the party: Enemy | Session Zero / One |
 | The Zuccaro family | Aligned (their row toward him: Ally) | Session One |
-| The College of Mages | Misaligned (default) | — |
+| [The College of Mages](../Lore/The%20College%20of%20Mages.md) | Misaligned (default) | — |
 
 ---
 
 ## LAST BEAT
 
-Session Seven (Ash absent): left the library in the night and walked northeast. The party found him asleep and naked under [the squirrel tree](../Lore/Places/The%20Squirrel%20Tree.md), with a little sand beside him, and carried him back to [the College](../Lore/The%20College%20of%20Mages.md). He did not die.
+Session Seven: left the library in the night and walked northeast. The party found him asleep and naked under [the squirrel tree](../Lore/Places/The%20Squirrel%20Tree.md), with a little sand beside him, and carried him back to [the College](../Lore/The%20College%20of%20Mages.md). He did not die.
 
 ---
 

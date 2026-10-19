@@ -1,9 +1,9 @@
 ---
-description: Player-facing handout — the world, races, the City, famous names, magic, the questing board, and dice rules.
+description: Player-facing handout — the world, races, the City, famous names, magic, the questing board, and building a character.
 tags: [player-reference, world-lore]
 ---
 
-Welcome to Questing Time! This page is your quick-start guide. It is not the full GM notes — just what you need to build a character and play. This page covers only what an ordinary person would know. If a rumor appears here, your character has heard it. If something doesn't appear here, your character hasn't.
+Welcome to Questing Time! This page is your quick-start guide. The [front page](../README.md) lists everything else. It is not the full GM notes — just what you need to build a character and play. This page covers only what an ordinary person would know. If a rumor appears here, your character has heard it. If something doesn't appear here, your character hasn't.
 
 Use this to decide where you're from, who you know, why you read the questing board, and how to build your character.
 
@@ -21,29 +21,27 @@ Use this to decide where you're from, who you know, why you read the questing bo
 
 # Races
 
-Each character holds one die of each size: D20, D12, D10, D8, D6, D4. You assign one die to each of your six stats (Prowess, Constitution, Intelligence, Wisdom, Charisma, Instinct). Your race sets the starting pattern for that assignment.
+Each character holds one die of each size: D20, D12, D10, D8, D6, D4. You assign one die to each of your six stats (Prowess, Constitution, Intelligence, Wisdom, Charisma, Instinct). Your race sets the starting pattern for that assignment. The dice for every race are in the [Stat Blocks table](../Mechanics/Stat%20Blocks.md#quick-reference), and the abilities are in [Abilities](../Mechanics/Abilities.md). The full rules are in [Questing Time! Mechanics](../Mechanics/Questing%20Time!%20Mechanics.md); the numbers you need at the table are on the [Play Card](../Mechanics/Play%20Card.md).
 
-**The Munchkin** — Humanoid small people, and a human subspecies with a trace of Elf blood too thin to give them magic. D20 Charisma, D12 Instinct, D10 Constitution, D8 Wisdom, D6 Intelligence, D4 Prowess. **Sweet Blood** — sugar and sweets hit you far harder than they hit anyone else; a dose that's nothing to a human can sedate, stimulate, or intoxicate you outright. Most psychedelics run the other way: something in your blood resists them, for reasons nobody's traced.
+**The Munchkin** — Humanoid small people, and a human subspecies with a trace of Elf blood too thin to give them magic. [Sweet Blood](../Mechanics/Abilities.md#sweet-blood).
 
-**High Elves** — Comical parodies of themselves. Long lives, grace and airs, a stagnant and decadent culture. D20 Wisdom, D12 Prowess, D10 Instinct, D8 Intelligence, D6 Constitution, D4 Charisma. **Ancient Instinct** — you sense the true alignment of anyone near you, no roll needed, and nobody can fake theirs past you.
+**High Elves** — Comical parodies of themselves. Long lives, grace and airs, a stagnant and decadent culture. [Ancient Instinct](../Mechanics/Abilities.md#ancient-instinct).
 
-**Humans** — Typically farmers and countryfolk. Salt of the earth, hearty, no-nonsense. D20 Constitution, D12 Charisma, D10 Prowess, D8 Instinct, D6 Intelligence, D4 Wisdom.
+**Humans** — Typically farmers and countryfolk. Salt of the earth, hearty, no-nonsense.
 
-**Fey (Seelie)** — Trickster spirits and faeries. D20 Prowess, D12 Charisma, D10 Instinct, D8 Wisdom, D6 Intelligence, D4 Constitution. **Faerie's Grace** — react on Prowess or Instinct, whichever suits the moment. **Trickster** — your lies come easy and land well. You also carry **Ancient Instinct**, same as the elves above.
+**Fey (Seelie)** — Trickster spirits and faeries. [Faerie's Grace](../Mechanics/Abilities.md#faeries-grace), [Trickster](../Mechanics/Abilities.md#trickster), [Ancient Instinct](../Mechanics/Abilities.md#ancient-instinct).
 
-**The Undead** — Ghouls, zombies, ghosts. D20 Wisdom, D12 Instinct, D10 Prowess, D8 Charisma, D6 Intelligence, D4 Constitution. Playing one? Ask your GM what your racial ability does when you build your sheet.
+**The Undead** — Ghouls, zombies, ghosts. Playing one? Ask your GM what your racial ability does.
 
-**Orcs** — Big, hairy, and misunderstood. D20 Prowess, D12 Constitution, D10 Wisdom, D8 Charisma, D6 Instinct, D4 Intelligence.
+**Orcs** — Big, hairy, and misunderstood.
 
-**Drau** — A cave people, and opportunistic colonizers. Streetsmart and worldly next to the kin they left behind. D20 Instinct, D12 Wisdom, D10 Intelligence, D8 Charisma, D6 Constitution, D4 Prowess. **Night Vision** — you see perfectly in the dark, no light and no roll needed. Bright light costs you instead: roll Constitution before anything that depends on seeing, and a fail puts that check at disadvantage. Sunglasses cancel the penalty outright.
+**Drau** — A cave people, and opportunistic colonizers. Streetsmart and worldly next to the kin they left behind. [Night Vision](../Mechanics/Abilities.md#night-vision).
 
-**Devils** — Infernal. Lawful evil to lawful neutral. D20 Charisma, D12 Intelligence, D10 Instinct, D8 Constitution, D6 Wisdom, D4 Prowess. **Ancient Instinct**, same as the elves above.
+**Devils** — Infernal. Lawful evil to lawful neutral. [Ancient Instinct](../Mechanics/Abilities.md#ancient-instinct).
 
-**Demons** — Infernal. Chaotic evil to chaotic neutral. The reverse of Devils. D20 Prowess, D12 Wisdom, D10 Constitution, D8 Instinct, D6 Intelligence, D4 Charisma. **Ancient Instinct**, same as the elves above.
+**Demons** — Infernal. Chaotic evil to chaotic neutral. The reverse of Devils. [Ancient Instinct](../Mechanics/Abilities.md#ancient-instinct).
 
 # The City
-
-[New Squishnesta](../Lore/New%20Squishnesta.md) — everyone just calls it "the City" — is a techno-magical metropolis, landlocked, fed by floating traincars that bring in produce from [Squishnestashire](../Lore/Places/Squishnestashire.md), the farm country around it. The City runs on farming and on magical services sold to other realms. It smells faintly of bubblegum.
 
 A few places every local knows:
 
@@ -53,8 +51,6 @@ A few places every local knows:
 - **[The Questing Board](../Lore/Places/The%20Questing%20Board.md)** — the town-square board where jobs get posted. See "The Board," below.
 - **[The Red Line](../Lore/Places/The%20Red%20Line.md)** — the City's poorest district, ringed by a road paved in red brick. A seedy ghetto, home mostly to Munchkins and to lesser and minor fey. Everyone knows there's illicit business behind its doors, and everyone knows better than to ask whose.
 - **The Well** — a somewhat well-known landmark within the Red Line: a mysterious, magical well, and a congregating spot for feyfolk and their friends.
-
-The City is landlocked; Squishnestashire, the farmland around it, reaches the coast.
 
 Races you'll meet around the City: the Munchkin, High Elves, Humans, and Fey (Seelie) — see Races, above.
 
@@ -95,24 +91,6 @@ Most towns keep one questing board; a major city may keep several. It's the stan
 - Anyone can pin a flyer to the board.
 - You don't need an introduction to the poster. Take a flyer, and the job is yours.
 - [The Tavern](../Lore/Places/The%20Tavern.md) is the usual spot to meet and formally accept a posted job in person, once you've picked it off the board.
-
-# How Dice Work
-
-Each character has six stats: Prowess, Constitution, Intelligence, Wisdom, Charisma, Instinct. Each stat holds one of your six dice (D20 down to D4). The bigger the die, the better you are at that stat.
-
-**Rolling.** To make a check, roll the die assigned to the relevant stat against a Difficulty (DC) the GM sets, or against another character's roll (an opposed check — for example, your Prowess to sneak against their Instinct to notice).
-
-**Exploding dice.** If you roll the highest number on your die, it "explodes": roll again and add the new result to your total. Keep exploding as long as you keep hitting the max. Stop rolling the moment you've already succeeded.
-
-**Advantage and disadvantage.** With advantage, roll your whole pool twice (each explodes fully) and take the higher total. With disadvantage, do the same and take the lower total.
-
-**Planned vs. snap.** A Planned Action happens without time pressure, under good conditions — if the DC is half your die size or less, you succeed automatically, no roll needed. A Snap Decision is under pressure; you roll straight, and nobody can spend Determination Tokens to help you.
-
-**Determination Tokens.** Every time you fail a check, you gain a token. Spend a token to add +1 to any roll, one token per point. Outside combat, other party members can spend tokens to help your Planned Action rolls too.
-
-**Degrees of success.** Beating a DC by 10 or more is treated like a critical — narrate it as unbelievable. Beating it by 5 or more should look effortless. Missing by 5 or more has minor consequences; missing by 10 or more has serious ones.
-
-Ask your GM for the full rules reference if you want more detail — this page covers just what you need to play.
 
 # Building Your Character
 

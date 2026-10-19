@@ -24,8 +24,8 @@ He wears a white suit with a black collar and a bow tie, smokes a sugar-plum cig
 
 | Between | Tier | Since |
 | --- | --- | --- |
-| The Zuccaros toward Iter, Bob, Lark | Ally | Session One |
-| The Zuccaros toward Pudge | Aligned | Session One |
+| The Zuccaros toward [Iter](../Player%20Sheets/Iter%20Bravus.md), Bob, [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) | Ally | Session One |
+| The Zuccaros toward [Pudge](../Player%20Sheets/Pudge.md) | Aligned | Session One |
 | Iter, Bob, Lark toward the Zuccaros | Aligned | Session One |
 | Pudge toward the Zuccaros | Neutral | Session One |
 

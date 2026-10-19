@@ -38,7 +38,7 @@ Asked [Finnegan](../NPC%20Sheets/Seamus.md) the practical questions (which way i
 
 ## Session Four (2026-09-24)
 
-- Away (Alyssa absent). Went to answer [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md)'s chit in person.
+- Away from the party. Went to answer [Mark Thornbush](../NPC%20Sheets/Mark%20Thornbush.md)'s chit in person.
 
 **State at close:** unchanged — Health Normal · Tokens 7 · Gold 20 (+20 in the group fund).
 

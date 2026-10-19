@@ -1,14 +1,14 @@
 ---
-description: What Questing Time! is — the pitch, the city, the party, and how a session runs — for a player opening the vault for the first time.
+description: The pitch — the city, magic, the party, and how a session runs, in five minutes.
 tags: [world-lore, meta]
 ---
 
 # Questing Time! — a primer
 
 **The pitch.** A fantasy sci-fi tabletop game about a city that runs on
-magic, money and candy, and four strangers who took a dull job and
-found out what it was for. Home-brewed, house rules, dice that explode.
-Based on the lore of the NuHaus parties and their theming.
+magic, money and candy, and a handful of strangers who took a dull job
+and found out what it was for. Home-brewed, house rules, dice that
+explode. Based on the lore of the NuHaus parties and their theming.
 
 **The city.** [New Squishnesta](../Lore/New%20Squishnesta.md): a techno-magical metropolis fed by
 floating freight trains, smelling faintly of bubblegum, governed by the
@@ -28,10 +28,11 @@ schools than others. See [Magic System](../Lore/Magic%20System.md).
 because she is a rebel. A half-giant enforcer the College built to
 cancel magic, who came out a person instead. A paladin of a dead
 priest, wearing his ashes, whose luck is decided by a die he never
-sees. A Forest Fae alchemist with a gas rig and five squirrels. They
-met in a tavern, took an errand for a Munchkin named [Finnegan](../NPC%20Sheets/Seamus.md), and are
-now friends of a crime family and owed a man they sold. See
-[the session logs](../Sessions/Session%20One.md).
+sees. A Forest Fae alchemist with a gas rig and five squirrels. A
+high-elf wizard on a five-year clock, casting through a rune-cut lens
+so the magic does not spend her. They met in a tavern and took an
+errand for a Munchkin named [Finnegan](../NPC%20Sheets/Seamus.md). The rest is in
+[the session logs](../Sessions/Session%20Zero.md).
 
 **How it plays.** Six stats, six dice, one of each: Prowess,
 Constitution, Intelligence, Wisdom, Charisma, Instinct. Roll the stat's
@@ -40,8 +41,3 @@ check and take a Determination Token; spend tokens for +1 each, after
 you see the roll. Alignment with people and factions is tracked, is
 asymmetric, and changes what you can talk your way into. Combat is by
 zones, not feet. See [Questing Time! Mechanics](../Mechanics/Questing%20Time!%20Mechanics.md).
-
-**What this vault is.** The public copy of the GM's notes: the rules,
-the lore the table has met, and a log of each session. Secrets stay
-with the GM. If something you know from the table is not here yet, it
-is coming.

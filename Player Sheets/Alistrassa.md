@@ -3,7 +3,7 @@ description: Character sheet for Alistrassa, Athena's high-elf wizard — a karm
 tags: [player-reference, magic-system]
 ---
 
-**High Elf · she/her (pending Athena's word) · Wizard — [Restoration](../Lore/Places/Restoration.md)'s karmic-restoration desk at [The College of Mages](../Lore/The%20College%20of%20Mages.md) · "Alice"**
+**High Elf · she/her · Wizard — [Restoration](../Lore/Places/Restoration.md)'s karmic-restoration desk at [The College of Mages](../Lore/The%20College%20of%20Mages.md) · "Alice"**
 
 **Player:** Athena
 
@@ -56,17 +56,17 @@ A six-foot high elf in robes who walked into the College on her first day and we
 - ***Order from Chaos*:** a popular account of the Order of Beings and how karma moves, from the Silvan Romantic Period. It reads like early natural philosophy, and it is still the standard introduction.
 
 **Blunderbuss** — one of [Iter](../Player%20Sheets/Iter%20Bravus.md)'s two, from [the depot](../Lore/Places/The%20Red%20Line%20Depot.md). She is not sure which end goes where.
-**A cloak**, runed by Penny against physical harm, on [the College](../Lore/The%20College%20of%20Mages.md) account. It drops any physical hit on her one Health step, as armour does. No roll.
+**A cloak**, runed by Penny against physical harm, on [the College](../Lore/The%20College%20of%20Mages.md) account. Abjurative runes add a D10 to her Constitution rolls against physical attacks.
 
 ## ALIGNMENT
 
 | Toward | Tier | Since |
 | --- | --- | --- |
-| Snarfa | Aligned | the side session (2026-09-06) |
-| [The College of Mages](../Lore/Factions.md#the-college-of-mages) | Aligned (employed, Restoration) | the side session |
+| [Snarfa](../NPC%20Sheets/Snarfa.md) | Aligned | the side session (2026-09-06) |
+| [The College of Mages](../Lore/Factions.md#the-college-of-mages) | Aligned (employed, [Restoration](../Lore/Places/Restoration.md)) | the side session |
 | The party | Neutral (both ways) | Session Two (2026-09-09) |
-| Lark | Neutral | Session Six |
-| Ember | Neutral | Session Six |
+| [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) | Neutral | Session Six |
+| [Ember](../Player%20Sheets/Ember%20Spanner.md) | Neutral | Session Six |
 
 ## FACTION
 
