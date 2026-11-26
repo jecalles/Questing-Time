@@ -44,7 +44,7 @@ Most small towns hold one; a city may hold several. Anyone can pin a flyer; no i
 
 # The Sharp Forest
 
-At [the Shire](../Lore/Places/Squishnestashire.md)'s edge: dense forest and bog, sparsely peopled at its perimeter and not at all deep in, where huge silicon monoliths innervated by trees and mycelium hum and glow. The name comes from the bite of the vegetation, not the silicon. Home to the Druids of the Forest, the Forest Fae of Razor's Edge, and the Anachrons — silicon automata that guard what they were built to guard. The Unseelie Fey are pushing in from a domain of their own elsewhere. [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) is from here; so, in a sense she does not fully understand, is her magic. Full entry: [Sharp Forest](../Lore/Sharp%20Forest.md).
+At [the Shire](../Lore/Places/Squishnestashire.md)'s edge: dense forest and bog, sparsely peopled at its perimeter and not at all deep in, where huge silicon monoliths innervated by trees and mycelium hum and glow. The name comes from the bite of the vegetation, not the silicon. Home to the Druids of the Forest, the Forest Fae of Razor's Edge, and the Anachrons — silicon automata that guard what they were built to guard. [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) is from here; so, in a sense she does not fully understand, is her magic. Full entry: [Sharp Forest](../Lore/Sharp%20Forest.md).
 
 Same continent as [the City](../Lore/New%20Squishnesta.md), deeper in. If the City is western Europe running out to its coast, the Forest is the steppe gone to forest: not arid but sunken and green, more humid the further in, with deep rivers and tributaries running every way.
 

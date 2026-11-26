@@ -15,9 +15,9 @@ Use this to decide where you're from, who you know, why you read the questing bo
 
 **[Sharp Forest](../Lore/Sharp%20Forest.md)** — a distant forest and bogland, named for the density and bite of its vegetation. Only its perimeter is settled, and sparsely. The Druids keep it, and they don't encourage visitors. Travelers' tales say the forest itself is alive, in a slow and creeping way — and that deep inside, where only the Wild ones live, there are humming stones and clockwork things older than anyone can name. Nobody who repeats these tales has seen any of it firsthand.
 
-**The lands beyond** — the world is larger than the City and the Shire, but common folk know little of it. Folk say the dead go somewhere — past the River Styx, the stories claim, though no map shows the way. Now and then a stranger turns up in the City — an Orc, a Drau, one of the walking dead, even an infernal — living proof that other lands exist. Few can say where they hail from, and the strangers rarely volunteer it. Everyone knows there's a war on somewhere, and nobody can tell you against whom.
+**The lands beyond** — the world is larger than the City and the Shire, but common folk know little of it. Folk say the dead go somewhere — past the River Styx, the stories claim, though no map shows the way. Now and then a stranger turns up in the City — a Drau, one of the walking dead, even an infernal — living proof that other lands exist. Few can say where they hail from, and the strangers rarely volunteer it. Everyone knows there's a war on somewhere, and nobody can tell you against whom.
 
-*Playing an Orc, Drau, Undead, Devil, or Demon? Your character knows their own homeland — more than this page tells. Work out those details with your GM.*
+*Playing a Drau, Undead, Devil, or Demon? Your character knows their own homeland — more than this page tells. Work out those details with your GM.*
 
 # Races
 
@@ -32,8 +32,6 @@ Each character holds one die of each size: D20, D12, D10, D8, D6, D4. You assign
 **Fey (Seelie)** — Trickster spirits and faeries. [Faerie's Grace](../Mechanics/Abilities.md#faeries-grace), [Trickster](../Mechanics/Abilities.md#trickster), [Ancient Instinct](../Mechanics/Abilities.md#ancient-instinct).
 
 **The Undead** — Ghouls, zombies, ghosts. Playing one? Ask your GM what your racial ability does.
-
-**Orcs** — Big, hairy, and misunderstood.
 
 **Drau** — A cave people, and opportunistic colonizers. Streetsmart and worldly next to the kin they left behind. [Night Vision](../Mechanics/Abilities.md#night-vision).
 

@@ -18,7 +18,6 @@ These are the default blocks for **any** character of a given race — player ch
 | [Humans](#humans)                    | D10     | D20          | D6           | D4     | D12      | D8       | [New Squishnesta](../Lore/New%20Squishnesta.md)  |                               |
 | [Fey (Seelie)](#fey-seelie)              | D20     | D4           | D6           | D8     | D12      | D10      | [New Squishnesta](../Lore/New%20Squishnesta.md)  | Faerie's Grace; Trickster; Ancient Instinct |
 | The Undead | D10 | D4 | D6 | D20 | D8 | D12 | | |
-| Orcs | D20 | D12 | D4 | D10 | D8 | D6 | | |
 | [Drau](#drau)                      | D4      | D6           | D10          | D12    | D8       | D20      | [the UKaves](../Lore/Places/The%20UKaves.md) | Night Vision                  |
 | Devils | D4 | D8 | D12 | D6 | D20 | D10 | | Ancient Instinct |
 | Demons | D20 | D10 | D6 | D12 | D4 | D8 | | Ancient Instinct |

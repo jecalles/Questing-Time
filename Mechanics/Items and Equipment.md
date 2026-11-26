@@ -47,7 +47,7 @@ Holder: [Iter Bravus](../Player%20Sheets/Iter%20Bravus.md).
 
 A modular rucksack built around Lark's gas-based alchemy. A thin backplate on the outside holds her active canister — ornate glass vacuum-tube vials with valve tops, roughly half a liter to a liter, swapped in and out like a magazine. Spare canisters ride inside the pack. Two hoses run off it with switchable nozzles: one setting to spray a crowd, one to inhale personally. Can be pre-loaded with multiple charges ahead of a fight.
 
-**Form.** Built like a photographer's bag — many compartments, attachments added and removed as needed. The gas tank mounts on the front or in its own compartment; her tent (below) rolls into the bottom. The material is a mushroom/mycelial leather, possibly living. It may be expandable on the inside through her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions.md#razors-edge)) if her inventory outgrows it — the same principle as the tent.
+**Form.** Built like a photographer's bag — many compartments, attachments added and removed as needed. The gas tank mounts on the front or in its own compartment; her tent (below) rolls into the bottom. The material is a mushroom/mycelial leather, possibly living. It may be expandable on the inside through her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions/The%20Forest%20Fae.md#razors-edge)) if her inventory outgrows it — the same principle as the tent.
 
 **Delivery beyond the rig.** Lark can also throw or place her mixes without it: Molotov-style glass bottles with a rag wick (powder worked into a liquid), leaf packets tied with grass and a tree-sap wick, small satchels, or bone vials. Improvised per fight, not fixed gear.
 
@@ -57,7 +57,7 @@ Holder: [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md).
 
 ## Lark's Tent
 
-A shelter that is magically larger on the inside — currently one small room, empty, upgradable. From outside it looks and packs like an ordinary tent, and it rolls into the bottom of her gas rig. The larger-inside space comes from her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions.md#razors-edge)).
+A shelter that is magically larger on the inside — currently one small room, empty, upgradable. From outside it looks and packs like an ordinary tent, and it rolls into the bottom of her gas rig. The larger-inside space comes from her people's smart-material transmutation (see [Razor's Edge](../Lore/Factions/The%20Forest%20Fae.md#razors-edge)).
 
 **Safe-room use.** It counts as a safe rest space only where pitching a tent is actually reasonable. In combat an enemy can climb in or attack it like any tent — it grants no hiding exploit. Upgrades are open; a localised alchemy station inside was floated as one path.
 

@@ -99,7 +99,7 @@ See [Abilities](../Mechanics/Abilities.md) for full entries.
 
 ## FACTION
 
-**Razor's Edge** — her faction; **Forest Fae** her people: the Fae of the [Sharp Forest](../Lore/Sharp%20Forest.md), who keep no court and move through it on a seasonal cycle, named for a cliff face at the far edge of their old range. Independent of both the Seelie and Unseelie Courts. "The Roux of Razor's Edge" are diplomats. See [Razor's Edge](../Lore/Factions.md#razors-edge).
+**Razor's Edge** — her faction; **Forest Fae** her people: the Fae of the [Sharp Forest](../Lore/Sharp%20Forest.md), who keep no court and move through it on a seasonal cycle, named for a cliff face at the far edge of their old range. Independent of both the Seelie and Unseelie Courts. "The Roux of Razor's Edge" are diplomats. See [Razor's Edge](../Lore/Factions/The%20Forest%20Fae.md#razors-edge).
 
 ---
 

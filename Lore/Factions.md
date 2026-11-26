@@ -25,9 +25,9 @@ A Current Move that outgrows its entry becomes its own page.
 | [The Homesteaders](#the-homesteaders)            | [Squishnestashire](../Lore/Places/Squishnestashire.md)      | Local                        | TBD                                       |
 | [The Merchants' Guild](#the-merchants-guild)        | [New Squishnesta](../Lore/New%20Squishnesta.md)   | Local                        | TBD                                       |
 | [The Mechanics Guild](#the-mechanics-guild)         | [New Squishnesta](../Lore/New%20Squishnesta.md)   | Local                        | TBD                                       |
-| [The Druids of the Forest](#the-druids-of-the-forest)    | [Sharp Forest](../Lore/Sharp%20Forest.md)      | Local                        | TBD                                       |
-| [The Unseelie Fey](#the-unseelie-fey)            | Pandemonium, in the Feywild | Expanding into [Sharp Forest](../Lore/Sharp%20Forest.md) | Pushing into the Forest, toward the silicon |
-| [Razor's Edge](#razors-edge)                | [Sharp Forest](../Lore/Sharp%20Forest.md)      | Local                        | TBD                                       |
+| [The Druids of the Forest](../Lore/Factions/The%20Forest%20Fae.md#the-druids-of-the-forest)    | [Sharp Forest](../Lore/Sharp%20Forest.md)      | Local                        | TBD                                       |
+| [The Unseelie Fey](#the-unseelie-fey)            | Pandemonium, in the Feywild | TBD | TBD |
+| [Razor's Edge](../Lore/Factions/The%20Forest%20Fae.md#razors-edge)                | [Sharp Forest](../Lore/Sharp%20Forest.md)      | Local                        | TBD                                       |
 | [The Anachrons](#the-anachrons)               | [Sharp Forest](../Lore/Sharp%20Forest.md)      | Local                        | TBD                                       |
 
 # New Squishnesta
@@ -181,40 +181,11 @@ The fifth family: the **old money**, and the one that faces outward. Their deeds
 
 ## The Druids of the Forest
 
-Keepers of the [Sharp Forest](../Lore/Sharp%20Forest.md) and its natural denizens. The environment itself has sentience, at a slow and creeping pace. Their Chaotic Good alignment tempers the Lawful Neutral energy of the technology they symbiose with.
-
-- **Wants**: keep the Forest whole.
-- **Fronts**: the Forest interior.
-- **Assets**: Gifted magic ([Gifted Channel](../Mechanics/Abilities.md#gifted-channel)). Stat blocks TBD.
-- **Clues**: TBD.
-- **Current Move**: TBD.
-
-## The Unseelie Fey
-
-The Court of the Unseelie have long known the magics of this land — if not their origin, then at least their effect. The Seelie know the land exists. They do not know it matters. The Unseelie mean to keep it that way.
-
-They are Dark Fae of the Unseelie Court, whose seat is **Pandemonium** in the [Feywild](../Lore/Magic%20System.md#the-feywild) — and, like every Fae but one, they live half there and half here. What they have in the [Sharp Forest](../Lore/Sharp%20Forest.md) is a push, not a home. The Forest's own Fae are [Razor's Edge](#razors-edge), who keep no court, are no kin of theirs, and are the only Fae people who live wholly on Gaia.
-
-- **Wants**: keep the Forest's importance secret from the Seelie.
-- **Fronts**: Pandemonium, their seat in the [Feywild](../Lore/Magic%20System.md#the-feywild); the [Sharp Forest](../Lore/Sharp%20Forest.md), where the expansion is pushing in. The Well ([New Squishnesta](../Lore/New%20Squishnesta.md)) is confirmed as a contact point — but for **all** Fae, Seelie included, not an Unseelie-only channel. It leads toward both the Seelie Court and the Unseelie Court, and more broadly into the Feywild.
-- **Assets**: stat blocks TBD. Distinct from [Fey (Seelie)](../Mechanics/Stat%20Blocks.md#fey-seelie).
-- **Clues**: TBD.
+A role among the Forest Fae. See [The Druids of the Forest](../Lore/Factions/The%20Forest%20Fae.md#the-druids-of-the-forest).
 
 ## Razor's Edge
 
-Lark's people. They are **Forest Fae** — the Fae of the [Sharp Forest](../Lore/Sharp%20Forest.md), who keep no court — and Razor's Edge is their faction. Alone among the Fae they live wholly on Gaia, with no second residence in the [Feywild](../Lore/Magic%20System.md#the-feywild); they return there only when they die. They are named for that edge: they are constantly on the razor's edge of magic, and well aware of the thin line between life and death. They move through the Forest on a calendar that shifts with the seasons. Over generations, as separate communities merged, their migration loop has pulled inward — a smaller and smaller pattern, further each generation from the outer Forest.
-
-They take the name from **the Razor's Edge itself** — a large cliff face at the far inner edge of that old range, toward the silicon interior, where the land drops away in thin waterfalls, roughly 1,000 feet down into a fine mist. It was a seasonal gathering ground, its rim wide enough to hold whole congresses. The loop has since pulled inward and almost no one travels that far out now. Lark camped there alone as a child and saw things she did not yet understand.
-
-Explicitly unaligned with either the Seelie Court or the Unseelie Court — membership runs by people and region, not by court politics — and holds its own internal politics and infighting, unspecified. They are not a splinter of either, and no kin of [the Unseelie](#the-unseelie-fey), who are Dark Fae from another domain, pushing in. Lark's parents work as traveling ambassador-diplomats between the two Courts and the region's cities, and her own nomadic, knowledge-sharing streak comes straight from them. The people are also known for a "smart material" — silica and rare metals worked with space-bending transmutation magic into a fabric that is very strong, very thin, very warm, and velvet-soft — made through a craft tradition split area by area across the bands.
-
-**A Razor's Edge Fae can be patroned by the [Sharp Forest](../Lore/Sharp%20Forest.md) without being a Druid of the Forest.** [Lark](../Player%20Sheets/Lark%20Myca%20Roux.md) is: the Forest chooses her tattoos and delegates her gas-and-powder magic, the same channel it uses for [the Druids](#the-druids-of-the-forest). See [Aspects and the Non-Illuminated](../Lore/Magic%20System.md#aspects-and-the-non-illuminated).
-
-- **Wants**: TBD.
-- **Fronts**: the nomadic bands moving through the Forest's middle ring; the Razor's Edge cliff itself, now rarely visited.
-- **Assets**: Lark's family; the "smart material" craft tradition; a Forest-delegated Gifted line (via Lark). The Forest Fae block is unwritten, and it is theirs, not the Unseelie's.
-- **Clues**: TBD.
-- **Current Move**: TBD.
+The faction of the Forest Fae. See [Razor's Edge](../Lore/Factions/The%20Forest%20Fae.md#razors-edge).
 
 ## The Anachrons
 
@@ -225,6 +196,18 @@ Silicon automata imbued with the vibrance of the Forest, but with no connection 
 - **Wants**: nothing, properly speaking — see above. What they do traces to their original programming, not a goal.
 - **Fronts**: the deep Forest. The monoliths.
 - **Assets**: Chronomancy, unconfirmed. Stat blocks TBD.
+- **Clues**: TBD.
+- **Current Move**: TBD.
+
+# The Feywild
+
+## The Unseelie Fey
+
+They are Dark Fae of the Unseelie Court, whose seat is **Pandemonium** in the [Feywild](../Lore/Magic%20System.md#the-feywild) — and, like every Fae but one, they live half there and half here. The Forest's own Fae are [Razor's Edge](../Lore/Factions/The%20Forest%20Fae.md#razors-edge), who keep no court, are no kin of theirs, and are the only Fae people who live wholly on Gaia.
+
+- **Wants**: TBD.
+- **Fronts**: Pandemonium, their seat in the [Feywild](../Lore/Magic%20System.md#the-feywild). The Well ([New Squishnesta](../Lore/New%20Squishnesta.md)) is confirmed as a contact point — but for **all** Fae, Seelie included, not an Unseelie-only channel. It leads toward both the Seelie Court and the Unseelie Court, and more broadly into the Feywild.
+- **Assets**: stat blocks TBD. Distinct from [Fey (Seelie)](../Mechanics/Stat%20Blocks.md#fey-seelie).
 - **Clues**: TBD.
 - **Current Move**: TBD.
 

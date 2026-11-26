@@ -22,7 +22,7 @@ Finnegan had gone to the tavern in [Hamlet](../Lore/Places/Hamlet.md), but traff
 waylaid everybody, and in the crowd the man had slipped away, and the
 envelope with him. Finnegan was very small, sir. Slippery. Thornbush
 looked at him for a long time and concluded that Pudge would never tell
-a lie. He took off his half-moon spectacles and rubbed his forehead.
+a lie. He took off his round spectacles and rubbed his forehead.
 This was, he said, precisely the only set of outcomes he had not
 prepared for. He took a small wrinkled worm out of his drawer, did
 nothing with it, and put it back. Then he gave the order, and gave it
